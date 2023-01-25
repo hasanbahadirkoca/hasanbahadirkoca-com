@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Code 128 Generator</title>
+    <link rel="manifest" href="/manifest.json">
+
+    <script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.5/dist/JsBarcode.all.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        // check browser language
+        var lang = navigator.language || navigator.userLanguage;
+        if (lang === "tr") {
+          // translate page to Turkish
+          $("h1").text("Kod 128 Üreteci");
+          $("#inputLabel").text("Metin Girin:");
+          $("#generateBtn").val("Oluştur");
+        }
+        $("#generateBtn").click(function () {
+          //generate barcode
+          JsBarcode("#barcode", $("#input").val(), {
+            format: "code128",
+            lineColor: "#000000",
+            width: 2,
+            height: 100,
+            displayValue: true,
+          });
+        });
+      });
+    </script>
+    <style>
+      div#center {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center; /* center align elements inside div */
+      }
+
+      body {
+        background-color: #f5f5f5; /* add background color */
+      }
+
+      h1 {
+        font-size: 3em; /* increase font size */
+        margin-bottom: 1em; /* add margin bottom */
+      }
+
+      input[type="text"] {
+        padding: 0.5em; /* add padding */
+        font-size: 1.5em; /* increase font size */
+        width: 50%; /* set width */
+        margin-bottom: 1em; /* add margin bottom */
+      }
+
+      input[type="button"] {
+        padding: 0.5em 1em; /* add padding */
+        font-size: 1.5em; /* increase font size */
+        background-color: #007bff; /* add background color */
+        color: #ffffff; /* change text color */
+        border: none; /* remove border */
+        cursor: pointer; /* change cursor */
+      }
+
+      input[type="button"]:hover {
+        background-color: #0056b3; /* change background color on hover */
+      }
+    </style>
+  </head>
+  <body>
+    <div id="center">
+      <h1>Code 128 Generator</h1>
+      <label id="inputLabel">Enter Text: </label>
+      <input
+        type="text"
+        id="input"
+        pattern="[\x20-\x7E]*"
+        title="ASCII Characters only"
+      />
+      <br /><br />
+      <input type="button" id="generateBtn" value="Generate" />
+      <br /><br />
+      <svg id="barcode"></svg>
+    </div>
+
+    <script>
+      var lang = navigator.language || navigator.userLanguage;
+      // If lang includes "tr" then translate page to Turkish
+      if (lang.includes("tr")) {
+        // translate page to Turkish
+        document.getElementById("generateBtn").value = "Oluştur";
+        document.getElementById("inputLabel").innerHTML = "Metin Girin: ";
+        document
+          .getElementById("center")
+          .getElementsByTagName("h1")[0].innerHTML = "Kod 128 Oluşturucu";
+      }
+    </script>
+  </body>
+</html>

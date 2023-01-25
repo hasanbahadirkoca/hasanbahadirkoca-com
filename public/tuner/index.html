@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <title>Online Tuner</title>
+    <link rel="stylesheet" href="https://hasanbahadirkoca.com/tuner/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+
+<body>
+    <!--Tuner Logo-->
+    <a href="https://github.com/hasanbahadirkoca/tuner" target="blank"><img class="tuner-logo" src="https://hasanbahadirkoca.com/tuner/tuner.png" alt="Tuner Logo"></a>
+
+    <!--Piano Logo
+    <a href="https://hasanbahadirkoca.com/piano" target="blank"><img class="piano-icon" src="https://hasanbahadirkoca.com/tuner/piano-icon.png" alt="Piano Icon"></a>
+    -->
+
+    <!-- Plus & Minus -->
+    <div class="">
+        <span class="minus">-</span>
+        <canvas class="frequency-bars"></canvas>
+        <span class="plus">+</span>
+    </div>
+    <!------------------>
+
+    <div class="meter">
+        <div class="meter-dot color-change"></div>
+        <div class="meter-pointer color-change" id="meter-pointer"></div>
+    </div>
+    <div class="notes">
+        <div class="notes-list"></div>
+        <div class="frequency"> <span>Hz</span></div>
+    </div>
+    <div class="a4">A<sub>4</sub> = <span>440</span> Hz</div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    <script src="https://hasanbahadirkoca.com/tuner/aubio.js"></script>
+    <script src="https://hasanbahadirkoca.com/tuner/tuner.js"></script>
+    <script src="https://hasanbahadirkoca.com/tuner/meter.js"></script>
+    <script src="https://hasanbahadirkoca.com/tuner/frequency-bars.js"></script>
+    <script src="https://hasanbahadirkoca.com/tuner/notes.js"></script>
+    <script src="https://hasanbahadirkoca.com/tuner/app.js"></script>
+    <script src="https://hasanbahadirkoca.com/tuner/color-change.js"></script>
+</body>
+
+</html>
