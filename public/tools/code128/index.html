@@ -77,6 +77,13 @@
           $("h1").text("Kod 128 Oluşturucu");
           $("#inputLabel").text("Metin Girin:");
           $("#generateBtn").val("Oluştur");
+
+          // Change title
+          document.title = "Kod 128 Oluşturucu";
+
+          // change manifest file
+          var link = document.querySelector("link[rel='manifest']");
+          link.setAttribute("href", "manifest-tr.json");
         }
         $("#generateBtn").click(function () {
           //generate barcode
@@ -87,9 +94,6 @@
             height: 60,
             displayValue: true,
           });
-          // change manifest file for Turkish
-          var link = document.querySelector("link[rel='manifest']");
-          link.setAttribute("href", "manifest-tr.json");
         });
       });
     </script>
