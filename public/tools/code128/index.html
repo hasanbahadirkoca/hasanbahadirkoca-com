@@ -10,28 +10,7 @@
     />
     <script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.5/dist/JsBarcode.all.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script>
-      $(document).ready(function () {
-        // check browser language
-        var lang = navigator.language || navigator.userLanguage;
-        if (lang === "tr") {
-          // translate page to Turkish
-          $("h1").text("Kod 128 Üreteci");
-          $("#inputLabel").text("Metin Girin:");
-          $("#generateBtn").val("Oluştur");
-        }
-        $("#generateBtn").click(function () {
-          //generate barcode
-          JsBarcode("#barcode", $("#input").val(), {
-            format: "code128",
-            lineColor: "#000000",
-            width: 2,
-            height: 100,
-            displayValue: true,
-          });
-        });
-      });
-    </script>
+
     <style>
       div#center {
         position: absolute;
@@ -43,6 +22,8 @@
 
       body {
         background-color: #f5f5f5; /* add background color */
+        font-family: Arial, Helvetica, sans-serif; /* change font family */
+        font-weight: 500;
       }
 
       h1 {
@@ -74,7 +55,7 @@
   <body>
     <div id="center">
       <h1>Code 128 Generator</h1>
-      <label id="inputLabel">Enter Text: </label>
+      <h2 id="inputLabel">Enter Text: </h2>
       <input
         type="text"
         id="input"
@@ -88,20 +69,29 @@
     </div>
 
     <script>
-      var lang = navigator.language || navigator.userLanguage;
-      // If lang includes "tr" then translate page to Turkish
-      if (lang.includes("tr")) {
-        // translate page to Turkish
-        document.getElementById("generateBtn").value = "Oluştur";
-        document.getElementById("inputLabel").innerHTML = "Metin Girin: ";
-        document
-          .getElementById("center")
-          .getElementsByTagName("h1")[0].innerHTML = "Kod 128 Oluşturucu";
-
-        // change manifest file for Turkish
-        var link = document.querySelector("link[rel='manifest']");
-        link.setAttribute("href", "manifest-tr.json");
-      }
+      $(document).ready(function () {
+        // check browser language
+        var lang = navigator.language || navigator.userLanguage;
+        if (lang.includes("tr")) {
+          // translate page to Turkish
+          $("h1").text("Kod 128 Oluşturucu");
+          $("#inputLabel").text("Metin Girin:");
+          $("#generateBtn").val("Oluştur");
+        }
+        $("#generateBtn").click(function () {
+          //generate barcode
+          JsBarcode("#barcode", $("#input").val(), {
+            format: "code128",
+            lineColor: "#000000",
+            width: 2,
+            height: 60,
+            displayValue: true,
+          });
+          // change manifest file for Turkish
+          var link = document.querySelector("link[rel='manifest']");
+          link.setAttribute("href", "manifest-tr.json");
+        });
+      });
     </script>
   </body>
 </html>
