@@ -52,12 +52,34 @@
       input[type="button"]:hover {
         background-color: #0056b3; /* change background color on hover */
       }
+
+      button:hover {
+        --button-background-color: #0056b3;
+        --button-color: #fff;
+      }
+
+      button:active {
+        --button-background-color: #003980;
+      }
+
+      button {
+        background-color: var(--button-background-color, #007bff);
+        color: var(--button-color, #fff);
+        padding: 0.5em 1em;
+        font-size: 1.5em;
+        border: none;
+        cursor: pointer;
+        border-radius: 0.5em;
+        box-shadow: 0px 0px 5px #888888;
+        transition: background-color 0.3s ease;
+        --webkit-appearance: none; /* remove default button style in iOS */
+      }
     </style>
   </head>
   <body>
     <div id="center">
       <h1>Code 128 Generator</h1>
-      <h2 id="inputLabel">Enter Text: </h2>
+      <h2 id="inputLabel">Enter Text:</h2>
       <input
         type="text"
         id="input"
