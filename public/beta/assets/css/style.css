@@ -1,0 +1,170 @@
+/* Reset CSS */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+/* Header Section */
+.header {
+  position: relative;
+  height: 100vh;
+  padding: 0 12%;
+  overflow: hidden;
+}
+
+.header::before {
+  content: "";
+  background-image: url("../img/header-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: center center;
+  animation: zoom-out 3s ease-in-out;
+  z-index: -1;
+}
+
+@keyframes zoom-out {
+  0% {
+    transform: scale(1.3);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.header-content {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.header-image {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.header-image img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.header-text {
+  width: 30%;
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: right;
+  color: rgb(216, 216, 216);
+}
+
+.header-text h1 {
+  width: 100%;
+  margin: 10px 0;
+  font-size: 5rem;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.header-text h2 {
+  width: 100%;
+  margin: 10px 0;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+@media only screen and (max-width: 768px) {
+  .header-content {
+    flex-direction: column;
+  }
+  .header-image {
+    width: 100%;
+    height: auto;
+    order: 2;
+  }
+  .header-text {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    order: 1;
+  }
+}
+
+/* About Section */
+.about {
+  background-color: rgb(240, 240, 240);
+}
+
+.about-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5rem 16%;
+}
+
+.about-image {
+  width: 50%;
+}
+
+.about-image img {
+  width: 100%;
+  border-radius: 25px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s;
+}
+
+.about-image img:hover {
+  transform: scale(1.02);
+}
+
+.about-text {
+  color: #242424;
+  width: 50%;
+  margin-right: 3rem;
+}
+
+.about-text h2 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.about-text p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.read-more-btn {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: blue;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 25px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .about {
+    background-color: #242424;
+  }
+  .about-text {
+    color: #fff;
+  }
+}
