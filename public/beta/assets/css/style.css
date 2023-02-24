@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #333;
@@ -91,6 +91,11 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
+  .header {
+    padding: 0 2%;
+    height: 120vh;
+    padding-top: 5rem;
+  }
   .header-content {
     flex-direction: column;
   }
@@ -107,64 +112,101 @@ body {
   }
 }
 
-/* About Section */
-.about {
+/* double Section */
+.double {
   background-color: rgb(240, 240, 240);
 }
 
-.about-content {
+.double-content {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 5rem 16%;
 }
 
-.about-image {
+.double-image {
   width: 50%;
 }
 
-.about-image img {
+.double-image img {
   width: 100%;
-  border-radius: 25px;
+  border-radius: 15px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   transition: transform 0.3s;
 }
 
-.about-image img:hover {
+.double-image img:hover {
   transform: scale(1.02);
 }
 
-.about-text {
+.double-text {
   color: #242424;
   width: 50%;
-  margin-right: 3rem;
+  margin: 0 3rem;
 }
 
-.about-text h2 {
+.double-text h2 {
   font-size: 3rem;
   margin-bottom: 1rem;
 }
 
-.about-text p {
+.double-text p {
   font-size: 1.2rem;
   margin-bottom: 2rem;
 }
 
-.read-more-btn {
+.reverse {
+  flex-direction: row-reverse;
+}
+
+.more-btn {
   display: inline-block;
   padding: 1rem 2rem;
+  background-color: transparent;
+  color: blue;
+  border: 2px solid blue;
+  text-decoration: none;
+  border-radius: 30px;
+}
+
+.more-btn:hover {
   background-color: blue;
   color: #fff;
-  text-transform: uppercase;
-  text-decoration: none;
-  border-radius: 25px;
+}
+
+@media only screen and (max-width: 768px) {
+  .double-content {
+    flex-direction: column;
+    padding:  3rem 8%;
+  }
+  .double-image {
+    width: 100%;
+    order: 2;
+  }
+  .double-text {
+    width: 100%;
+    margin-bottom: 3rem;
+    order: 1;
+  }
+  .more-btn {
+    display: block;
+    text-align: center;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
-  .about {
+  .section {
     background-color: #242424;
   }
-  .about-text {
+  .double-text {
     color: #fff;
+  }
+  .more-btn {
+    color: #fff;
+    border: 2px solid #fff;
+  }
+  .more-btn:hover {
+    background-color: #fff;
+    color: #242424;
   }
 }
