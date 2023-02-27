@@ -2,10 +2,27 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #333;
+}
+
+/* Left Bar Section */
+.left-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  z-index: 999;
+}
+
+.svg-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  overflow: hidden;
 }
 
 /* Header Section */
@@ -177,7 +194,7 @@ body {
 @media only screen and (max-width: 768px) {
   .double-content {
     flex-direction: column;
-    padding:  3rem 8%;
+    padding: 3rem 8%;
   }
   .double-image {
     width: 100%;
@@ -208,5 +225,63 @@ body {
   .more-btn:hover {
     background-color: #fff;
     color: #242424;
+  }
+}
+
+/* Footer Section */
+footer {
+  background-image: url("../img/footer-bg.jpg");
+  background-color: #1d60b3;
+  background-size: cover;
+  background-position: center;
+  padding: 5rem 12%;
+  color: #fff;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-icons a svg {
+  display: inline-block;
+  margin: 0 1rem;
+  font-size: 2rem;
+  color: #fff;
+  transition: transform 0.3s;
+  width: 2rem;
+  height: 2rem;
+}
+
+.social-icons a:hover {
+  transform: scale(1.2);
+}
+
+.email {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.email a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.barcode {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.barcode svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media only screen and (max-width: 768px) {
+  footer {
+    padding: 3rem 8%;
   }
 }
