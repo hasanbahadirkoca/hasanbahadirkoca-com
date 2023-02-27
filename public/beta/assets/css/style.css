@@ -67,13 +67,17 @@ body {
   justify-content: space-between;
   align-items: flex-end;
 }
-
 .header-image {
   width: 50%;
   height: 100%;
+}
+
+.header-image picture {
+  width: 100%;
+  height: 100%;
   display: flex;
-  flex-direction: column;
   justify-content: flex-end;
+  align-items: flex-end;
 }
 
 .header-image img {
@@ -149,6 +153,7 @@ body {
 
 .double-image img {
   width: 100%;
+  height: auto;
   border-radius: 15px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   transition: transform 0.3s;
