@@ -1,254 +1,10 @@
-var karisik = [
-  "KAPI",
-  "PENCERE",
-  "DUVAR",
-  "TABLO",
-  "SANDALYE",
-  "KOLTUK",
-  "MASA",
-  "KALEM",
-  "DEFTER",
-  "KITAP",
-  "KAMERA",
-  "TELEFON",
-  "TELEVIZYON",
-  "BILGISAYAR",
-  "KLAVYE",
-  "FARE",
-  "MONITOR",
-  "HOPARLOR",
-  "MIKROFON",
-  "KULAKLIK",
-  "YASTIK",
-  "BATTANIYE",
-  "PERDE",
-  "HALI",
-  "AYNALIK",
-  "ASKI",
-  "CEKMECE",
-  "SEPET",
-  "MUTFAK",
-  "BANYO",
-  "YATAK",
-  "YORGAN",
-  "MANTAR",
-  "BALIK",
-  "TAVUK",
-  "KOFTE",
-  "KAHVE",
-  "CAY",
-  "SEKER",
-  "TUZ",
-  "BIBER",
-  "LIMON",
-  "PORTAKAL",
-  "DOMATES",
-  "SALATALIK",
-  "PATATES",
-  "SOGAN",
-  "HAVUC",
-  "KIRMIZI",
-  "YESIL",
-  "SARI",
-  "SIYAH",
-  "BEYAZ",
-  "MAVI",
-  "KIRMIZI",
-  "TURUNCU",
-  "MOR",
-  "PEMBE",
-  "GRI",
-  "KAHVERENGI",
-  "ACIK",
-  "KAPALI",
-  "YUZUK",
-  "KOLYE",
-  "KUPE",
-  "SAAT",
-  "GOZLUK",
-  "KASK",
-  "TERLIK",
-  "CIZME",
-  "BOT",
-  "ATLET",
-  "TISORT",
-  "KAZAK",
-  "MONT",
-  "PANTOLON",
-  "ETEK",
-  "SORT",
-  "ELDIVEN",
-  "SACAK",
-  "FIRCA",
-  "SUNGER",
-  "SABUN",
-  "SIVI",
-  "SIVIYAG",
-  "TUZLU",
-  "TATLI",
-  "EKSI",
-  "PISIRMEK",
-  "KAVURMAK",
-  "YEMEK",
-  "ICMEK",
-  "UYUMAK",
-  "UZANMAK",
-  "KALKMAK",
-  "YURUMEK",
-  "KOSMAK",
-  "ZIPLAMAK",
-  "ATLAMAK",
-  "TIRMANMAK",
-  "DALMAK",
-  "CIKMAK",
-  "OTURMAK",
-  "AYAKTA",
-  "DURMAK",
-  "BAKMAK",
-  "DINLEMEK",
-  "KONUSMAK",
-  "OKUMAK",
-  "YAZMAK",
-  "CIZMEK",
-  "BOYAMAK",
-  "KESMEK",
-  "YAPISTIRMAK",
-  "KATLAMAK",
-  "OYUNCAK",
-  "TOP",
-  "YUZMEK",
-  "KAYMAK",
-  "KAR",
-  "YAGMUR",
-  "GUNES",
-  "AY",
-  "YILDIZ",
-  "BULUT",
-  "DENIZ",
-  "NEHIR",
-  "GOL",
-  "DAG",
-  "ORMAN",
-  "CICEK",
-  "AGAC",
-  "HAYVAN",
-  "KOPEK",
-  "KEDI",
-  "KUS",
-  "TAVSAN",
-  "KELEBEK",
-  "ARI",
-  "YILAN",
-  "ASLAN",
-  "ZEBRA",
-  "FIL",
-  "KANGURU",
-  "BALIKCI",
-  "YAZAR",
-  "SARKICI",
-  "OYUNCU",
-  "HAKEM",
-  "POLIS",
-  "DOKTOR",
-  "OGRETMEN",
-  "OGRENCI",
-  "KASIYER",
-  "GARSON",
-  "MUHENDIS",
-  "AVUKAT",
-  "SATICI",
-  "MUZISYEN",
-  "MIMAR",
-  "YAYINCI",
-  "YONETMEN",
-];
-var words = [
-  "KEDİ",
-  "KÖPEK",
-  "ASLAN",
-  "TAVŞAN",
-  "KUŞ",
-  "YILAN",
-  "FİL",
-  "ZEBRA",
-  "TİGİ",
-  "LEOPAR",
-  "SİVRİSİNEK",
-  "KARINCA",
-  "AĞUSTOSBÖCEĞİ",
-  "KELEBEK",
-  "HAMSİ",
-  "BÖCEK",
-  "CİVCİV",
-  "KURBAĞA",
-  "YENGEÇ",
-  "YARASA",
-  "BOA",
-  "KAMELEON",
-  "ATMACA",
-  "KARGA",
-  "PAPAĞAN",
-  "BÜLBÜL",
-  "TİLKİ",
-  "PENGUEN",
-  "GÜVERCİN",
-  "DENİZYILDIZI",
-  "TATLICAK",
-  "BALIKÇIL",
-  "FENERBALIĞI",
-  "MANDA",
-  "KARPUZ",
-  "HUMBAK",
-  "KUŞU",
-  "KANGURU",
-  "KAPLAN",
-  "ZÜRAFA",
-  "KÖSTEBEK",
-  "MAYMUN",
-  "AKREP",
-  "ZİRAFA",
-  "ALAKARGA",
-  "KUŞU",
-  "PENGUEN",
-  "TAVUK",
-  "KARTAL",
-  "TAVUSKUŞU",
-  "GÜVE",
-  "GÜVEYİ",
-  "KOYUN",
-  "KEÇİ",
-  "KANARYA",
-  "CİVANPERÇEMİ",
-  "PAPAĞAN",
-  "TİAVRU",
-  "SUSAMURU",
-  "SUKABUĞU",
-  "FENERBALIĞI",
-  "FİLLERBALIĞI",
-  "PAVYONBALIĞI",
-  "VATOZ",
-  "ISTAKOZ",
-  "BALONBALIĞI",
-  "SÜSBALIĞI",
-  "PİLİÇ",
-  "SULTANPAPAĞANI",
-  "GÜVERCİN",
-  "BALINA",
-  "ÇİZGİLİBALIK",
-  "KANCABALIĞI",
-  "HUMBAK",
-  "PENGUEN",
-  "RÜZGARGÜVERCİNİ",
-  "LEOPAR",
-  "MAYMUN",
-  "KOMODOEJDERİ",
-  "AKREP",
-  "KARTAL",
-  "KÖSTEBEK",
-  "KANGURU",
-  "DİNOZOR",
-  "KÖPEK",
-];
+// Read ./assets/json/wordlist.json and append it into words array
+var request = new XMLHttpRequest();
+request.open("GET", "./assets/json/wordlist.json", false);
+request.send(null);
+var words = JSON.parse(request.responseText);
+
+console.log(words);
 
 var currentWordIndex = 0;
 var attempts = 0;
@@ -260,9 +16,8 @@ function onStart() {
   updateDisplay();
   document.addEventListener("keyup", onGuess);
 }
-function onGuess(event) {
-  var keyPressed = event.key.replace(/i/g, "İ").toUpperCase();
-  console.log(keyPressed);
+function onGuess(character) {
+  var keyPressed = character.replace(/i/g, "İ").toUpperCase();
   if (isLetterOnly(keyPressed)) {
     if (guessedLetters.indexOf(keyPressed) === -1) {
       guessedLetters.push(keyPressed);
@@ -282,6 +37,12 @@ function onGuess(event) {
     }
   }
 }
+function onKeyPress(event) {
+  var character = String(event.key);
+  onGuess(character);
+}
+
+document.addEventListener("keypress", onKeyPress);
 
 function getGameboardWord() {
   return currentWordLetters().map(function (letter) {
@@ -345,7 +106,6 @@ function showGameBoard() {
   while (container.firstChild) {
     container.removeChild(container.firstChild);
   }
-  console.log(getGameboardWord());
   getGameboardWord().forEach(function (letter) {
     var newDiv = document.createElement("div");
     newDiv.setAttribute("class", "game_board_letter");
@@ -358,6 +118,7 @@ function showGameBoard() {
 }
 
 function currentWordLetters() {
+  console.info(words[currentWordIndex]);
   return words[currentWordIndex].split("");
 }
 
@@ -366,3 +127,14 @@ function getGuessesAllowed() {
 }
 
 onStart();
+
+function onLetterClick(letter) {
+  console.log(letter);
+  onGuess(letter);
+  disableLetter(letter);
+}
+
+function disableLetter(letter) {
+  var letterElement = document.querySelector('.letter[data-letter="' + letter + '"]');
+  letterElement.classList.add('disabled');
+}
