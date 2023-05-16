@@ -59,6 +59,7 @@ function goToNextWord() {
   attempts = 0;
   guessedLetters = [];
   updateDisplay();
+  setTimeout(enableAllLetters, 200);
 }
 
 function isRoundLost() {
@@ -135,6 +136,16 @@ function onLetterClick(letter) {
 }
 
 function disableLetter(letter) {
-  var letterElement = document.querySelector('.letter[data-letter="' + letter + '"]');
-  letterElement.classList.add('disabled');
+  var letterElement = document.querySelector(
+    '.letter[data-letter="' + letter + '"]'
+  );
+  letterElement.classList.add("disabled");
+}
+
+function enableAllLetters() {
+  var letterElements = document.querySelectorAll(".letter");
+  for (var i = 0; i < letterElements.length; i++) {
+    var letterElement = letterElements[i];
+    letterElement.classList.remove("disabled");
+  }
 }
