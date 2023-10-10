@@ -126,7 +126,7 @@ h6 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  text-align: right;
+  text-align: left;
 }
 .header-text h1 {
   font-size: 5rem;
@@ -139,7 +139,7 @@ h6 {
 .header-text h2 {
   width: 100%;
   margin: 10px 0;
-  color: #FFFAFF;
+  color: #fffaff;
   line-height: 1.2;
 }
 
@@ -247,15 +247,16 @@ h6 {
   .section {
     background-color: #050401;
   }
-  .double-text h2, .double-text p{
+  .double-text h2,
+  .double-text p {
     color: #fffaff;
   }
   .more-btn {
-    color: #FC5130;
-    border: 2px solid #FC5130;
+    color: #fc5130;
+    border: 2px solid #fc5130;
   }
   .more-btn:hover {
-    background-color: #FC5130;
+    background-color: #fc5130;
     color: #050401;
   }
 }
@@ -266,7 +267,7 @@ footer {
   background-color: #30bced;
   background-size: cover;
   background-position: center;
-  color: #FC5130;
+  color: #fc5130;
 }
 
 .footer-content {
@@ -316,7 +317,7 @@ footer {
   display: block;
   width: 60%;
   height: auto;
-  fill: #FC5130;
+  fill: #fc5130;
 }
 
 @media only screen and (max-width: 768px) {
@@ -330,7 +331,7 @@ footer {
 
 @media (prefers-color-scheme: dark) {
   footer {
-    background-color: #FC5130;
+    background-color: #fc5130;
   }
   .social-icons a svg {
     fill: #050401;
