@@ -1,3 +1,16 @@
+function showTickAndOverlay() {
+  // get .loading-container item with class
+  var loadingContainer = document.querySelector(".loading-container");
+  
+  // set display to block
+  loadingContainer.style.display = "flex";
+
+  setTimeout(function () {
+    loadingContainer.style.display = "none";
+  }, 2000);
+}
+
+
 var audioP = "correct";
 var wordlist = "wordlist";
 
@@ -52,6 +65,8 @@ function onStart() {
 function onGuess(character) {
   var keyPressed = character.replace(/i/g, "İ").toUpperCase();
   if (isLetterOnly(keyPressed)) {
+    // in letters items. set the letter is disabled
+    disableLetter(keyPressed);
     if (guessedLetters.indexOf(keyPressed) === -1) {
       guessedLetters.push(keyPressed);
       if (currentWordLetters().indexOf(keyPressed) === -1) {
@@ -88,10 +103,11 @@ function getGameboardWord() {
 }
 
 function goToNextWord() {
+
   currentWordIndex = Math.floor(Math.random() * words.length);
   attempts = 0;
   guessedLetters = [];
-  updateDisplay();
+  setTimeout(updateDisplay, 2000);
   setTimeout(enableAllLetters, 200);
 }
 
@@ -105,7 +121,8 @@ function isRoundLost() {
 function isRoundWon() {
   var gameboardWord = getGameboardWord();
   if (gameboardWord.indexOf("&nbsp") === -1) {
-    audioPath = "/assets/sounds/" + audioP + ".mp3";
+    showTickAndOverlay();
+    audioPath = "/games/word/assets/sounds/" + audioP + ".mp3";
     console.info(audioPath, audio);
     var audio = new Audio(audioPath);
     audio.play();

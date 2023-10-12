@@ -8,45 +8,50 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700" rel="stylesheet">
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/reset.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css" />
-
-    <title>Word Guess</title>
-
-    <style>
-        .letter {
-            display: inline-block;
-            margin: 5px;
-            padding: 10px;
-            border: 1px solid #ccc;
-            cursor: pointer;
-        }
-    </style>
+    <title>Kelime Oyunu</title>
 </head>
 
 <body>
-    <h1 id="title">KELİME OYUNU</h1>
-    <br>
-    <div id="welcome">- Tahminde bulunmak istediğiniz harfe tıklayın. -</div>
-    <div id="game_board_container"><span id="game_board"></span></div>
+    <div class="loading-container">
+        <div id="overlay"></div>
+        <svg id="tickSVG" xmlns="http://www.w3.org/2000/svg" width="300px" height="300px">
 
-    <div id="guessed_container"><span id="guessed"></span></div>
-    <div id="win_loss_container">Kazanılan: <span id="wins"></span> &nbsp&nbsp&nbsp Kaybedilen: <span
-            id="losses"></span></div>
-    <div id="guesses_remaining_container">Kalan Tahmin Hakkı: <span id="guesses_remaining"></span> </div>
+            <path class="circle" stroke="#1C9943" stroke-width="10" fill="#fff" fill-opacity="0" stroke-miterlimit="10"
+                d="M150,47.9c18.4,0,35.4,4.6,51,13.8s28,21.6,37.2,37.2s13.8,32.6,13.8,51s-4.6,35.4-13.8,51s-21.6,28-37.2,37.2
+                  s-32.6,13.8-51,13.8s-35.4-4.6-51-13.8s-28-21.6-37.2-37.2s-13.8-32.6-13.8-51s4.6-35.4,13.8-51s21.6-28,37.2-37.2
+                  S131.7,47.9,150,47.9z M150,238.7c16.2,0,31-4," />
 
-    <div id="letter_container">
-        <script>
-            var letters = 'ABCDEFGHIİJKLMNOÖPRSŞTUÜVYZ';
-            for (var i = 0; i < letters.length; i++) {
-                var letter = letters[i];
-                document.write('<div class="letter" onclick="onLetterClick(\'' + letter + '\')" data-letter="' + letter + '">' + letter + '</div>');
-            }
-        </script>
+            <path class="tick" cx="0" cy="0" r="1" opacity="1" fill="#1C9943" stroke="" stroke-width="10" d="M208.4,118.6c0.8-0.8,1.2-1.9,1.2-3.3c0-1.4-0.4-2.6-1.2-3.7l-3.7-3.3c-0.8-1.1-1.9-1.6-3.3-1.6
+              s-2.6,0.4-3.7,1.2l-67,67l-28.4-28.8c-1.1-0.8-2.3-1.2-3.7-1.2c-1.4,0-2.5,0.4-3.3,1.2l-3.7,3.3c-0.8,1.1-1.2,2.3-1.2,3.7
+              s0.4,2.5,1.2,3.3l35.4,35.8c1.1,1.1,2.3,1.6,3.7,1.6c1.4,0,2.5-0.5,3.3-1.6L208.4,118.6z" />
+
+        </svg>
     </div>
 
+    <h1 id="title">KELİME OYUNU</h1>
+    <div id="welcome">- Tahminde bulunmak istediğiniz harfe tıklayın. -</div>
+    <div id="game_board_container"><span id="game_board"></span></div>
+    <div id="guessed_container"><span id="guessed"></span></div>
+    <div id="win_loss_container">
+        Kazanılan: <span id="wins"></span>
+        Kaybedilen: <span id="losses"></span>
+    </div>
+    <div id="guesses_remaining_container">Kalan Tahmin Hakkı: <span id="guesses_remaining"></span> </div>
+    <div id="letter_container"></div>
 
     <script src="assets/javascript/game.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"
         integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script>
+        // External JS is better, but for quick reference:
+        $(document).ready(function () {
+            var letters = 'ABCDEFGHIİJKLMNOÖPRSŞTUÜVYZ';
+            for (var i = 0; i < letters.length; i++) {
+                var letter = letters[i];
+                $('#letter_container').append('<div class="letter" onclick="onLetterClick(\'' + letter + '\')" data-letter="' + letter + '">' + letter + '</div>');
+            }
+        });
+    </script>
 </body>
 
 </html>
