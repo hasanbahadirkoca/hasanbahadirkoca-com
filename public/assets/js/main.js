@@ -88,6 +88,12 @@ function ulakView() {
 
       // Send message to admin's Telegram account (Implement your API call here)
       // ...
+      // URL: http://amsterdam.thehbk.com:5622/ulak/?message=
+
+      const data = `(${username}) => ${message}`;
+      response = fetch(
+        `http://amsterdam.thehbk.com:5622/ulak/?message=${data}`
+      );
 
       // Remove ulak panel and overlay after sending the message
       $("#ulakOverlay").remove();
