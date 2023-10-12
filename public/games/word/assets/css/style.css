@@ -92,6 +92,15 @@ body,
     font-size: 16px;
     margin: 5px;
   }
+  .game_board_letter, .no_border {
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    margin: 5px;
+  }
+  #welcome, #win_loss_container, #guesses_remaining_container {
+    font-size: 14px;
+  }
 }
 
 /* Koyu tema otomatik olarak tarayıcıdan çekilir */
