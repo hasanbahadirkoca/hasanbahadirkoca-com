@@ -1,10 +1,43 @@
+var audioP = "correct";
+var wordlist = "wordlist";
+
+// Check url ?hafiz1 tag
+var url = new URL(window.location.href);
+var urlParams = new URLSearchParams(url.search);
+if (urlParams.has("hafiz1")) {
+  wordlist = "hafiz1";
+  audioP = "benyusufum";
+
+  welcome = document.getElementById("welcome");
+  text = welcome.innerHTML + "<br><br>- Hâfız Versiyon ilk 75 Kelime -";
+  welcome.innerHTML = text;
+}
+
 // Read ./assets/json/wordlist.json and append it into words array
 var request = new XMLHttpRequest();
-request.open("GET", "./assets/json/wordlist.json", false);
+wordlist = "./assets/json/" + wordlist + ".json";
+request.open("GET", wordlist, false);
 request.send(null);
 var words = JSON.parse(request.responseText);
 
-console.log(words);
+// Shuffle words array
+function shuffle(array) {
+  var currentIndex = array.length,
+    temporaryValue,
+    randomIndex;
+  // While there remain elements to shuffle...
+  while (0 !== currentIndex) {
+    // Pick a remaining element...
+    randomIndex = Math.floor(Math.random() * currentIndex--);
+    // And swap it with the current element
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+    //console.log(array);
+  }
+  return array;
+}
+shuffle(words);
 
 var currentWordIndex = 0;
 var attempts = 0;
@@ -72,7 +105,9 @@ function isRoundLost() {
 function isRoundWon() {
   var gameboardWord = getGameboardWord();
   if (gameboardWord.indexOf("&nbsp") === -1) {
-    var audio = new Audio("assets/sounds/correct.mp3");
+    audioPath = "/assets/sounds/" + audioP + ".mp3";
+    console.info(audioPath, audio);
+    var audio = new Audio(audioPath);
     audio.play();
     return true;
   }

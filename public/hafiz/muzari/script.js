@@ -70,7 +70,7 @@ document.querySelector("#geri").addEventListener("click", function () {
 
 // İlk kelimeyi göster
 displayCurrentWord();
-document.querySelector("#geri").disabled = true; // İlk başta geri butonunu devre dışı bırak.
+// TODO document.querySelector("#geri").disabled = true; // İlk başta geri butonunu devre dışı bırak.
 
 // Verilen kelimeyi uygun bir şekilde dönüştürür.
 function generateModifiedWord(i, j, word) {

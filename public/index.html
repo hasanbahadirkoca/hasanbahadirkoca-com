@@ -12,11 +12,13 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;500;700&display=swap" rel="stylesheet" />
+  <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 
 <body>
   <!-- Left Bar -->
-  <div class="left-bar" style="display: none;">
+  <div class="left-bar">
     <svg width="32" height="1508" viewBox="0 0 32 1508" fill="none" xmlns="http://www.w3.org/2000/svg">
       <rect y="1444" width="32" height="64" rx="16" />
       <circle cx="16" cy="1420" r="16" />
@@ -43,7 +45,6 @@
     </svg>
 
   </div>
-
 
   <!-- Header -->
   <header class="header">
@@ -72,13 +73,13 @@
           meet with software when he was in the 8th grade. He loves learning
           new things and creating new things. [...]
         </p>
-        <a href="#" class="more-btn">Read More</a>
+        <!-- <a href="who.html" class="more-btn">Read More</a> -->
       </div>
       <div class="double-image">
         <picture>
-          <source srcset="assets/img/about-img.webp" type="image/webp">
-          <source srcset="assets/img/about-img.jpg" type="image/jpeg">
-          <img src="assets/img/about-img.jpg" alt="About Image" width="1440" height="1080">
+          <source srcset="assets/img/about-enduro-2.webp" type="image/webp">
+          <source srcset="assets/img/about-enduro-2.jpg" type="image/jpeg">
+          <img src="assets/img/about-enduro.jpg" alt="About Image" width="1440" height="1080">
         </picture>
       </div>
     </div>
@@ -129,44 +130,47 @@
       </div>
     </div>
     <div class="barcode">
-      <svg width="28" height="0.5" viewBox="0 0 28 0.2" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect x="0.530392" width="0.441231" height="0.5" />
-        <rect x="1.19223" width="0.220467" height="0.5" />
-        <rect x="1.85408" width="0.220467" height="0.5" />
-        <rect x="2.95715" width="0.441231" height="0.5" />
-        <rect x="4.06023" width="0.220467" height="0.5" />
-        <rect x="4.72207" width="0.220467" height="0.5" />
-        <rect x="5.38392" width="0.220467" height="0.5" />
-        <rect x="5.82515" width="0.661846" height="0.5" />
-        <rect x="6.70761" width="0.882462" height="0.5" />
-        <rect x="7.81068" width="0.441231" height="0.5" />
-        <rect x="8.47253" width="0.882462" height="0.5" />
-        <rect x="9.5756" width="0.441231" height="0.5" />
-        <rect x="10.2375" width="0.441231" height="0.5" />
-        <rect x="10.8993" width="0.661846" height="0.5" />
-        <rect x="11.7818" width="0.661846" height="0.5" />
-        <rect x="12.6642" width="0.220467" height="0.5" />
-        <rect x="13.1054" width="0.220467" height="0.5" />
-        <rect x="13.7673" width="0.882462" height="0.5" />
-        <rect x="15.091" width="0.882462" height="0.5" />
-        <rect x="16.4147" width="0.220467" height="0.5" />
-        <rect x="17.0765" width="0.220467" height="0.5" />
-        <rect x="17.5177" width="0.220467" height="0.5" />
-        <rect x="17.959" width="0.882458" height="0.5" />
-        <rect x="19.5033" width="0.220467" height="0.5" />
-        <rect x="19.9445" width="0.220467" height="0.5" />
-        <rect x="20.3857" width="0.441231" height="0.5" />
-        <rect x="21.4888" width="0.220467" height="0.5" />
-        <rect x="22.3713" width="0.220467" height="0.5" />
-        <rect x="23.2537" width="0.220467" height="0.5" />
-        <rect x="23.9156" width="0.441231" height="0.5" />
-        <rect x="24.798" width="0.441231" height="0.5" />
-        <rect x="25.9011" width="0.661842" height="0.5" />
-        <rect x="26.7836" width="0.220467" height="0.5" />
-        <rect x="27.2248" width="0.441231" height="0.5" />
+      <svg width="28" height="1" viewBox="0 0 28 0.2" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="0.530392" width="0.441231" height="1" />
+        <rect x="1.19223" width="0.220467" height="1" />
+        <rect x="1.85408" width="0.220467" height="1" />
+        <rect x="2.95715" width="0.441231" height="1" />
+        <rect x="4.06023" width="0.220467" height="1" />
+        <rect x="4.72207" width="0.220467" height="1" />
+        <rect x="5.38392" width="0.220467" height="1" />
+        <rect x="5.82515" width="0.661846" height="1" />
+        <rect x="6.70761" width="0.882462" height="1" />
+        <rect x="7.81068" width="0.441231" height="1" />
+        <rect x="8.47253" width="0.882462" height="1" />
+        <rect x="9.5756" width="0.441231" height="1" />
+        <rect x="10.2375" width="0.441231" height="1" />
+        <rect x="10.8993" width="0.661846" height="1" />
+        <rect x="11.7818" width="0.661846" height="1" />
+        <rect x="12.6642" width="0.220467" height="1" />
+        <rect x="13.1054" width="0.220467" height="1" />
+        <rect x="13.7673" width="0.882462" height="1" />
+        <rect x="15.091" width="0.882462" height="1" />
+        <rect x="16.4147" width="0.220467" height="1" />
+        <rect x="17.0765" width="0.220467" height="1" />
+        <rect x="17.5177" width="0.220467" height="1" />
+        <rect x="17.959" width="0.882458" height="1" />
+        <rect x="19.5033" width="0.220467" height="1" />
+        <rect x="19.9445" width="0.220467" height="1" />
+        <rect x="20.3857" width="0.441231" height="1" />
+        <rect x="21.4888" width="0.220467" height="1" />
+        <rect x="22.3713" width="0.220467" height="1" />
+        <rect x="23.2537" width="0.220467" height="1" />
+        <rect x="23.9156" width="0.441231" height="1" />
+        <rect x="24.798" width="0.441231" height="1" />
+        <rect x="25.9011" width="0.661842" height="1" />
+        <rect x="26.7836" width="0.220467" height="1" />
+        <rect x="27.2248" width="0.441231" height="1" />
       </svg>
     </div>
   </footer>
+
+  <!-- Scripts -->
+  <script src="assets/js/main.js"></script>
 </body>
 
 </html>

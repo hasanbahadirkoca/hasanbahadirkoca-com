@@ -1,0 +1,2159 @@
+{
+  "course": [
+    {
+      "id": 221,
+      "language_id": 3,
+      "pratical_name_id": 0,
+      "section_id": 5,
+      "section_course_id": 18,
+      "name": "0 - 75 Aras\u0131 Kelimeler",
+      "description": null,
+      "uicolor": "red",
+      "icon": null,
+      "type": "0",
+      "is_demo": 0,
+      "sorter": 221,
+      "wp_id": 321,
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2019-08-24 22:24:57",
+      "get_pratical_name": null
+    }
+  ],
+  "chapter": [
+    {
+      "id": 1,
+      "course_id": 221,
+      "pratical_name_id": 0,
+      "name": "0 - 75",
+      "uicolor": "",
+      "sound": "",
+      "status": 1,
+      "created_at": "2017-09-28 09:07:31",
+      "updated_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "course": {
+        "id": 221,
+        "language_id": 3,
+        "pratical_name_id": 0,
+        "section_id": 5,
+        "section_course_id": 18,
+        "name": "0 - 75 Aras\u0131 Kelimeler",
+        "description": null,
+        "uicolor": "red",
+        "icon": null,
+        "type": "0",
+        "is_demo": 0,
+        "sorter": 221,
+        "wp_id": 321,
+        "created_at": "2017-09-28 09:07:31",
+        "deleted_at": "0000-00-00 00:00:00",
+        "updated_at": "2019-08-24 22:24:57",
+        "get_pratical_name": null
+      },
+      "get_pratical_name": null
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "chapter_id": 1,
+      "word": "\u0642\u064e\u0627\u0644\u064e  ",
+      "meaning": "Demek, s\u00f6ylemek",
+      "pronunciation": "Ka:le",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3313.mp3?v=1",
+      "related": "Kale",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3313.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3313.mp3",
+      "relation_text": "<font color='yellow'>Kale</font>nin \u00fczerine \u00e7\u0131kan komutan askerlere \u015f\u00f6yle <font color='yellow'>dedi</font>: \u201c<font color='yellow'>Diyece\u011fim</font> ve <font color='yellow'>s\u00f6yleyece\u011fim</font> o ki, <font color='yellow'>kale</font>yi korumal\u0131y\u0131z.\u201d Komutan\u0131n <font color='yellow'>dediklerini</font> ve <font color='yellow'>s\u00f6ylediklerini</font> duyamayan bir er yan\u0131ndakine \u015f\u00f6yle dedi: \u201cKomutan <font color='yellow'>kale</font>nin \u00fcst\u00fcnde ne <font color='yellow'>diyor</font>, ne <font color='yellow'>s\u00f6yl\u00fcyor</font>?\u201d (Komutan <font color='yellow'>kale</font>de ne yap\u0131yor? Bir \u015feyler <font color='yellow'>diyor</font> ve <font color='yellow'>s\u00f6yl\u00fcyor</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 1,
+          "word_id": 1,
+          "sample": "\u0642\u064e\u0627\u0644\u064e \u0631\u064e\u0628\u0651\u0650 \u0625\u0650\u0646\u0651\u0650\u064a \u062f\u064e\u0639\u064e\u0648\u0652\u062a\u064f \u0642\u064e\u0648\u0652\u0645\u0650\u064a \u0644\u064e\u064a\u0652\u0644\u064b\u0627 \u0648\u064e\u0646\u064e\u0647\u064e\u0627\u0631\u064b\u0627",
+          "sample_meaning": "Dedi ki: Rabb\u2019im, \u015f\u00fcphesiz ben kavmimi gece ve g\u00fcnd\u00fcz davet ettim. (Nuh 5)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chapter_id": 1,
+      "word": "\u0643\u0627\u064e\u0646\u064e",
+      "meaning": "Olmak",
+      "pronunciation": "K\u00e2:ne",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3314.mp3?v=1",
+      "related": "Kano",
+      "relation_gif": "https://api3.arapcakampus.com/storage/word/image/2.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3314.mp3",
+      "relation_text": "\u00dcnl\u00fc bir <font color='yellow'>kano</font> ustas\u0131 olan adam yan\u0131nda \u00e7al\u0131\u015fan \u00e7\u0131ra\u011f\u0131n\u0131n y\u0131llar sonra g\u00fczel bir <font color='yellow'>kano</font> yapt\u0131\u011f\u0131n\u0131 g\u00f6r\u00fcnce ona \u015f\u00f6yle dedi: \u201c<font color='yellow'>Kano oldu</font>, sen de <font color='yellow'>oldun</font>. <font color='yellow'>Kano</font> \u00e7ok g\u00fczel <font color='yellow'>oldu</font>. Sen de usta <font color='yellow'>oldun</font>.\u201d (\u201c<font color='yellow'>Kano oldu</font>, sen de <font color='yellow'>oldun</font>.\u201d dedi ustas\u0131 ona.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2023-10-09 16:55:25",
+      "samples": [
+        {
+          "id": 2,
+          "word_id": 2,
+          "sample": "\u0625\u0650\u0646\u0651\u064e\u0647\u064f \u0643\u064e\u0627\u0646\u064e \u0641\u0650\u064a \u0623\u064e\u0647\u0652\u0644\u0650\u0647\u0650 \u0645\u064e\u0633\u0652\u0631\u064f\u0648\u0631\u064b\u0627",
+          "sample_meaning": "\u015e\u00fcphesiz o, ailesi i\u00e7inde mutlu oldu. (\u0130n\u015fikak 13)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chapter_id": 1,
+      "word": "\u0622\u0645\u064e\u0646\u064e",
+      "meaning": "\u0130man etmek",
+      "pronunciation": "A:mene",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3315.mp3?v=1",
+      "related": "A\u011f-mene(k\u015fe)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3315.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3315.mp3",
+      "relation_text": "A\u011fdaki menek\u015feleri tefekk\u00fcre ba\u015flayan adam \u015f\u00f6yle dedi: \u201c<font color='yellow'>A\u011f</font>daki <font color='yellow'>mene</font>k\u015feleri yapan bir sanatk\u00e2r var. O\u2019na <font color='yellow'>iman ettim. </font> <font color='yellow'>A\u011f</font>daki <font color='yellow'>mene</font>k\u015feleri yapan Allah\u2019a ben <font color='yellow'>iman ettim</font>.\u201d (<font color='yellow'>A\u011f</font>daki <font color='yellow'>mene</font>k\u015feleri yapan Allah\u2019a ne yapt\u0131? <font color='yellow'>\u0130man etti</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 3,
+          "word_id": 3,
+          "sample": "\u0625\u0650\u0644\u0651\u064e\u0627 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e \u0622\u0645\u064e\u0646\u064f\u0648\u0627 \u0648\u064e\u0639\u064e\u0645\u0650\u0644\u064f\u0648\u0627 \u0627\u0644\u0635\u0651\u064e\u0627\u0644\u0650\u062d\u064e\u0627\u062a\u0650 \u0641\u064e\u0644\u064e\u0647\u064f\u0645\u0652 \u0623\u064e\u062c\u0652\u0631\u064c \u063a\u064e\u064a\u0652\u0631\u064f \u0645\u064e\u0645\u0652\u0646\u064f\u0648\u0646\u064d",
+          "sample_meaning": "Ancak iman edenler ve salih ameller i\u015fleyenler m\u00fcstesnad\u0131r. Onlar i\u00e7in kesintisiz m\u00fck\u00e2fat vard\u0131r. (Tin 6)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chapter_id": 1,
+      "word": "\u0639\u064e\u0644\u0650\u0645\u064e",
+      "meaning": "Bilmek, i\u015faret koymak",
+      "pronunciation": "Alime",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3316.mp3?v=1",
+      "related": "Ali-Me (Me: Kuzu sesi.)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3316.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3316.mp3",
+      "relation_text": "K\u00fc\u00e7\u00fck o\u011flu Ali\u2019ye hayvanlar\u0131n isimlerini \u00f6\u011freten anne onu test ediyordu. Anne kuzuyu sorunca <font color='yellow'>Ali me</font>\u2019lemeye ba\u015flad\u0131 ve kuzu resmine <font color='yellow'>i\u015faret koydu</font>. Bunun \u00fczerine anne babaya \u015f\u00f6yle dedi: \u201c<font color='yellow'>Ali Me</font> diyerek <font color='yellow'>bildi</font> ve <font color='yellow'>i\u015faret koydu</font>. <font color='yellow'>Ali Me</font>\u2019yi <font color='yellow'>bildi</font> ve <font color='yellow'>i\u015faret koydu</font> yani.\u201d (<font color='yellow'>Ali Me</font> diyerek ne yapt\u0131? <font color='yellow'>Bildi</font> ve <font color='yellow'>i\u015faret koydu</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 4,
+          "word_id": 4,
+          "sample": "\u064a\u064e\u0639\u0652\u0644\u064e\u0645\u064f \u0645\u064e\u0627 \u0641\u0650\u064a \u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u0648\u064e\u0627\u062a\u0650 \u0648\u064e\u0627\u0644\u0652\u0623\u064e\u0631\u0652\u0636\u0650 \u0648\u064e\u064a\u064e\u0639\u0652\u0644\u064e\u0645\u064f \u0645\u064e\u0627 \u062a\u064f\u0633\u0650\u0631\u0651\u064f\u0648\u0646\u064e \u0648\u064e\u0645\u064e\u0627 \u062a\u064f\u0639\u0652\u0644\u0650\u0646\u064f\u0648\u0646\u064e ",
+          "sample_meaning": "Yerde ve g\u00f6klerde olan her \u015feyi bilir. Gizledi\u011finiz ve a\u00e7\u0131\u011fa vurdu\u011funuz \u015feyleri de bilir. (Tegab\u00fcn 4)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chapter_id": 1,
+      "word": "\u0623\u064e\u062a\u064e\u0649",
+      "meaning": "Gelmek",
+      "pronunciation": "Eta:",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3317.mp3?v=1",
+      "related": "Et-a\u011f",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3317.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3317.mp3",
+      "relation_text": "Mahalleye <font color='yellow'>et</font>i <font color='yellow'>a\u011f</font> ile getiren bir sat\u0131c\u0131yd\u0131. Yine bir g\u00fcn onu a\u011fda etle <font color='yellow'>gelirken</font> g\u00f6ren bir \u00e7ocuk \u015f\u00f6yle ba\u011f\u0131rd\u0131: \u201c<font color='yellow'>Et a\u011f</font>da <font color='yellow'>geliyor</font>! Mahallemize <font color='yellow'>et a\u011f</font> ile <font color='yellow'>geliyor</font>!\u201d (<font color='yellow'>Et a\u011f</font> ile ne yap\u0131yor? <font color='yellow'>Geliyor</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 5,
+          "word_id": 5,
+          "sample": "\u0647\u064e\u0644\u0652 \u064a\u064e\u0646\u0652\u0638\u064f\u0631\u064f\u0648\u0646\u064e \u0625\u0650\u0644\u0651\u064e\u0627 \u0623\u064e\u0646\u0652 \u062a\u064e\u0623\u0652\u062a\u0650\u064a\u064e\u0647\u064f\u0645\u064f \u0627\u0644\u0652\u0645\u064e\u0644\u064e\u0627\u0626\u0650\u0643\u064e\u0629\u064f \u0623\u064e\u0648\u0652 \u064a\u064e\u0623\u0652\u062a\u0650\u064a\u064e \u0631\u064e\u0628\u0651\u064f\u0643\u064e \u0623\u064e\u0648\u0652 \u064a\u064e\u0623\u0652\u062a\u0650\u064a\u064e \u0628\u064e\u0639\u0652\u0636\u064f \u0622\u064a\u064e\u0627\u062a\u0650 \u0631\u064e\u0628\u0651\u0650\u0643\u064e ",
+          "sample_meaning": "Onlara meleklerin gelmesini veya Rabb\u2019inin gelmesini veya Rabb\u2019inin baz\u0131 ayetlerinin gelmesini mi bekliyorlar? (En\u2019am 158)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chapter_id": 1,
+      "word": "\u0623\u064e\u0631\u0652\u0633\u064e\u0644\u064e",
+      "meaning": "G\u00f6ndermek",
+      "pronunciation": "Ersele",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3318.mp3?v=1",
+      "related": "Er-sele",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3318.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3318.mp3",
+      "relation_text": "Adam asker oca\u011f\u0131ndan izne gelen evlad\u0131n\u0131 izin bitimi bisikletin selesine bindirip tekrar askere <font color='yellow'>g\u00f6nderiyordu</font>. O\u011flunu seleye oturtup askere <font color='yellow'>g\u00f6nderen</font> adama bir arkada\u015f\u0131 \u015f\u00f6yle dedi: \u201cHi\u00e7 <font color='yellow'>er sele</font> ile <font color='yellow'>g\u00f6nderilir</font> mi? <font color='yellow'>Er sele</font>ye oturtulup <font color='yellow'>g\u00f6nderilir</font> mi?\u201d (<font color='yellow'>Er sele</font>ye oturtulup ne yap\u0131l\u0131r m\u0131 dedi? <font color='yellow'>G\u00f6nderilir</font> mi?)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 6,
+          "word_id": 6,
+          "sample": "\u0648\u064e\u0623\u064e\u0631\u0652\u0633\u064e\u0644\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u0637\u064e\u064a\u0652\u0631\u064b\u0627 \u0623\u064e\u0628\u064e\u0627\u0628\u0650\u064a\u0644\u064e",
+          "sample_meaning": "\u00dczerlerine Ebabil ku\u015flar\u0131 g\u00f6nderdi. (Fil 3)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "chapter_id": 1,
+      "word": "\u0643\u064e\u0641\u064e\u0631\u064e",
+      "meaning": "\u0130nk\u00e2r etmek, nank\u00f6rl\u00fck etmek, ka\u00e7\u0131nmak",
+      "pronunciation": "Kefera",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3319.mp3?v=1",
+      "related": "Kefe-ra(y)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3319.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3319.mp3",
+      "relation_text": "\u00c7ift\u00e7ilik yapanlar\u0131n uzun s\u00fcredir yevmiyelerine zam alamad\u0131klar\u0131 i\u00e7in ellerinde <font color='yellow'>kefe</font>lerle <font color='yellow'>ra</font>ylarda protesto g\u00f6sterisi yapmas\u0131 \u00fczerine muhtar onlara \u015f\u00f6yle dedi: \u201c<font color='yellow'>Kefe</font> ile <font color='yellow'>ra</font>yda yevmiye ald\u0131\u011f\u0131n\u0131z\u0131 <font color='yellow'>ink\u00e2r etmeyin</font>! <font color='yellow'>Nank\u00f6rl\u00fck ederek ink\u00e2r ediyorsunuz</font>! <font color='yellow'>Ka\u00e7\u0131n\u0131n</font> bu i\u015ften! <font color='yellow'>Kefe</font> ile <font color='yellow'>ra</font>yda <font color='yellow'>nank\u00f6rl\u00fck etmekten ka\u00e7\u0131n\u0131n</font>!\u201d (Kefe ile rayda ne yap\u0131yorlar? <font color='yellow'>Nank\u00f6rl\u00fck ederek ink\u00e2r ediyorlar</font>; muhtar da onlara <font color='yellow'>ka\u00e7\u0131n\u0131n</font> diyor.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 7,
+          "word_id": 7,
+          "sample": "\u0648\u064e\u0644\u0650\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e \u0643\u064e\u0641\u064e\u0631\u064f\u0648\u0627 \u0628\u0650\u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652 \u0639\u064e\u0630\u064e\u0627\u0628\u064f \u062c\u064e\u0647\u064e\u0646\u0651\u064e\u0645\u064e \u0648\u064e\u0628\u0650\u0626\u0652\u0633\u064e \u0627\u0644\u0652\u0645\u064e\u0635\u0650\u064a\u0631\u064f",
+          "sample_meaning": "Rablerini ink\u00e2r eden kimseler i\u00e7in cehennem azab\u0131 vard\u0131r. Ne k\u00f6t\u00fc sonu\u00e7tur. (M\u00fclk 6)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "chapter_id": 1,
+      "word": "\u0623\u064e\u0631\u0652\u0636\u064c",
+      "meaning": "Yery\u00fcz\u00fc",
+      "pronunciation": "Ard",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3320.mp3?v=1",
+      "related": "Ard(iye)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3320.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3320.mp3",
+      "relation_text": "<p>Bir&ccedil;ok &uuml;lke gezmi\u015f olan adam &ccedil;ok sevdi\u011fi <span style=\"color:#0000ff\">ard</span>iyesi hakk\u0131nda arkada\u015f\u0131na \u015f&ouml;yle dedi: &ldquo;Bu <span style=\"color:#0000ff\">ard</span>iye <span style=\"color:#0000ff\">yery&uuml;z&uuml;ndeki</span> en g&uuml;zel <span style=\"color:#0000ff\">ard</span>iye! <span style=\"color:#0000ff\">Yery&uuml;z&uuml;n&uuml;n</span> en m&uuml;thi\u015f <span style=\"color:#0000ff\">ard</span>iyesi benim <span style=\"color:#0000ff\">ard</span>iyem!&rdquo; (&ldquo;Bu <span style=\"color:#0000ff\">ard</span>iye <span style=\"color:#0000ff\">yery&uuml;z&uuml;ndeki</span> en g&uuml;zel <span style=\"color:#0000ff\">ard</span>iye!&rdquo; dedi arkada\u015f\u0131na.)</p>\r\n",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 8,
+          "word_id": 8,
+          "sample": "\u0648\u064e\u0623\u064e\u062e\u0652\u0631\u064e\u062c\u064e\u062a\u0650 \u0627\u0644\u0652\u0623\u064e\u0631\u0652\u0636\u064f \u0623\u064e\u062b\u0652\u0642\u064e\u0627\u0644\u064e\u0647\u064e\u0627",
+          "sample_meaning": "Yery\u00fcz\u00fc a\u011f\u0131rl\u0131klar\u0131n\u0131 \u00e7\u0131kartt\u0131\u011f\u0131nda\u2026 (Zilzal 2)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "chapter_id": 1,
+      "word": "\u064a\u064e\u0648\u0652\u0645\u064c",
+      "meaning": "G\u00fcn",
+      "pronunciation": "Yevm",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3321.mp3?v=1",
+      "related": "Yevm(iye)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3321.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3321.mp3",
+      "relation_text": "<font color='yellow'>Yevm</font>iye ile \u00e7al\u0131\u015fan ve <font color='yellow'>g\u00fcn</font> sonunda <font color='yellow'>yevm</font>iyesini alan i\u015f\u00e7ilerden biri \u015f\u00f6yle dedi: \u201c<font color='yellow'>G\u00fcn g\u00fcn yevm</font>iye al\u0131yoruz. <font color='yellow'>Yevm</font>iyemiz her <font color='yellow'>g\u00fcn</font> aksat\u0131lmadan <font color='yellow'>g\u00fcn</font> bitiminde veriliyor.\u201d (<font color='yellow'>Yevm</font>iyeyi nas\u0131l al\u0131yormu\u015f? <font color='yellow'>G\u00fcn g\u00fcn</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 9,
+          "word_id": 9,
+          "sample": "\u0645\u064e\u0627\u0644\u0650\u0643\u0650 \u064a\u064e\u0648\u0652\u0645\u0650 \u0627\u0644\u062f\u0651\u0650\u064a\u0646\u0650",
+          "sample_meaning": "Din g\u00fcn\u00fcn\u00fcn sahibi\u2026 (Fatiha 4)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "chapter_id": 1,
+      "word": "\u0639\u064e\u0630\u0651\u064e\u0628\u064e",
+      "meaning": "Azap etmek",
+      "pronunciation": "Azzebe",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3322.mp3?v=1",
+      "related": "Az\u0131z ebe",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3322.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3322.mp3",
+      "relation_text": "Bir k\u00f6yl\u00fcye <font color='yellow'>azap edenler</font> hakk\u0131nda o s\u0131rada orada bulunan birka\u00e7 ebeden biri di\u011ferlerine \u015f\u00f6yle dedi: \u201c<font color='yellow'>Az\u0131z ebe</font> olarak, <font color='yellow'>azap edilmesini</font> engelleyemeyiz. <font color='yellow'>Az\u0131z ebe</font>, <font color='yellow'>azap etmeye</font> kar\u015f\u0131 bir \u015fey yapamay\u0131z.\u201d (<font color='yellow'>Az\u0131z ebe</font> olarak; neyi engelleyemeyiz? <font color='yellow'>Azap edilmesini</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 10,
+          "word_id": 10,
+          "sample": "\u064a\u064f\u0639\u064e\u0630\u0651\u0650\u0628\u064f \u0645\u064e\u0646\u0652 \u064a\u064e\u0634\u064e\u0627\u0621\u064f \u0648\u064e\u064a\u064e\u063a\u0652\u0641\u0650\u0631\u064f \u0644\u0650\u0645\u064e\u0646\u0652 \u064a\u064e\u0634\u064e\u0627\u0621",
+          "sample_meaning": "Diledi\u011fine azap eder, diledi\u011fini de ba\u011f\u0131\u015flar. (Maide 40)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "chapter_id": 1,
+      "word": "\u0639\u064e\u0645\u0650\u0644\u064e",
+      "meaning": "Amel etmek, yapmak, i\u015flemek",
+      "pronunciation": "Amile",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3323.mp3?v=1",
+      "related": "(H)amile",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3323.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3323.mp3",
+      "relation_text": "H<font color='yellow'>amile</font> kad\u0131n\u0131n elinden geldi\u011fince <font color='yellow'>amel etti\u011fini</font>, sevap <font color='yellow'>i\u015fledi\u011fini</font> ve i\u015flerini <font color='yellow'>yapt\u0131\u011f\u0131n\u0131</font> g\u00f6renler \u015f\u00f6yle diyordu: \u201cH<font color='yellow'>amile amel ediyor</font>, <font color='yellow'>i\u015fliyor</font> ve i\u015flerini <font color='yellow'>yap\u0131yor</font>. Biz h<font color='yellow'>amile</font> kadar <font color='yellow'>amel edemiyor</font>, <font color='yellow'>i\u015fleyemiyor</font> ve <font color='yellow'>yapam\u0131yoruz</font> neredeyse.\u201d (H<font color='yellow'>amile</font> kad\u0131n ne <font color='yellow'>yap\u0131yor</font>? <font color='yellow'>Amel ediyor</font>, sevap <font color='yellow'>i\u015fliyor</font> ve i\u015flerini <font color='yellow'>yap\u0131yor</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 11,
+          "word_id": 11,
+          "sample": "\u0648\u064e\u0645\u064e\u0646\u0652 \u064a\u064e\u0639\u0652\u0645\u064e\u0644\u0652 \u0645\u0650\u062b\u0652\u0642\u064e\u0627\u0644\u064e \u0630\u064e\u0631\u0651\u064e\u0629\u064d \u0634\u064e\u0631\u0651\u064b\u0627 \u064a\u064e\u0631\u064e\u0647\u064f",
+          "sample_meaning": "Her kim zerre kadar \u015fer amel ederse onu g\u00f6r\u00fcr. (Zilzal 8)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "chapter_id": 1,
+      "word": "\u062c\u064e\u0639\u064e\u0644\u064e",
+      "meaning": "Yaratmak, k\u0131lmak, koymak, yapmak",
+      "pronunciation": "Ceale",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3324.mp3?v=1",
+      "related": "Ce Ali!",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3324.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3324.mp3",
+      "relation_text": "Teyzesi Ali ismindeki ye\u011feni ile oyun oynuyordu. \u0130lk \u00f6nce elleriyle y\u00fcz\u00fcn\u00fc kapat\u0131yor ve daha sonra ellerini a\u00e7arak, \u201c<font color='yellow'>Ce Ali!</font>\u201d diyordu. Bu arada onunla konu\u015fmay\u0131 da ihmal etmiyordu: \u201c<font color='yellow'>Ce Ali!</font> Seni kim b\u00f6yle g\u00fczel <font color='yellow'>k\u0131ld\u0131</font> ve <font color='yellow'>yapt\u0131</font>?! <font color='yellow'>Ce Ali!</font> Seni b\u00f6yle kim \u015firin <font color='yellow'>yaratt\u0131</font>?!\u201d \u00c7ocuk birden dile geldi ve \u015f\u00f6yle dedi: \u201cAllah g\u00fczel <font color='yellow'>k\u0131ld\u0131</font> ve <font color='yellow'>yapt\u0131</font>, O <font color='yellow'>yaratt\u0131</font>. Ama teyze <font color='yellow'>Ce Ali</font> demesen de beni yere <font color='yellow'>koysan</font> da emeklesem.\u201d (\u201c<font color='yellow'>Ce Ali!</font>\u201d denilmesinden s\u0131k\u0131lan \u00e7ocuk ne dedi? Allah g\u00fczel <font color='yellow'>k\u0131ld\u0131</font> ve <font color='yellow'>yapt\u0131</font>, O <font color='yellow'>yaratt\u0131</font>. Ama beni yere <font color='yellow'>koysan</font> da...)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 12,
+          "word_id": 12,
+          "sample": "\u0648\u064e\u0627\u0644\u0644\u0651\u064e\u0647\u064f \u062c\u064e\u0639\u064e\u0644\u064e \u0644\u064e\u0643\u064f\u0645\u064f \u0627\u0644\u0652\u0623\u064e\u0631\u0652\u0636\u064e \u0628\u0650\u0633\u064e\u0627\u0637\u064b\u0627",
+          "sample_meaning": "Allah sizin i\u00e7in yeri d\u00f6\u015fek yapt\u0131. (Nuh 19)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "chapter_id": 1,
+      "word": "\u0631\u064e\u062d\u0650\u0645\u064e",
+      "meaning": "Ac\u0131mak",
+      "pronunciation": "Rahime",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3325.mp3?v=1",
+      "related": "Ruhi\u2019me",
+      "relation_gif": "https://egitim.hafizamerkezi.com/files/kelimeler/resimler/3325.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3325.mp3",
+      "relation_text": "Ya\u015fad\u0131\u011f\u0131 olaylardan psikolojisi bozulan o\u011flu Ruhi\u2019nin garip hareketler yapmas\u0131 \u00fczerine annesi kom\u015fular\u0131na \u015f\u00f6yle dedi: \u201c<font color='yellow'>Ruhi\u2019me ac\u0131yorum</font>! <font color='yellow'>Ruhi\u2019me</font> ben <font color='yellow'>ac\u0131mayay\u0131m</font> da kim <font color='yellow'>ac\u0131s\u0131n</font>?!\u201d (Anne <font color='yellow'>Ruhi\u2019me</font> ne yap\u0131yorum dedi? <font color='yellow'>Ac\u0131yorum</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 13,
+          "word_id": 13,
+          "sample": "\u0625\u0650\u0644\u0651\u064e\u0627 \u0645\u064e\u0646\u0652 \u0631\u064e\u062d\u0650\u0645\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u064f \u0625\u0650\u0646\u0651\u064e\u0647\u064f \u0647\u064f\u0648\u064e \u0627\u0644\u0652\u0639\u064e\u0632\u0650\u064a\u0632\u064f \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u064f",
+          "sample_meaning": "Ancak Allah\u2019\u0131n ac\u0131d\u0131\u011f\u0131 kimse m\u00fcstesnad\u0131r. \u00c7\u00fcnk\u00fc O (Allah) \u00e7ok g\u00fc\u00e7l\u00fc ve \u00e7ok ac\u0131yand\u0131r. (Duhan 42)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "chapter_id": 1,
+      "word": "\u0643\u064e\u062a\u064e\u0628\u064e",
+      "meaning": "Yazmak, farz k\u0131lmak",
+      "pronunciation": "Ketebe",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3326.mp3?v=1",
+      "related": "K\u00f6t\u00fc Ebe",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3326.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3326.mp3",
+      "relation_text": "Hep k\u00f6t\u00fcl\u00fck yapan bir ebeydi ve namazlar\u0131n\u0131 da k\u0131lm\u0131yordu. Bu y\u00fczden herkes ona \u201c<font color='yellow'>K\u00f6t\u00fc Ebe</font>\u201d diyordu. Bir g\u00fcn <font color='yellow'>K\u00f6t\u00fc Ebe</font>\u2019ye misafirli\u011fe giden kom\u015fular\u0131 onun kaza namazlar\u0131n\u0131n say\u0131s\u0131n\u0131 hesaplamak i\u00e7in bir k\u00e2\u011f\u0131t istediler ve <font color='yellow'>yazmaya</font> ba\u015flad\u0131lar. \u0130\u00e7lerinden biri <font color='yellow'>K\u00f6t\u00fc Ebe</font>\u2019ye \u015f\u00f6yle dedi: \u201c<font color='yellow'>K\u00f6t\u00fc Ebe</font> sana <font color='yellow'>yaz\u0131yoruz farz k\u0131l\u0131nan</font> namaz bor\u00e7lar\u0131n\u0131. <font color='yellow'>Farz k\u0131l\u0131nanlar\u0131</font> sen <font color='yellow'>yazmayacaks\u0131n</font> bu gidi\u015fle. <font color='yellow'>K\u00f6t\u00fc Ebe</font> bir an \u00f6nce ba\u015flamal\u0131s\u0131n namaza.\u201d (<font color='yellow'>K\u00f6t\u00fc Ebe</font> i\u00e7in ne yapt\u0131lar? <font color='yellow'>Yazd\u0131lar farz k\u0131l\u0131nan</font> namaz bor\u00e7lar\u0131n\u0131.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 14,
+          "word_id": 14,
+          "sample": "\u0643\u064e\u062a\u064e\u0628\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u064f \u0644\u064e\u0623\u064e\u063a\u0652\u0644\u0650\u0628\u064e\u0646\u0651\u064e \u0623\u064e\u0646\u064e\u0627 \u0648\u064e\u0631\u064f\u0633\u064f\u0644\u0650\u064a",
+          "sample_meaning": "Allah yazd\u0131. Elbette ben ve el\u00e7ilerim galip olanlar\u0131z. (M\u00fccadele 21)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "chapter_id": 1,
+      "word": "\u0647\u064e\u062f\u064e\u0649",
+      "meaning": "Yol g\u00f6stermek, hidayet etmek",
+      "pronunciation": "Heda:",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3327.mp3?v=1",
+      "related": "He(r)-da\u011f",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3327.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3327.mp3",
+      "relation_text": "Da\u011fda ya\u015fayan dindar bir adamd\u0131. Turistlere hep <font color='yellow'>yol g\u00f6sterirdi</font>. Yine bir g\u00fcn kendilerine gidecekleri yeri tarif edip yol g\u00f6steren adam hakk\u0131nda turistlerden biri \u015f\u00f6yle dedi: \u201cKe\u015fke <font color='yellow'>he</font>r <font color='yellow'>da\u011f</font>da b\u00f6yle <font color='yellow'>yol g\u00f6steren</font> biri olsa. Allah\u2019\u0131n <font color='yellow'>hidayet etti\u011fi</font> biri ve <font color='yellow'>he</font>r <font color='yellow'>da\u011f</font>a gelene <font color='yellow'>yol g\u00f6steriyor</font>. Allah bize de <font color='yellow'>hidayet etsin</font>.\u201d (<font color='yellow'>He</font>r <font color='yellow'>da\u011f</font>a gelene ne yap\u0131yor ve nas\u0131l biri? <font color='yellow'>Yol g\u00f6steriyor</font> ve Allah\u2019\u0131n <font color='yellow'>hidayet etti\u011fi</font> biri.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 15,
+          "word_id": 15,
+          "sample": "\u0630\u064e\u0644\u0650\u0643\u064e \u0647\u064f\u062f\u064e\u0649 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u064a\u064e\u0647\u0652\u062f\u0650\u064a \u0628\u0650\u0647\u0650 \u0645\u064e\u0646\u0652 \u064a\u064e\u0634\u064e\u0627\u0621",
+          "sample_meaning": "Bu Allah\u2019\u0131n hidayetidir. Onunla (hidayet) diledi\u011fini hidayete erdirir. (Z\u00fcmer 23)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "chapter_id": 1,
+      "word": "\u0631\u064e\u0623\u064e\u0649",
+      "meaning": "G\u00f6rmek",
+      "pronunciation": "Raa:",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3328.mp3?v=1",
+      "related": "R\u00fcya",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3328.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3328.mp3",
+      "relation_text": "O\u011flunun say\u0131klad\u0131\u011f\u0131n\u0131 <font color='yellow'>g\u00f6ren</font> anne, babaya \u015f\u00f6yle dedi: \u201c<font color='yellow'>R\u00fcya g\u00f6r\u00fcyor</font> o\u011flumuz, <font color='yellow'>g\u00f6r\u00fcyor</font> musun bey? Nas\u0131l bir <font color='yellow'>r\u00fcya g\u00f6r\u00fcyor</font> acaba?\u201d (<font color='yellow'>R\u00fcya g\u00f6rmek</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 16,
+          "word_id": 16,
+          "sample": "\u0644\u064e\u0642\u064e\u062f\u0652 \u0631\u064e\u0623\u064e\u0649 \u0645\u0650\u0646\u0652 \u0622\u064a\u064e\u0627\u062a\u0650 \u0631\u064e\u0628\u0651\u0650\u0647\u0650 \u0627\u0644\u0652\u0643\u064f\u0628\u0652\u0631\u064e\u0649",
+          "sample_meaning": "Andolsun ki rabbinin b\u00fcy\u00fck ayetlerini g\u00f6rd\u00fc. (Necm 18)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "chapter_id": 1,
+      "word": "\u0638\u064e\u0644\u064e\u0645\u064e",
+      "meaning": "Zulmetmek, (hava) kararmak",
+      "pronunciation": "Zaleme",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3329.mp3?v=1",
+      "related": "Zalime",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3329.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3329.mp3",
+      "relation_text": "\u0130nsanlara hep <font color='yellow'>hava karard\u0131\u011f\u0131nda</font> zulmeden bir serseriye hava karar\u0131rken mahallenin birka\u00e7 delikanl\u0131s\u0131n\u0131n <font color='yellow'>zulmetti\u011fini</font> g\u00f6renler \u015f\u00f6yle diyordu: \u201c<font color='yellow'>Zalime hava karar\u0131rken zulmetmek</font> b\u00f6yle olur! <font color='yellow'>Zalime hava karar\u0131rken zulmetmeleri</font> \u00e7ok g\u00fczel!\u201d (<font color='yellow'>Zalime</font> ne zaman ve ne yap\u0131yorlar? <font color='yellow'>Hava karar\u0131rken zulmediyorlar</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 17,
+          "word_id": 17,
+          "sample": "\u0625\u0650\u0646\u0651\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u064e \u0644\u064e\u0627 \u064a\u064e\u0638\u0652\u0644\u0650\u0645\u064f \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064e \u0634\u064e\u064a\u0652\u0626\u064b\u0627 \u0648\u064e\u0644\u064e\u0643\u0650\u0646\u0651\u064e \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064e \u0623\u064e\u0646\u0652\u0641\u064f\u0633\u064e\u0647\u064f\u0645\u0652 \u064a\u064e\u0638\u0652\u0644\u0650\u0645\u064f\u0648\u0646\u064e",
+          "sample_meaning": "\u015e\u00fcphesiz Allah insanlara en k\u00fc\u00e7\u00fck \u015feyle zulmetmez. Ancak insanlar kendilerine zulmediyorlar. (Yunus 44)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "chapter_id": 1,
+      "word": "\u0646\u064e\u0641\u0652\u0633\u064c",
+      "meaning": "Kendi, nefis, ruh",
+      "pronunciation": "Nefs",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3330.mp3?v=1",
+      "related": "Nefes",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3330.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3330.mp3",
+      "relation_text": "<font color='yellow'>Kendi</font> \u00fczerine beyaz bir \u00f6rt\u00fc atarak <font color='yellow'>ruh</font> taklidi yapan a\u011fabeylerinin <font color='yellow'>nefes</font> ald\u0131\u011f\u0131n\u0131 g\u00f6ren \u00e7ocuk yan\u0131ndaki karde\u015fine \u015f\u00f6yle dedi: \u201c<font color='yellow'>Nefes</font> ald\u0131\u011f\u0131na g\u00f6re <font color='yellow'>ruh</font> de\u011fil o. <font color='yellow'>Kendi nefsini</font> e\u011flendirmek i\u00e7in <font color='yellow'>ruh</font> k\u0131l\u0131\u011f\u0131na girmi\u015f, ama <font color='yellow'>nefes</font>i ele verdi. <font color='yellow'>Kendi nefes</font>i <font color='yellow'>nefsi</font> bir hareket yapt\u0131\u011f\u0131n\u0131n kan\u0131t\u0131.\u201d  (<font color='yellow'>Nefes</font>i neyi ele verdi? <font color='yellow'>Kendi nefsini</font> e\u011flendirmek i\u00e7in <font color='yellow'>ruh</font> k\u0131l\u0131\u011f\u0131na girdi\u011fini.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 18,
+          "word_id": 18,
+          "sample": "\u064a\u064e\u0627 \u0623\u064e\u064a\u0651\u064e\u062a\u064f\u0647\u064e\u0627 \u0627\u0644\u0646\u0651\u064e\u0641\u0652\u0633\u064f \u0627\u0644\u0652\u0645\u064f\u0637\u0652\u0645\u064e\u0626\u0650\u0646\u0651\u064e\u0629\u064f",
+          "sample_meaning": "Ey mutmain olmu\u015f nefis! (Fecr 27)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "chapter_id": 1,
+      "word": "\u0646\u064e\u0632\u064e\u0644\u064e",
+      "meaning": "\u0130nmek",
+      "pronunciation": "Nezele",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3331.mp3?v=1",
+      "related": "Nezle",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3331.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3331.mp3",
+      "relation_text": "Adam <font color='yellow'>nezle</font> olmu\u015ftu. O kadar <font color='yellow'>nezle</font>ydi ki, d\u00fckk\u00e2na <font color='yellow'>inmek</font> \u015f\u00f6yle dursun, yataktan bile <font color='yellow'>inemiyordu</font>. Kendi kendine de \u015f\u00f6yle konu\u015fuyordu: \u201cBu <font color='yellow'>nezle</font> y\u00fcz\u00fcnden d\u00fckk\u00e2na <font color='yellow'>inemem</font>. <font color='yellow'>\u0130nersem</font> m\u00fc\u015fteriler de <font color='yellow'>nezle</font> olur.\u201d (<font color='yellow'>Nezle</font> olan adam ne yapam\u0131yor? <font color='yellow'>\u0130nemiyor</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 19,
+          "word_id": 19,
+          "sample": "\u0648\u064e\u0628\u0650\u0627\u0644\u0652\u062d\u064e\u0642\u0651\u0650 \u0623\u064e\u0646\u0652\u0632\u064e\u0644\u0652\u0646\u064e\u0627\u0647\u064f \u0648\u064e\u0628\u0650\u0627\u0644\u0652\u062d\u064e\u0642\u0651\u0650 \u0646\u064e\u0632\u064e\u0644\u064e",
+          "sample_meaning": "Onu hak ile indirdik ve o da hak ile indi. (\u0130sra 105)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "chapter_id": 1,
+      "word": "\u062d\u064e\u0642\u0651\u064e",
+      "meaning": "Ger\u00e7ek olmak, hak etmek",
+      "pronunciation": "Hakka",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3332.mp3?v=1",
+      "related": "Halka (tatl\u0131s\u0131)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3332.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3332.mp3",
+      "relation_text": "Uzun y\u0131llar sokaklarda <font color='yellow'>halka</font> tatl\u0131s\u0131 satarak b\u00fcy\u00fck gelirler elde eden adam sonunda bir d\u00fckk\u00e2n a\u00e7m\u0131\u015ft\u0131 ve \u015f\u00f6yle dedi: \u201c<font color='yellow'>Halka</font> tatl\u0131s\u0131nda hayalim <font color='yellow'>ger\u00e7ek oldu</font> ve <font color='yellow'>hak ettim</font> bunu. <font color='yellow'>Halka</font> d\u00fckk\u00e2n\u0131n\u0131 <font color='yellow'>hak etmi\u015ftim</font> ve <font color='yellow'>ger\u00e7ek oldu\u011fu</font> i\u00e7in mutluyum.\u201d (<font color='yellow'>Halka</font> tatl\u0131s\u0131nda hayali ne oldu? <font color='yellow'>Ger\u00e7ek oldu</font> ve <font color='yellow'>hak etti</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 20,
+          "word_id": 20,
+          "sample": "\u0625\u0650\u0646\u0651\u064e \u0647\u064e\u0630\u064e\u0627 \u0644\u064e\u0647\u064f\u0648\u064e \u062d\u064e\u0642\u0651\u064f \u0627\u0644\u0652\u064a\u064e\u0642\u0650\u064a\u0646\u0650",
+          "sample_meaning": "\u015e\u00fcphesiz bu, yakini ger\u00e7ektir. (Vak\u0131a 95)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "chapter_id": 1,
+      "word": "\u0643\u064e\u0630\u064e\u0628\u064e",
+      "meaning": "Yalan s\u00f6ylemek",
+      "pronunciation": "Kezebe",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3333.mp3?v=1",
+      "related": "K\u00f6z-ebe",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3333.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3333.mp3",
+      "relation_text": "\u00c7ok <font color='yellow'>yalan s\u00f6yleyen</font> ebeydi. Yine bir hafta sonu sobadan ald\u0131\u011f\u0131 k\u00f6zlerle hal\u0131y\u0131 yakan ebe bunu kendisinin yapmad\u0131\u011f\u0131n\u0131 s\u00f6yleyince annesi ona \u015f\u00f6yle dedi: \u201c<font color='yellow'>K\u00f6z ebe</font>, <font color='yellow'>yalan s\u00f6yleme</font>! <font color='yellow'>K\u00f6z</font>\u00fc <font color='yellow'>ebe</font> yere sen d\u00f6kt\u00fcn, <font color='yellow'>yalan s\u00f6yleme</font> bo\u015funa!\u201d (<font color='yellow'>K\u00f6z</font>\u00fc <font color='yellow'>ebe</font> yere d\u00f6kmedi\u011fini s\u00f6yleyerek ne yapt\u0131? <font color='yellow'>Yalan s\u00f6yledi</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 21,
+          "word_id": 21,
+          "sample": "\u0623\u064e\u0631\u064e\u0623\u064e\u064a\u0652\u062a\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a \u064a\u064f\u0643\u064e\u0630\u0651\u0650\u0628\u064f \u0628\u0650\u0627\u0644\u062f\u0651\u0650\u064a\u0646\u0650",
+          "sample_meaning": "Dini yalanlayan kimseyi g\u00f6rmedin mi? (Maun 1)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "chapter_id": 1,
+      "word": "\u062c\u064e\u0627\u0621\u064e",
+      "meaning": "Gelmek",
+      "pronunciation": "Ca:e",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3334.mp3?v=1",
+      "related": "Ca\u011f e\u011f (Ca\u011f: \u015ei\u015f.)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3334.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3334.mp3",
+      "relation_text": "<p>Kar\u015f\u0131dan <span style=\"color:#0000ff\">ca\u011f e\u011f</span>erek <span style=\"color:#0000ff\">gelen</span> adam\u0131 g&ouml;ren kebap&ccedil;\u0131 d&uuml;kk&acirc;n\u0131n\u0131n sahibi kendi kendine \u015f&ouml;yle dedi: &ldquo;<span style=\"color:#0000ff\">Ca\u011f e\u011f</span>erek <span style=\"color:#0000ff\">gelen</span> bu adam kim? <span style=\"color:#0000ff\">Ca\u011f e\u011f</span>erek <span style=\"color:#0000ff\">gelen</span> bu adam burada &ccedil;al\u0131\u015fan eski bir garson mu yoksa?&rdquo; (<span style=\"color:#0000ff\">Ca\u011f e\u011f</span>erek ne yap\u0131yor? <span style=\"color:#0000ff\">Geliyor</span>.)</p>\r\n",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 22,
+          "word_id": 22,
+          "sample": "\u0625\u0650\u0630\u064e\u0627 \u062c\u064e\u0627\u0621\u064e \u0646\u064e\u0635\u0652\u0631\u064f \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0648\u064e\u0627\u0644\u0652\u0641\u064e\u062a\u0652\u062d\u064f \u0650",
+          "sample_meaning": "Allah\u2019\u0131n yard\u0131m\u0131 ve fetih geldi\u011fi zaman. (Nasr 1)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "chapter_id": 1,
+      "word": "\u0639\u064e\u0628\u064e\u062f\u064e",
+      "meaning": "Kulluk etmek, k\u00f6le olmak",
+      "pronunciation": "Abede",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3335.mp3?v=1",
+      "related": "Abide",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3335.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3335.mp3",
+      "relation_text": "\u015eehir meydan\u0131ndaki <font color='yellow'>abide</font>ye kar\u015f\u0131 baz\u0131 k\u00f6leler \u015feytan\u0131n kand\u0131rmas\u0131 neticesinde <font color='yellow'>kulluk ediyorlard\u0131.</font> Onlar\u0131 <font color='yellow'>abide</font>ye \u00e2deta <font color='yellow'>abide</font>nin <font color='yellow'>k\u00f6lesi olmu\u015f\u00e7as\u0131na kulluk ederken</font> g\u00f6renler \u015f\u00f6yle diyordu: \u201cKendinden bile haberi olmayan <font color='yellow'>abide</font>ye <font color='yellow'>kulluk ediyorlar</font> ve <font color='yellow'>k\u00f6le olmu\u015flar</font>. <font color='yellow'>Abide kulluk edilecek</font> ve <font color='yellow'>k\u00f6le olunacak</font> \u015fey mi?!\u201d (<font color='yellow'>Abide</font>ye ne yap\u0131yorlar? <font color='yellow'>Kulluk ediyorlar</font> ve <font color='yellow'>k\u00f6le olmu\u015flar</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 23,
+          "word_id": 23,
+          "sample": "\u0648\u064e\u064a\u064e\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0646\u064e \u0645\u0650\u0646\u0652 \u062f\u064f\u0648\u0646\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0645\u064e\u0627 \u0644\u064e\u0627 \u064a\u064e\u0646\u0652\u0641\u064e\u0639\u064f\u0647\u064f\u0645\u0652 \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0636\u064f\u0631\u0651\u064f\u0647\u064f\u0645\u0652 ",
+          "sample_meaning": "Kendilerine ne bir fayda ne de bir zarar vermeyen Allah\u2019tan ba\u015fkas\u0131na ibadet ediyorlar. (Furkan 55)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "chapter_id": 1,
+      "word": "\u0630\u064e\u0643\u064e\u0631\u064e",
+      "meaning": "Zikretmek, hat\u0131rlamak",
+      "pronunciation": "Zekera",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3336.mp3?v=1",
+      "related": "Zeki ara",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3336.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3336.mp3",
+      "relation_text": "\u00c7ok zeki bir bilim adam\u0131yd\u0131 ve s\u00fcrekli Allah\u2019\u0131 <font color='yellow'>zikrederdi</font>. Bir g\u00fcn onu evde g\u00f6remeyen kad\u0131n o\u011fluna \u015f\u00f6yle dedi: \u201c<font color='yellow'>Zeki</font> baban\u0131 <font color='yellow'>ara</font> o\u011flum, muhtemelen bir yerde <font color='yellow'>zikrediyor</font> ve Allah\u2019\u0131 <font color='yellow'>hat\u0131rl\u0131yordur</font>. <font color='yellow'>Zikreden</font> ve s\u00fcrekli <font color='yellow'>hat\u0131rlayan zeki</font>yi <font color='yellow'>ara</font>.\u201d (<font color='yellow'>Zeki</font> baban\u0131 <font color='yellow'>ara</font>; muhtemelen ne yap\u0131yordur dedi? <font color='yellow'>Zikrediyor</font> ve Allah\u2019\u0131 <font color='yellow'>hat\u0131rl\u0131yordur</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 24,
+          "word_id": 24,
+          "sample": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e \u0625\u0650\u0630\u064e\u0627 \u0630\u064f\u0643\u0650\u0631\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u064f \u0648\u064e\u062c\u0650\u0644\u064e\u062a\u0652 \u0642\u064f\u0644\u064f\u0648\u0628\u064f\u0647\u064f\u0645\u0652",
+          "sample_meaning": "Onlar \u00f6yle kimselerdir ki, Allah zikredildi\u011finde kalpleri titrer. (Hac 35)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "chapter_id": 1,
+      "word": "\u0623\u064e\u062e\u064e\u0630\u064e",
+      "meaning": "Almak",
+      "pronunciation": "Ehaze",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3337.mp3?v=1",
+      "related": "Ahize",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3337.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3337.mp3",
+      "relation_text": "Yere d\u00fc\u015fen <font color='yellow'>ahize</font>yi <font color='yellow'>alan</font> kad\u0131n kocas\u0131na \u015f\u00f6yle dedi: \u201c<font color='yellow'>Ahize al\u0131yorum</font> yerden s\u00fcrekli. Bizim \u00e7ocuk at\u0131yor <font color='yellow'>ahize</font>yi, ben de <font color='yellow'>al\u0131yorum</font>.\u201d (<font color='yellow'>Ahize</font>yi ne yap\u0131yor? <font color='yellow'>Al\u0131yor</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 25,
+          "word_id": 25,
+          "sample": "\u0648\u064e\u0625\u0650\u0630\u0652 \u0623\u064e\u062e\u064e\u0630\u0652\u0646\u064e\u0627 \u0645\u0650\u0646\u064e \u0627\u0644\u0646\u0651\u064e\u0628\u0650\u064a\u0651\u0650\u064a\u0646\u064e \u0645\u0650\u064a\u062b\u064e\u0627\u0642\u064e\u0647\u064f\u0645\u0652",
+          "sample_meaning": "Bir vakit nebilerden s\u00f6zle\u015fmelerini alm\u0131\u015ft\u0131k. (Ahzab 7)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "chapter_id": 1,
+      "word": "\u0648\u064e\u0642\u064e\u0649",
+      "meaning": "Korumak",
+      "pronunciation": "Veka:",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3338.mp3?v=1",
+      "related": "Vaka (Vak: \u00d6rdek sesi.)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3338.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3338.mp3",
+      "relation_text": "Bir kedinin \u00f6rdek yavrular\u0131na sald\u0131rmak \u00fczere oldu\u011funu g\u00f6ren k\u00fc\u00e7\u00fck k\u0131z \u00f6rdeklerin annelerini g\u00f6stererek arkada\u015f\u0131na \u015f\u00f6yle dedi: \u201c<font color='yellow'>Vaka</font> <font color='yellow'>korumas\u0131n\u0131</font> s\u00f6yle. <font color='yellow'>Vaka koru</font> de.\u201d (<font color='yellow'>Vaka</font> yavrular\u0131 ne yapmas\u0131n\u0131 s\u00f6yle? <font color='yellow'>Korumas\u0131n\u0131</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 26,
+          "word_id": 26,
+          "sample": "\u0641\u064e\u0648\u064e\u0642\u064e\u0627\u0647\u064f\u0645\u064f \u0627\u0644\u0644\u0651\u064e\u0647\u064f \u0634\u064e\u0631\u0651\u064e \u0630\u064e\u0644\u0650\u0643\u064e \u0627\u0644\u0652\u064a\u064e\u0648\u0652\u0645\u0650 \u0648\u064e\u0644\u064e\u0642\u0651\u064e\u0627\u0647\u064f\u0645\u0652 \u0646\u064e\u0636\u0652\u0631\u064e\u0629\u064b \u0648\u064e\u0633\u064f\u0631\u064f\u0648\u0631\u064b\u0627",
+          "sample_meaning": "Allah onlar\u0131 o g\u00fcn\u00fcn \u015ferrinden korudu. Ve onlar\u0131 mutluluk ve ayd\u0131nl\u0131\u011fa kavu\u015fturdu. (\u0130nsan 11)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "chapter_id": 1,
+      "word": "\u0628\u064e\u0627\u0646\u064e",
+      "meaning": "A\u00e7\u0131klamak, izah etmek",
+      "pronunciation": "Ba:ne",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3339.mp3?v=1",
+      "related": "Ba\u011f ne?",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3339.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3339.mp3",
+      "relation_text": "\u0130lk defa geldi\u011fi ba\u011fda ve \u201cBa\u011f ne, <font color='yellow'>ba\u011f ne?</font>\u201d deyip duran torunlar\u0131na e\u015finin ba\u011f\u0131 <font color='yellow'>izah etti\u011fini</font> g\u00f6ren kad\u0131n kendi kendine \u015f\u00f6yle dedi: \u201c<font color='yellow'>Ba\u011f</font>\u0131n <font color='yellow'>ne</font> oldu\u011funu <font color='yellow'>a\u00e7\u0131kl\u0131yor</font> ve <font color='yellow'>izah ediyor</font>. <font color='yellow'>Ba\u011f ne</font> diyen torunumuza <font color='yellow'>a\u00e7\u0131kl\u0131yor</font> ve <font color='yellow'>izah ediyor</font> yani.\u201d (\u201c<font color='yellow'>Ba\u011f ne?</font>\u201d diyen torununa ne yap\u0131yor? <font color='yellow'>A\u00e7\u0131kl\u0131yor</font> ve <font color='yellow'>izah ediyor</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 27,
+          "word_id": 27,
+          "sample": "\u0648\u064e\u064a\u064f\u0628\u064e\u064a\u0651\u0650\u0646\u064f \u0627\u0644\u0644\u0651\u064e\u0647\u064f \u0644\u064e\u0643\u064f\u0645\u064f \u0627\u0644\u0652\u0622\u064a\u064e\u0627\u062a\u0650 \u0648\u064e\u0627\u0644\u0644\u0651\u064e\u0647\u064f \u0639\u064e\u0644\u0650\u064a\u0645\u064c \u062d\u064e\u0643\u0650\u064a\u0645\u064c",
+          "sample_meaning": "Allah ayetleri sizin i\u00e7in a\u00e7\u0131kl\u0131yor. (Nur 18)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "chapter_id": 1,
+      "word": "\u062e\u064e\u0644\u064e\u0642\u064e",
+      "meaning": "Yaratmak",
+      "pronunciation": "Haleka",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3340.mp3?v=1",
+      "related": "Hal\u0131 ka(n)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3340.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3340.mp3",
+      "relation_text": "<font color='yellow'>Hal\u0131</font>n\u0131n \u00fczerinde <font color='yellow'>ka</font>n g\u00f6ren adam, \u201c<font color='yellow'>Hal\u0131 ka</font>n! Nereden geldi bu?!\u201d diye kar\u0131s\u0131na \u00e7\u0131k\u0131\u015f\u0131nca kar\u0131s\u0131 ona \u015f\u00f6yle dedi: \u201c<font color='yellow'>Hal\u0131</font>daki <font color='yellow'>ka</font>n\u0131 ben mi <font color='yellow'>yaratt\u0131m</font>?! <font color='yellow'>Hal\u0131 ka</font>nl\u0131 ise ben ne yapay\u0131m?! <font color='yellow'>Yaratmak</font> yaln\u0131zca Allah\u2019a mahsus!\u201d (\u201c<font color='yellow'>Hal\u0131</font>daki <font color='yellow'>ka</font>n\u0131 ben mi <font color='yellow'>yaratt\u0131m</font>?!\u201d dedi kad\u0131n.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 28,
+          "word_id": 28,
+          "sample": "\u0645\u0650\u0646\u0652 \u0634\u064e\u0631\u0651\u0650 \u0645\u064e\u0627 \u062e\u064e\u0644\u064e\u0642\u064e",
+          "sample_meaning": "Yaratt\u0131\u011f\u0131 \u015feylerin \u015ferrinden\u2026 (Felak 2)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "chapter_id": 1,
+      "word": "\u0623\u064e\u0645\u064e\u0631\u064e",
+      "meaning": "Emretmek",
+      "pronunciation": "Emera",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3341.mp3?v=1",
+      "related": "MR\u2019a",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3341.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3341.mp3",
+      "relation_text": "<font color='yellow'>MR\u2019a</font> girmeye korkan futbolcusuna antren\u00f6r \u015f\u00f6yle dedi: \u201c<font color='yellow'>MR\u2019a</font> gir, <font color='yellow'>emrediyorum</font>! <font color='yellow'>Emrediyorum</font>, hadi <font color='yellow'>MR\u2019a</font>!\u201d (<font color='yellow'>MR\u2019a</font> gir diyerek ne yapt\u0131? <font color='yellow'>Emretti</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 29,
+          "word_id": 29,
+          "sample": "\u0623\u064e\u0648\u0652 \u0623\u064e\u0645\u064e\u0631\u064e \u0628\u0650\u0627\u0644\u062a\u0651\u064e\u0642\u0652\u0648\u064e\u0649",
+          "sample_meaning": "Veya takvay\u0131 emretti. (Alak 12)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "chapter_id": 1,
+      "word": "\u0646\u064e\u0627\u0633\u064c",
+      "meaning": "\u0130nsanlar",
+      "pronunciation": "Na:s",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3342.mp3?v=1",
+      "related": "Nas",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3342.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3342.mp3",
+      "relation_text": "\u0130\u015f arkada\u015flar\u0131n\u0131 ne zaman bir yere \u00e7a\u011f\u0131rsa veya onlardan bir \u015fey istese hep <font color='yellow'>naz</font> yap\u0131yorlard\u0131. Yine bir g\u00fcn onlar\u0131n <font color='yellow'>naz</font> yapmalar\u0131 \u00fczerine \u015f\u00f6yle yak\u0131nd\u0131: \u201c<font color='yellow'>Naz</font>\u0131ndan b\u0131kt\u0131m <font color='yellow'>insanlar\u0131n</font>! Bana <font color='yellow'>naz</font> yap\u0131yor <font color='yellow'>insanlar</font> hep!\u201d (Kimler ona hep <font color='yellow'>naz</font> yap\u0131yor? <font color='yellow'>\u0130nsanlar</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 30,
+          "word_id": 30,
+          "sample": "\u0645\u0650\u0646\u064e \u0627\u0644\u0652\u062c\u0650\u0646\u0651\u064e\u0629\u0650 \u0648\u064e\u0627\u0644\u0646\u0651\u064e\u0627\u0633\u0650",
+          "sample_meaning": "Cinlerden ve insanlardan\u2026 (Nas 6)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "chapter_id": 1,
+      "word": "\u0634\u064e\u0627\u0621\u064e",
+      "meaning": "Dilemek",
+      "pronunciation": "\u015ea:e",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3343.mp3?v=1",
+      "related": "\u015eah e\u011f",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3343.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3343.mp3",
+      "relation_text": "Sinirden satran\u00e7taki \u015fah piyonunu e\u011fen rakibine adam \u015f\u00f6yle dedi: \u201c<font color='yellow'>\u015eah e\u011f</font> bakal\u0131m, <font color='yellow'>dilerim</font> kaybedeceksin. <font color='yellow'>\u015eah e\u011f</font>, kazanmay\u0131 <font color='yellow'>diliyorum</font>.\u201d (\u201c<font color='yellow'>\u015eah e\u011f</font> bakal\u0131m, <font color='yellow'>dilerim</font> kaybedeceksin.\u201d dedi adam.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 31,
+          "word_id": 31,
+          "sample": "\u0641\u064e\u0645\u064e\u0646\u0652 \u0634\u064e\u0627\u0621\u064e \u0630\u064e\u0643\u064e\u0631\u064e\u0647",
+          "sample_meaning": "Kim dilerse onu zikreder. (Abese 12)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "chapter_id": 1,
+      "word": "\u063a\u064e\u0641\u064e\u0631\u064e",
+      "meaning": "Ba\u011f\u0131\u015flamak",
+      "pronunciation": "Gafera",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3344.mp3?v=1",
+      "related": "Gaf ara",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3344.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3344.mp3",
+      "relation_text": "Ba\u015fbakan\u0131n da konuk oldu\u011fu programda iki gazeteciden biri di\u011ferine \u015f\u00f6yle dedi: \u201c<font color='yellow'>Gaf ara</font>, hatas\u0131n\u0131 buldun mu hemen surat\u0131n\u0131 vur. <font color='yellow'>Ba\u011f\u0131\u015flama</font> sak\u0131n. <font color='yellow'>Gaf ara</font> ve <font color='yellow'>ba\u011f\u0131\u015flama</font>.\u201d (<font color='yellow'>Gaf ara</font> ve sak\u0131n ne yapma dedi? <font color='yellow'>Ba\u011f\u0131\u015flama</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 32,
+          "word_id": 32,
+          "sample": "\u0625\u0650\u0646\u0651\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u064e \u0644\u064e\u0627 \u064a\u064e\u063a\u0652\u0641\u0650\u0631\u064f \u0623\u064e\u0646\u0652 \u064a\u064f\u0634\u0652\u0631\u064e\u0643\u064e \u0628\u0650\u0647\u0650 \u0648\u064e\u064a\u064e\u063a\u0652\u0641\u0650\u0631\u064f \u0645\u064e\u0627 \u062f\u064f\u0648\u0646\u064e \u0630\u064e\u0644\u0650\u0643\u064e \u0644\u0650\u0645\u064e\u0646\u0652 \u064a\u064e\u0634\u064e\u0627\u0621\u064f",
+          "sample_meaning": "\u015e\u00fcphesiz Allah kendisine \u015firk ko\u015fulmas\u0131n\u0131 ba\u011f\u0131\u015flamaz. Bunun d\u0131\u015f\u0131ndakileri ise diledi\u011finden ba\u011f\u0131\u015flar. (Nisa 116)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "chapter_id": 1,
+      "word": "\u062d\u064e\u0643\u064e\u0645\u064e",
+      "meaning": "Hakem olmak, karar vermek, h\u00fckmetmek",
+      "pronunciation": "Hakeme",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3345.mp3?v=1",
+      "related": "Hakeme",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3345.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3345.mp3",
+      "relation_text": "<p>Penalt\u0131 noktas\u0131n\u0131 g&ouml;steren orta <span style=\"color:#0000ff\">hakeme</span> sinirlenen antren&ouml;r yan hakemin yan\u0131na giderek ona \u015f&ouml;yle dedi: &ldquo;<span style=\"color:#0000ff\">Hakeme</span> adam gibi&nbsp;<span style=\"color:#0000ff\">karar vermesini</span> ve <span style=\"color:#0000ff\">h&uuml;kmetmesini</span> s&ouml;yle! Hakeme hakem gibi <span style=\"color:#0000ff\">hakem olmas\u0131n\u0131</span> s&ouml;yle! Ne bi&ccedil;im <span style=\"color:#0000ff\">karar veriyor</span> ve <span style=\"color:#0000ff\">h&uuml;kmediyor</span>!&rdquo; (<span style=\"color:#0000ff\">Hakeme</span> ne s&ouml;yle? Adam gibi <span style=\"color:#0000ff\">karar vermesini</span>, <span style=\"color:#0000ff\">h&uuml;kmetmesini</span> ve hakem gibi <span style=\"color:#0000ff\">hakem olmas\u0131n\u0131</span>.)</p>\r\n",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 33,
+          "word_id": 33,
+          "sample": "\u0627\u0644\u0644\u0651\u064e\u0647\u064f \u064a\u064e\u062d\u0652\u0643\u064f\u0645\u064f \u0628\u064e\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u064a\u064e\u0648\u0652\u0645\u064e \u0627\u0644\u0652\u0642\u0650\u064a\u064e\u0627\u0645\u064e\u0629\u0650 \u0641\u0650\u064a\u0645\u064e\u0627 \u0643\u064f\u0646\u0652\u062a\u064f\u0645\u0652 \u0641\u0650\u064a\u0647\u0650 \u062a\u064e\u062e\u0652\u062a\u064e\u0644\u0650\u0641\u064f\u0648\u0646\u064e",
+          "sample_meaning": "Allah k\u0131yamet g\u00fcn\u00fcnde ihtilaf etmi\u015f oldu\u011funuz \u015feyler konusunda aran\u0131zda karar verecek. (Hac 69)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "chapter_id": 1,
+      "word": "\u062f\u064e\u0639\u064e\u0627",
+      "meaning": "\u00c7a\u011f\u0131rmak, dua etmek, iddia etmek",
+      "pronunciation": "Dea:",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3346.mp3?v=1",
+      "related": "De a\u011fa",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3346.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3346.mp3",
+      "relation_text": "K\u00f6yl\u00fclere d\u00fcn yar\u0131n ya\u011fmur ya\u011faca\u011f\u0131n\u0131 <font color='yellow'>iddia eden</font> ve <font color='yellow'>dua etmeye</font> \u00e7\u0131kmalar\u0131n\u0131 engelleyen adama bug\u00fcn gelen k\u00f6yl\u00fcler onu dua ederken bulunca a\u011faya \u015f\u00f6yle dediler: \u201c<font color='yellow'>De a\u011fa dua eden</font> \u015fu adama, <font color='yellow'>iddia etti\u011fi</font> \u015fey neden ger\u00e7ekle\u015fmedi? <font color='yellow'>De a\u011fa</font>, <font color='yellow'>\u00e7a\u011f\u0131r dua edeni</font> de <font color='yellow'>iddia etti\u011fi</font> gibi neden olmad\u0131 diye sor.\u201d (\u201c<font color='yellow'>De a\u011fa</font>, <font color='yellow'>\u00e7a\u011f\u0131r dua edeni</font> de <font color='yellow'>iddia etti\u011fi</font> gibi neden olmad\u0131 diye sor.\u201d dedi k\u00f6yl\u00fcler.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 34,
+          "word_id": 34,
+          "sample": "\u0623\u064f\u0648\u0644\u064e\u0626\u0650\u0643\u064e \u064a\u064e\u062f\u0652\u0639\u064f\u0648\u0646\u064e \u0625\u0650\u0644\u064e\u0649 \u0627\u0644\u0646\u0651\u064e\u0627\u0631\u0650 \u0648\u064e\u0627\u0644\u0644\u0651\u064e\u0647\u064f \u064a\u064e\u062f\u0652\u0639\u064f\u0648 \u0625\u0650\u0644\u064e\u0649 \u0627\u0644\u0652\u062c\u064e\u0646\u0651\u064e\u0629\u0650 \u0648\u064e\u0627\u0644\u0652\u0645\u064e\u063a\u0652\u0641\u0650\u0631\u064e\u0629\u0650 \u0628\u0650\u0625\u0650\u0630\u0652\u0646\u0650\u0647\u0650",
+          "sample_meaning": "Onlar ate\u015fe davete \u00e7a\u011f\u0131r\u0131yorlar. Allah ise kendi izniyle cennete ve ma\u011ffirete \u00e7a\u011f\u0131r\u0131yor. (Bakara 221)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "chapter_id": 1,
+      "word": "\u062e\u064e\u0627\u0631\u064e",
+      "meaning": "Se\u00e7mek",
+      "pronunciation": "Ha:ra",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3347.mp3?v=1",
+      "related": "Havra",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3347.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3347.mp3",
+      "relation_text": "Yan yana bulunan iki <font color='yellow'>havra</font>dan birinde ibadet etmek isteyen ve \u201cBu <font color='yellow'>havra</font>y\u0131 <font color='yellow'>se\u00e7tim</font>.\u201d diyen Yahudi\u2019ye di\u011feri \u015f\u00f6yle dedi: \u201c<font color='yellow'>Se\u00e7ti\u011fin havra</font> daha g\u00fczel. Hadi <font color='yellow'>se\u00e7ti\u011fin havra</font>ya girelim.\u201d (Bir <font color='yellow'>havra</font>y\u0131 ne yapt\u0131? <font color='yellow'>Se\u00e7ti</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 35,
+          "word_id": 35,
+          "sample": "\u0648\u064e\u0627\u062e\u0652\u062a\u064e\u0627\u0631\u064e \u0645\u064f\u0648\u0633\u064e\u0649 \u0642\u064e\u0648\u0652\u0645\u064e\u0647\u064f \u0633\u064e\u0628\u0652\u0639\u0650\u064a\u0646\u064e \u0631\u064e\u062c\u064f\u0644\u064b",
+          "sample_meaning": "Musa kavminden yetmi\u015f ki\u015fi se\u00e7ti. (Araf 155)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "chapter_id": 1,
+      "word": "\u062d\u064e\u0633\u064f\u0646\u064e",
+      "meaning": "G\u00fczel olmak",
+      "pronunciation": "Hasune",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3348.mp3?v=1",
+      "related": "Has un e(le)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3348.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3348.mp3",
+      "relation_text": "Kad\u0131n gelecek olan misafirlerine b\u00f6rek yapacakt\u0131 ve un eliyordu. E\u015fi bir s\u00fcre unun markas\u0131na bakt\u0131 ve ona \u015f\u00f6yle dedi: \u201cHan\u0131m, <font color='yellow'>has un e</font>le ki, <font color='yellow'>g\u00fczel olsun</font> b\u00f6rekler. <font color='yellow'>Has un e</font>lersen <font color='yellow'>g\u00fczel olur</font>.\u201d (<font color='yellow'>Has un e</font>lersen nas\u0131l olur dedi? <font color='yellow'>G\u00fczel olur</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 36,
+          "word_id": 36,
+          "sample": "\u0648\u064e\u0627\u0644\u0644\u0651\u064e\u0647\u064f \u0639\u0650\u0646\u0652\u062f\u064e\u0647\u064f \u062d\u064f\u0633\u0652\u0646\u064f \u0627\u0644\u062b\u0651\u064e\u0648\u064e\u0627\u0628\u0650",
+          "sample_meaning": "Sevab\u0131n g\u00fczel olan\u0131 Allah kat\u0131ndad\u0131r. (\u00c2li \u0130mran 195)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "chapter_id": 1,
+      "word": "\u0636\u064e\u0644\u0651\u064e",
+      "meaning": "Sap\u0131tmak",
+      "pronunciation": "Dalle",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3349.mp3?v=1",
+      "related": "Dal ile",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3349.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3349.mp3",
+      "relation_text": "Elindeki <font color='yellow'>dal ile</font> kendisini kovalayan adama kad\u0131n \u015f\u00f6yle diyordu: \u201c<font color='yellow'>Dal ile</font> neden ko\u015fturuyorsun, <font color='yellow'>sap\u0131tt\u0131n</font> m\u0131? <font color='yellow'>Dal ile sap\u0131tt\u0131n</font> kesin sen!\u201d (<font color='yellow'>Dal ile</font> kovalayan adama ne dedi? <font color='yellow'>Sap\u0131tt\u0131n</font> m\u0131?)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 37,
+          "word_id": 37,
+          "sample": "\u0648\u064e\u0645\u064e\u0646\u0652 \u064a\u064f\u0634\u0652\u0631\u0650\u0643\u0652 \u0628\u0650\u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0641\u064e\u0642\u064e\u062f\u0652 \u0636\u064e\u0644\u0651\u064e \u0636\u064e\u0644\u064e\u0627\u0644\u064b\u0627 \u0628\u064e\u0639\u0650\u064a\u062f\u064b\u0627",
+          "sample_meaning": "Kim Allah\u2019a \u015firk ko\u015farsa uzak bir sap\u0131kl\u0131kla sapm\u0131\u015f olur. (Nisa 116)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "chapter_id": 1,
+      "word": "\u0633\u064e\u0645\u0650\u0639\u064e",
+      "meaning": "\u0130\u015fitmek",
+      "pronunciation": "Semia",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3350.mp3?v=1",
+      "related": "(L\u00f6)semi-a\u011f",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3350.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3350.mp3",
+      "relation_text": "Kafas\u0131na bir bal\u0131k a\u011f\u0131 ge\u00e7iren l\u00f6semi hastas\u0131 gence babas\u0131 bir t\u00fcrl\u00fc s\u00f6ylediklerini <font color='yellow'>i\u015fittiremeyince</font> ona \u015f\u00f6yle dedi: \u201cL\u00f6<font color='yellow'>semi</font>, <font color='yellow'>a\u011f</font> ile <font color='yellow'>i\u015fitemezsin</font> tabi. L\u00f6<font color='yellow'>semi</font>, <font color='yellow'>a\u011f</font>\u0131 \u00e7\u0131kar\u0131rsan <font color='yellow'>i\u015fitirsin</font>.\u201d (L\u00f6<font color='yellow'>semi a\u011f</font> ile ne yapam\u0131yor? <font color='yellow'>\u0130\u015fitemiyor</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 38,
+          "word_id": 38,
+          "sample": "\u0642\u064e\u062f\u0652 \u0633\u064e\u0645\u0650\u0639\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u064f \u0642\u064e\u0648\u0652\u0644\u064e \u0627\u0644\u0651\u064e\u062a\u0650\u064a \u062a\u064f\u062c\u064e\u0627\u062f\u0650\u0644\u064f\u0643\u064e \u0641\u0650\u064a \u0632\u064e\u0648\u0652\u062c\u0650\u0647\u064e",
+          "sample_meaning": "Allah seninle e\u015fi hakk\u0131nda tart\u0131\u015fan\u0131 elbette i\u015fitti. (M\u00fccadele 1)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "chapter_id": 1,
+      "word": "\u062e\u064e\u0631\u064e\u062c\u064e",
+      "meaning": "\u00c7\u0131kmak",
+      "pronunciation": "Harace",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3351.mp3?v=1",
+      "related": "Harac\u0131",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3351.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3351.mp3",
+      "relation_text": "Mahalle esnaf\u0131n\u0131 haraca ba\u011flayan mafya babas\u0131 bir d\u00fckk\u00e2n sahibine \u015f\u00f6yle dedi: \u201c<font color='yellow'>Harac\u0131 \u00e7\u0131kar</font> yoksa d\u00fckk\u00e2n\u0131ndan <font color='yellow'>\u00e7\u0131kar\u0131r\u0131m</font> seni. <font color='yellow'>Harac\u0131 \u00e7\u0131kar</font> hemen seni buradan <font color='yellow'>\u00e7\u0131karmam\u0131</font> istemiyorsan.\u201d (<font color='yellow'>Harac\u0131</font> ne yap dedi? <font color='yellow'>\u00c7\u0131kar</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 39,
+          "word_id": 39,
+          "sample": "",
+          "sample_meaning": "",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "chapter_id": 1,
+      "word": "\u0633\u064e\u0628\u0650\u064a\u0644\u064c",
+      "meaning": "Yol",
+      "pronunciation": "Sebi:l",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3352.mp3?v=1",
+      "related": "Sebil",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3352.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3352.mp3",
+      "relation_text": "<font color='yellow'>Yolda</font> \u00e7ok fazla <font color='yellow'>sebil</font>in oldu\u011funu g\u00f6ren adam arkada\u015f\u0131na \u015f\u00f6yle dedi: \u201c<font color='yellow'>Sebil</font> dolu <font color='yellow'>yol</font>. Bu kadar <font color='yellow'>sebil</font>i <font color='yellow'>yola</font> neden yapt\u0131klar ki?\u201d (Nerede \u00e7ok <font color='yellow'>sebil</font> var? <font color='yellow'>Yolda</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 40,
+          "word_id": 40,
+          "sample": "\u0627\u062f\u0652\u0639\u064f \u0625\u0650\u0644\u064e\u0649 \u0633\u064e\u0628\u0650\u064a\u0644\u0650 \u0631\u064e\u0628\u0651\u0650\u0643\u064e \u0628\u0650\u0627\u0644\u0652\u062d\u0650\u0643\u0652\u0645\u064e\u0629\u0650 \u0648\u064e\u0627\u0644\u0652\u0645\u064e\u0648\u0652\u0639\u0650\u0638\u064e\u0629\u0650 \u0627\u0644\u0652\u062d\u064e\u0633\u064e\u0646\u064e\u0629\u0650",
+          "sample_meaning": "Rabb\u2019inin yoluna hikmet ve g\u00fczel \u00f6\u011f\u00fctle \u00e7a\u011f\u0131r. (Nahl 125)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "chapter_id": 1,
+      "word": "\u0645\u064e\u0627\u062a\u064e",
+      "meaning": "\u00d6lmek",
+      "pronunciation": "Ma:te",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3353.mp3?v=1",
+      "related": "Mate(m)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3353.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3353.mp3",
+      "relation_text": "<font color='yellow'>\u00d6len</font> babas\u0131n\u0131n arkas\u0131ndan iki y\u0131l ge\u00e7mesine ra\u011fmen h\u00e2l\u00e2 <font color='yellow'>mate</font>m tutan arkada\u015f\u0131na adam \u015f\u00f6yle dedi: \u201c<font color='yellow'>Mate</font>m olmaz <font color='yellow'>\u00f6lenin</font> arkas\u0131ndan bu kadar. <font color='yellow'>Mate</font>m ile <font color='yellow'>\u00f6lene</font> eziyet ediyorsun. <font color='yellow'>\u00d6ld\u00fc</font>, kabullen art\u0131k.\u201d <font color='yellow'>Mate</font>m tutana neyi kabullen dedi? Baban\u0131n <font color='yellow'>\u00f6ld\u00fc\u011f\u00fcn\u00fc</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 41,
+          "word_id": 41,
+          "sample": "\u0642\u064f\u0644\u0652 \u0645\u064f\u0648\u062a\u064f\u0648\u0627 \u0628\u0650\u063a\u064e\u064a\u0652\u0638\u0650\u0643\u064f\u0645\u0652 \u0625\u0650\u0646\u0651\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u064e \u0639\u064e\u0644\u0650\u064a\u0645\u064c \u0628\u0650\u0630\u064e\u0627\u062a\u0650 \u0627\u0644\u0635\u0651\u064f\u062f\u064f\u0648\u0631\u0650",
+          "sample_meaning": "De ki: Kininizden \u00f6l\u00fcn\u00fcz. \u015e\u00fcphesiz Allah sinelerdekini \u00e7ok iyi bilendir. (\u00c2li \u0130mran 119)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "chapter_id": 1,
+      "word": "\u062a\u064e\u0628\u0650\u0639\u064e",
+      "meaning": "Takip etmek, izlemek",
+      "pronunciation": "Tebia",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3354.mp3?v=1",
+      "related": "Teybi-a\u011f",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3354.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3354.mp3",
+      "relation_text": "Yolda elinde son model bir teyp ile y\u00fcr\u00fcyen adam\u0131 elinde a\u011f ile <font color='yellow'>takip eden</font> h\u0131rs\u0131z\u0131 g\u00f6renler \u015f\u00f6yle diyordu: \u201c<font color='yellow'>Teybi a\u011f</font> ile <font color='yellow'>takip ediyor</font> ve <font color='yellow'>izliyor</font>. <font color='yellow'>Teybi a\u011f</font> ile \u00e7alacak, o y\u00fczden <font color='yellow'>takip ediyor</font> ve <font color='yellow'>izliyor</font>.\u201d (<font color='yellow'>Teybi a\u011f</font> ile ne yap\u0131yor? <font color='yellow'>Takip ediyor</font> ve <font color='yellow'>izliyor</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 42,
+          "word_id": 42,
+          "sample": "\u0641\u064e\u0645\u064e\u0646\u0652 \u062a\u064e\u0628\u0650\u0639\u064e \u0647\u064f\u062f\u064e\u0627\u064a\u064e \u0641\u064e\u0644\u064e\u0627 \u062e\u064e\u0648\u0652\u0641\u064c \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u0648\u064e\u0644\u064e\u0627 \u0647\u064f\u0645\u0652 \u064a\u064e\u062d\u0652\u0632\u064e\u0646\u064f\u0648\u0646\u064e",
+          "sample_meaning": "Her kim benim do\u011fru yolumu izlerse, art\u0131k ona korku yoktur ve o h\u00fcz\u00fcnlenecek de de\u011fildir. (Bakara 38)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "chapter_id": 1,
+      "word": "\u0642\u064e\u062a\u064e\u0644\u064e",
+      "meaning": "\u00d6ld\u00fcrmek",
+      "pronunciation": "Katele",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3355.mp3?v=1",
+      "related": "Katile",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3355.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3355.mp3",
+      "relation_text": "Adam eline silah\u0131 alm\u0131\u015f, \u00f6n\u00fcne geleni <font color='yellow'>\u00f6ld\u00fcr\u00fcyordu</font>. Onu uzaktan g\u00f6ren birisi yan\u0131ndakine \u015f\u00f6yle dedi: \u201c\u015eu <font color='yellow'>katile</font> bak <font color='yellow'>katile</font>, nas\u0131l da <font color='yellow'>\u00f6ld\u00fcr\u00fcyor</font>!\u201d (<font color='yellow'>Katile</font> bak, <font color='yellow'>\u00f6ld\u00fcr\u00fcyor</font>!)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 43,
+          "word_id": 43,
+          "sample": "\u0648\u064e\u0642\u064e\u062a\u064e\u0644\u064e \u062f\u064e\u0627\u0648\u064f\u0648\u062f\u064f \u062c\u064e\u0627\u0644\u064f\u0648\u062a\u064e",
+          "sample_meaning": "Ve Davut Calut\u2019u \u00f6ld\u00fcrd\u00fc. (Bakara 151)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "chapter_id": 1,
+      "word": "\u0633\u064e\u0627\u0621\u064e",
+      "meaning": "K\u00f6t\u00fc olmak",
+      "pronunciation": "Sa:e",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3356.mp3?v=1",
+      "related": "Sa\u011f e(l)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3356.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3356.mp3",
+      "relation_text": "<font color='yellow'>Sa\u011f e</font>lini kap\u0131ya kapt\u0131ran \u00e7ocuk \u015f\u00f6yle ba\u011f\u0131r\u0131yordu: \u201c<font color='yellow'>Sa\u011f e</font>lim <font color='yellow'>k\u00f6t\u00fc oldu</font>! <font color='yellow'>Sa\u011f e</font>limin ak\u0131beti ne de <font color='yellow'>k\u00f6t\u00fc oldu</font>!\u201d (<font color='yellow'>Sa\u011f e</font>line ne oldu? <font color='yellow'>K\u00f6t\u00fc oldu</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 44,
+          "word_id": 44,
+          "sample": "\u0633\u064e\u0627\u0621\u064e \u0645\u064e\u0627 \u064a\u064e\u062d\u0652\u0643\u064f\u0645\u064f\u0648\u0646",
+          "sample_meaning": "H\u00fckmetti\u011finiz \u015fey ne k\u00f6t\u00fcd\u00fcr. (En\u2019am 136)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "chapter_id": 1,
+      "word": "\u0634\u064e\u0631\u0650\u0643\u064e",
+      "meaning": "Ortakl\u0131k yapmak, payla\u015fmak",
+      "pronunciation": "\u015eerike",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3357.mp3?v=1",
+      "related": "\u015eu erike",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3357.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3357.mp3",
+      "relation_text": "Erik a\u011fa\u00e7lar\u0131ndaki eriklere i\u015faret eden adam arkada\u015f\u0131na \u015f\u00f6yle dedi: \u201c<font color='yellow'>\u015eu erike</font> bir <font color='yellow'>ortakl\u0131k yap\u0131l\u0131r</font>. Yani <font color='yellow'>ortakl\u0131k yap\u0131l\u0131p</font> fabrika a\u00e7\u0131labilir. Ama istemezsen <font color='yellow'>payla\u015f\u0131r\u0131z</font> sadece. <font color='yellow'>Ortakl\u0131k yapmazsan</font> seninle <font color='yellow'>payla\u015fabilirim</font>. Baksana <font color='yellow'>\u015fu erike</font>.\u201d (\u201c<font color='yellow'>\u015eu erike</font> bir <font color='yellow'>ortakl\u0131k yap\u0131l\u0131r</font>. Ama istemezsen <font color='yellow'>payla\u015f\u0131r\u0131z</font> sadece.\u201d dedi adam arkada\u015f\u0131na.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 45,
+          "word_id": 45,
+          "sample": "\u0648\u064e\u0645\u064e\u0646\u0652 \u064a\u064f\u0634\u0652\u0631\u0650\u0643\u0652 \u0628\u0650\u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0641\u064e\u0642\u064e\u062f\u0650 \u0627\u0641\u0652\u062a\u064e\u0631\u064e\u0649 \u0625\u0650\u062b\u0652\u0645\u064b\u0627 \u0639\u064e\u0638\u0650\u064a\u0645\u064b\u0627",
+          "sample_meaning": "Her kim Allah\u2019a ortak ko\u015farsa ger\u00e7ekten b\u00fcy\u00fck bir g\u00fcnahla iftira etmi\u015f olur. (Nisa 48)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "chapter_id": 1,
+      "word": "\u0643\u064e\u062b\u064f\u0631\u064e",
+      "meaning": "\u00c7ok olmak",
+      "pronunciation": "Kesura",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3358.mp3?v=1",
+      "related": "Kel-sura",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3358.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3358.mp3",
+      "relation_text": "Sa\u00e7\u0131 olmayanlar\u0131n surun \u00fczerine \u00e7\u0131kt\u0131\u011f\u0131n\u0131 g\u00f6ren \u015f\u00f6valye kendi kendine \u015f\u00f6yle dedi: \u201c<font color='yellow'>Kel</font>ler <font color='yellow'>sura</font> gele gele<font color='yellow'>\u00e7ok oldular</font>. <font color='yellow'>Kel</font> adamlar <font color='yellow'>sura</font> \u00e7\u0131k\u0131yor devaml\u0131, <font color='yellow'>\u00e7ok oldular</font>.\u201d (<font color='yellow'>Kel</font>ler <font color='yellow'>sura</font> gele gele ne kadar oldular? <font color='yellow'>\u00c7ok oldular</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 46,
+          "word_id": 46,
+          "sample": "\u0648\u064e\u0627\u0630\u0652\u0643\u064f\u0631\u064f\u0648\u0627 \u0625\u0650\u0630\u0652 \u0643\u064f\u0646\u0652\u062a\u064f\u0645\u0652 \u0642\u064e\u0644\u0650\u064a\u0644\u064b\u0627 \u0641\u064e\u0643\u064e\u062b\u0651\u064e\u0631\u064e\u0643\u064f\u0645\u0652",
+          "sample_meaning": "Hat\u0131rlay\u0131n\u0131z... Hani sizler az idiniz, sizi \u00e7o\u011faltt\u0131. (Araf 86)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "chapter_id": 1,
+      "word": "\u062d\u064e\u064a\u0651\u064e",
+      "meaning": "Ya\u015famak",
+      "pronunciation": "Hayye",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3359.mp3?v=1",
+      "related": "Hay ye!",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3359.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3359.mp3",
+      "relation_text": "Yolda a\u00e7l\u0131ktan \u00f6lmek \u00fczere olan bir ki\u015fiye yemek yedirmeye \u00e7al\u0131\u015fan adam bir yandan a\u011fl\u0131yor bir yandan da \u015f\u00f6yle diyordu: \u201c<font color='yellow'>Hay ye</font> hadi, <font color='yellow'>ya\u015famal\u0131s\u0131n</font>! <font color='yellow'>Hay ye</font> ne olur, <font color='yellow'>ya\u015fayacaks\u0131n</font>!\u201d (<font color='yellow'>Hay ye</font> hadi; ne yapacaks\u0131n dedi? <font color='yellow'>Ya\u015fayacaks\u0131n</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 47,
+          "word_id": 47,
+          "sample": "\u0642\u064e\u0627\u0644\u064e \u0641\u0650\u064a\u0647\u064e\u0627 \u062a\u064e\u062d\u0652\u064a\u064e\u0648\u0652\u0646\u064e \u0648\u064e\u0641\u0650\u064a\u0647\u064e\u0627 \u062a\u064e\u0645\u064f\u0648\u062a\u064f\u0648\u0646\u064e \u0648\u064e\u0645\u0650\u0646\u0652\u0647\u064e\u0627 \u062a\u064f\u062e\u0652\u0631\u064e\u062c\u064f\u0648\u0646\u064e",
+          "sample_meaning": "Dedi ki: Orada (d\u00fcnyada) ya\u015far, orada \u00f6l\u00fcr ve oradan (diriltilerek) \u00e7\u0131kart\u0131l\u0131rs\u0131n\u0131z. (Araf 25)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "chapter_id": 1,
+      "word": "\u0643\u064e\u0628\u064f\u0631\u064e",
+      "meaning": "B\u00fcy\u00fck olmak, b\u00fcy\u00fcmek",
+      "pronunciation": "Kebura",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3360.mp3?v=1",
+      "related": "Kel-bura",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3360.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3360.mp3",
+      "relation_text": "Uzun s\u00fcredir hapiste olan kel kocas\u0131 art\u0131k eve d\u00f6nm\u00fc\u015ft\u00fc. \u00c7ocuklar\u0131n\u0131n <font color='yellow'>b\u00fcy\u00fcy\u00fcp b\u00fcy\u00fcmedi\u011fini</font> soran kel kocas\u0131n\u0131 kad\u0131n odaya g\u00f6t\u00fcrd\u00fc ve \u015f\u00f6yle dedi: \u201c<font color='yellow'>Kel bura b\u00fcy\u00fck olan</font> ve <font color='yellow'>b\u00fcy\u00fcm\u00fc\u015f</font> olan \u00e7ocuklar\u0131n\u0131n odas\u0131. <font color='yellow'>Kel bura</font> i\u015fte, onlar \u015fimdi <font color='yellow'>b\u00fcy\u00fck oldu</font> ve <font color='yellow'>b\u00fcy\u00fcd\u00fc</font>.\u201d (<font color='yellow'>Kel bura</font> \u00e7ocuklar\u0131n\u0131n odas\u0131; onlar \u015fimdi ne oldu? <font color='yellow'>B\u00fcy\u00fck oldu</font> ve <font color='yellow'>b\u00fcy\u00fcd\u00fc</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 48,
+          "word_id": 48,
+          "sample": "\u0643\u064e\u0628\u064f\u0631\u064e \u0645\u064e\u0642\u0652\u062a\u064b\u0627 \u0639\u0650\u0646\u0652\u062f\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0623\u064e\u0646\u0652 \u062a\u064e\u0642\u064f\u0648\u0644\u064f\u0648\u0627 \u0645\u064e\u0627 \u0644\u064e\u0627 \u062a\u064e\u0641\u0652\u0639\u064e\u0644\u064f\u0648\u0646\u064e",
+          "sample_meaning": "Yapamayaca\u011f\u0131n\u0131z \u015feyleri s\u00f6ylemeniz k\u0131zg\u0131nl\u0131k a\u00e7\u0131s\u0131ndan Allah kat\u0131nda \u00e7ok b\u00fcy\u00fck oldu. (Saff 3)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "chapter_id": 1,
+      "word": "\u0646\u064e\u0628\u064e\u0623\u064e",
+      "meaning": "Haber vermek",
+      "pronunciation": "Nebee",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3361.mp3?v=1",
+      "related": "Ne?-beye",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3361.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3361.mp3",
+      "relation_text": "Kay\u0131nvalidesi, \u201cEve haciz memurlar\u0131 geldi. Beyine <font color='yellow'>haber ver</font>.\u201d deyince kad\u0131n \u015fa\u015f\u0131rarak \u015f\u00f6yle dedi: \u201c<font color='yellow'>Ne</font>, <font color='yellow'>beye haber</font> mi <font color='yellow'>vereyim</font>? <font color='yellow'>Ne</font>, <font color='yellow'>beye haber vermesem</font> olmaz m\u0131?\u201d (\u201c<font color='yellow'>Ne</font>, <font color='yellow'>beye haber</font> mi <font color='yellow'>vereyim</font>?\u201d dedi kad\u0131n.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 49,
+          "word_id": 49,
+          "sample": "\u0648\u064e\u0627\u062a\u0652\u0644\u064f \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u0646\u064e\u0628\u064e\u0623\u064e \u0625\u0650\u0628\u0652\u0631\u064e\u0627\u0647\u0650\u064a\u0645",
+          "sample_meaning": "Onlara \u0130brahim\u2019in haberini oku. (\u015euara 69)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "chapter_id": 1,
+      "word": "\u0634\u064e\u0647\u0650\u062f\u064e",
+      "meaning": "\u015eahitlik etmek, bir yerde bulunmak",
+      "pronunciation": "\u015eehide",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3362.mp3?v=1",
+      "related": "\u015eehide",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3362.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3362.mp3",
+      "relation_text": "Yak\u0131nlar\u0131 \u015fehidin cenazesinde <font color='yellow'>bulunuyorlard\u0131</font> ve \u015fehidin lehinde <font color='yellow'>\u015fahitlik edeceklerdi</font>. Hoca \u015f\u00f6yle dedi: \u201c<font color='yellow'>\u015eehide</font> son vazifemizi yerine getirmek i\u00e7in burada <font color='yellow'>bulunuyoruz</font> ve g\u00fczel <font color='yellow'>\u015fahitlik edece\u011fiz</font>. <font color='yellow'>\u015eehide</font> helallik i\u00e7in <font color='yellow'>bulunuyoruz</font> ve <font color='yellow'>\u015fahitlik edece\u011fiz</font>.\u201d (<font color='yellow'>\u015eehide</font> son vazifelerini yerine getirmek i\u00e7in ne yapt\u0131lar? Orada <font color='yellow'>bulundular</font> ve <font color='yellow'>\u015fahitlik edecekler</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 50,
+          "word_id": 50,
+          "sample": "\u0641\u064e\u0645\u064e\u0646\u0652 \u0634\u064e\u0647\u0650\u062f\u064e \u0645\u0650\u0646\u0652\u0643\u064f\u0645\u064f \u0627\u0644\u0634\u0651\u064e\u0647\u0652\u0631\u064e \u0641\u064e\u0644\u0652\u064a\u064e\u0635\u064f\u0645\u0652\u0647",
+          "sample_meaning": "Sizden her kim (ramazan) ay\u0131nda bulunursa oru\u00e7 tutsun. (Bakara 185)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "chapter_id": 1,
+      "word": "\u0646\u064e\u0627\u0631\u064c",
+      "meaning": "Ate\u015f",
+      "pronunciation": "Na:r",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3363.mp3?v=1",
+      "related": "Nar",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3363.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3363.mp3",
+      "relation_text": "<font color='yellow'>Nar</font> meyvesini <font color='yellow'>ate\u015fte</font> pi\u015firiyorlar ve \u015f\u00f6yle diyorlard\u0131: \u201c<font color='yellow'>Nar ate\u015fte</font> \u00e7ok g\u00fczel oluyor. <font color='yellow'>Nar ate\u015fte</font> k\u0131zarmal\u0131.\u201d (Nerede <font color='yellow'>nar</font> pi\u015firiyorlar? <font color='yellow'>Ate\u015fte</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 51,
+          "word_id": 51,
+          "sample": "\u0633\u064e\u064a\u064e\u0635\u0652\u0644\u064e\u0649 \u0646\u064e\u0627\u0631\u064b\u0627 \u0630\u064e\u0627\u062a\u064e \u0644\u064e\u0647\u064e\u0628\u064d",
+          "sample_meaning": "Alevli ate\u015fe yaslanacakt\u0131r. (Mesed 3)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "chapter_id": 1,
+      "word": "\u0648\u064e\u0639\u064e\u062f\u064e",
+      "meaning": "Vaat etmek, tehdit etmek",
+      "pronunciation": "Veade",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3364.mp3?v=1",
+      "related": "Vaha de",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3364.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3364.mp3",
+      "relation_text": "Vahada bir siyaset\u00e7inin bir \u015feyler <font color='yellow'>vaat etti\u011fini</font> ve insanlar\u0131n da birbirini <font color='yellow'>tehdit etti\u011fini</font> g\u00f6ren adam bir haber m\u00fcd\u00fcr\u00fc arkada\u015f\u0131n\u0131 arad\u0131\u011f\u0131n\u0131 s\u00f6yleyince babas\u0131 ona \u015f\u00f6yle dedi: \u201c<font color='yellow'>Vaha de</font>, <font color='yellow'>vaat edeni</font> ve <font color='yellow'>tehdit edenleri</font> \u00e7ekmesi i\u00e7in muhabir g\u00f6ndersin. <font color='yellow'>Vaat edilen</font> ve <font color='yellow'>tehdit edilen</font> yer <font color='yellow'>vaha de</font>.\u201d (\u201c<font color='yellow'>Vaha de</font>, <font color='yellow'>vaat edeni</font> ve <font color='yellow'>tehdit edenleri</font> \u00e7ekmesi i\u00e7in...\u201d dedi baba o\u011fluna.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 52,
+          "word_id": 52,
+          "sample": "\u0625\u0650\u0646\u0651\u064e \u0648\u064e\u0639\u0652\u062f\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u062d\u064e\u0642\u0651\u064c \u0641\u064e\u0644\u064e\u0627 \u062a\u064e\u063a\u064f\u0631\u0651\u064e\u0646\u0651\u064e\u0643\u064f\u0645\u064f \u0627\u0644\u0652\u062d\u064e\u064a\u064e\u0627\u0629\u064f \u0627\u0644\u062f\u0651\u064f\u0646\u0652\u064a\u064e\u0627",
+          "sample_meaning": "\u015e\u00fcphesiz ki Allah\u2019\u0131n vaadi hakt\u0131r. D\u00fcnya hayat\u0131 sizi aldatmas\u0131n. (Lokman 33)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "chapter_id": 1,
+      "word": "\u0628\u064e\u0635\u0650\u0631\u064e",
+      "meaning": "Bakmak, g\u00f6rmek",
+      "pronunciation": "Basira",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3365.mp3?v=1",
+      "related": "Bas-\u0130ra(n)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3365.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3365.mp3",
+      "relation_text": "Bir adam\u0131n arabas\u0131yla \u0130ran Konsoloslu\u011funa do\u011fru h\u0131z yapt\u0131\u011f\u0131n\u0131 <font color='yellow'>g\u00f6ren</font> bir vatanda\u015f oradakilere \u015f\u00f6yle dedi: \u201cSen git <font color='yellow'>bas \u0130ra</font>n Konsoloslu\u011funa, <font color='yellow'>g\u00f6rd\u00fcn\u00fcz</font> m\u00fc <font color='yellow'>bak\u0131yor</font> musunuz?! <font color='yellow'>Bak\u0131n</font> ve <font color='yellow'>g\u00f6r\u00fcn</font>, <font color='yellow'>bas</font>\u0131yor <font color='yellow'>\u0130ra</font>n\u2019a do\u011fru!\u201d (\u201cSen git <font color='yellow'>bas \u0130ra</font>n Konsoloslu\u011funa, <font color='yellow'>g\u00f6rd\u00fcn\u00fcz</font> m\u00fc <font color='yellow'>bak\u0131yor</font> musunuz?!\u201d dedi bir vatanda\u015f.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 53,
+          "word_id": 53,
+          "sample": "\u0623\u064e\u0641\u064e\u0633\u0650\u062d\u0652\u0631\u064c \u0647\u064e\u0630\u064e\u0627 \u0623\u064e\u0645\u0652 \u0623\u064e\u0646\u0652\u062a\u064f\u0645\u0652 \u0644\u064e\u0627 \u062a\u064f\u0628\u0652\u0635\u0650\u0631\u064f\u0648\u0646\u064e",
+          "sample_meaning": "Bu sihir mi? Yoksa siz g\u00f6rm\u00fcyor musunuz? (Tur 15)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "chapter_id": 1,
+      "word": "\u0627\u0650\u0628\u0652\u0646\u064c",
+      "meaning": "Erkek \u00e7ocuk",
+      "pronunciation": "\u0130bn",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3366.mp3?v=1",
+      "related": "\u0130pin",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3366.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3366.mp3",
+      "relation_text": "Gerdi\u011fi <font color='yellow'>ipin</font> \u00fcst\u00fcnde y\u00fcr\u00fcyen <font color='yellow'>erkek \u00e7ocu\u011funa</font> i\u015faret eden kad\u0131n kocas\u0131na \u015f\u00f6yle dedi: \u201c<font color='yellow'>\u0130pin</font> \u00fczerinde <font color='yellow'>erkek \u00e7ocu\u011fun</font>! <font color='yellow'>\u0130pin</font> \u00fcst\u00fcnden <font color='yellow'>erkek \u00e7ocu\u011funu</font> al!\u201d (<font color='yellow'>\u0130pin</font> \u00fcst\u00fcndeki kim? <font color='yellow'>Erkek \u00e7ocu\u011fu</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 54,
+          "word_id": 54,
+          "sample": "\u0648\u064e\u0625\u0650\u0630\u0652 \u0642\u064e\u0627\u0644\u064e \u0644\u064f\u0642\u0652\u0645\u064e\u0627\u0646\u064f \u0644\u0650\u0627\u0628\u0652\u0646\u0650\u0647\u0650 \u0648\u064e\u0647\u064f\u0648\u064e \u064a\u064e\u0639\u0650\u0638\u064f\u0647\u064f",
+          "sample_meaning": "Bir vakit Lokman nasihat etmek iste\u011finde o\u011fluna dedi ki... (Loman 13)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "chapter_id": 1,
+      "word": "\u0623\u064e\u0631\u064e\u0627\u062f\u064e",
+      "meaning": "\u0130stemek",
+      "pronunciation": "Era:de",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3367.mp3?v=1",
+      "related": "Er a\u011f de",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3367.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3367.mp3",
+      "relation_text": "Her hafta \u00e7ar\u015f\u0131 izninde kay\u0131kla a\u00e7\u0131larak bal\u0131k tutmak i\u00e7in komutan\u0131ndan \u00e7ekine \u00e7ekine a\u011f <font color='yellow'>isterdi</font>. Yine bu hafta eri kar\u015f\u0131s\u0131nda bir \u015feyler gevelerken g\u00f6ren komutan ona \u015f\u00f6yle dedi: \u201c<font color='yellow'>Er a\u011f de</font> ve <font color='yellow'>iste</font>. H\u00e2l\u00e2 neden zorlan\u0131yorsun<font color='yellow'>isterken</font>? <font color='yellow'>Er a\u011f de</font> ve <font color='yellow'>iste</font> benden.\u201d (<font color='yellow'>Er a\u011f de</font> ve ne yap dedi? <font color='yellow'>\u0130ste</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 55,
+          "word_id": 55,
+          "sample": "\u0625\u0650\u0646\u0651\u064e\u0645\u064e\u0627 \u0623\u064e\u0645\u0652\u0631\u064f\u0647\u064f \u0625\u0650\u0630\u064e\u0627 \u0623\u064e\u0631\u064e\u0627\u062f\u064e \u0634\u064e\u064a\u0652\u0626\u064b\u0627 \u0623\u064e\u0646\u0652 \u064a\u064e\u0642\u064f\u0648\u0644\u064e \u0644\u064e\u0647\u064f \u0643\u064f\u0646\u0652 \u0641\u064e\u064a\u064e\u0643\u064f\u0648\u0646\u064f",
+          "sample_meaning": "O bir \u015feyi istedi\u011finde ona ancak ol der, o da oluverir. (Yasin 82)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "chapter_id": 1,
+      "word": "\u0635\u064e\u0644\u064e\u062d\u064e",
+      "meaning": "Salih olmak, do\u011fru olmak",
+      "pronunciation": "Saleha",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3368.mp3?v=1",
+      "related": "Sele-ha(n)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3368.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3368.mp3",
+      "relation_text": "Han\u0131n \u00f6n\u00fcnde bisiklet selesi satan ve <font color='yellow'>do\u011fru olan</font> zat hakk\u0131nda adam misafirine \u015f\u00f6yle dedi: \u201c<font color='yellow'>Sele ha</font>n \u00f6n\u00fcnde <font color='yellow'>salih olan</font> ve <font color='yellow'>do\u011fru olan</font> bu zat taraf\u0131ndan sat\u0131l\u0131yor. <font color='yellow'>Sele</font> isteyen <font color='yellow'>ha</font>na gelip bu <font color='yellow'>salih olan</font> ve <font color='yellow'>do\u011fru olan</font> t\u00fcccara geliyor.\u201d (<font color='yellow'>Sele ha</font>n \u00f6n\u00fcnde hangi zat taraf\u0131ndan sat\u0131l\u0131yor? <font color='yellow'>Salih olan</font> ve <font color='yellow'>do\u011fru olan</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 56,
+          "word_id": 56,
+          "sample": "\u0633\u064e\u064a\u064e\u0647\u0652\u062f\u0650\u064a\u0647\u0650\u0645\u0652 \u0648\u064e\u064a\u064f\u0635\u0652\u0644\u0650\u062d\u064f \u0628\u064e\u0627\u0644\u064e\u0647\u064f\u0645\u0652",
+          "sample_meaning": "Onlar\u0131 hidayete erdirir ve hallerini salih k\u0131lar. (Muhammed 5)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "chapter_id": 1,
+      "word": "\u0646\u064e\u0635\u064e\u0631\u064e",
+      "meaning": "Yard\u0131m etmek",
+      "pronunciation": "Nasara",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3369.mp3?v=1",
+      "related": "Nas\u0131ra",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3369.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3369.mp3",
+      "relation_text": "Aya\u011f\u0131ndaki nas\u0131rlardan y\u00fcr\u00fcyemeyen bir adama <font color='yellow'>yard\u0131m eden</font> genci g\u00f6ren bir vatanda\u015f yan\u0131ndakine \u015f\u00f6yle dedi: \u201c<font color='yellow'>Nas\u0131ra yard\u0131m ediyor</font>, yani nas\u0131rl\u0131 olana <font color='yellow'>yard\u0131m ediyor</font>. Ha <font color='yellow'>nas\u0131ra</font> ha nas\u0131rl\u0131ya <font color='yellow'>yard\u0131m ediyor</font>, ayn\u0131 \u015fey.\u201d (<font color='yellow'>Nas\u0131ra</font> yani nas\u0131rl\u0131ya ne yap\u0131yor? <font color='yellow'>Yard\u0131m ediyor</font>.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 57,
+          "word_id": 57,
+          "sample": "\u0623\u064e\u0646\u0652\u062a\u064e \u0645\u064e\u0648\u0652\u0644\u064e\u0627\u0646\u064e\u0627 \u0641\u064e\u0627\u0646\u0652\u0635\u064f\u0631\u0652\u0646\u064e\u0627 \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0652\u0642\u064e\u0648\u0652\u0645\u0650 \u0627\u0644\u0652\u0643\u064e\u0627\u0641\u0650\u0631\u0650\u064a\u0646\u064e",
+          "sample_meaning": "Sen bizim dostumuzsun. K\u00e2fir kavimlere kar\u015f\u0131 bize yard\u0131m et. (Bakara 286)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "chapter_id": 1,
+      "word": "\u0642\u064e\u062f\u064e\u0631\u064e",
+      "meaning": "Takdir etmek, k\u0131s\u0131tlamak, ayarlamak, g\u00fcc\u00fc yetmek",
+      "pronunciation": "Kadera",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3370.mp3?v=1",
+      "related": "Kadeh ara",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3370.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3370.mp3",
+      "relation_text": "S\u00fcrekli kendisinden d\u00fczinelerce kadeh otlanan h\u00e2li vakti yerinde olan o\u011fluna adam yaln\u0131z bir tane kadeh uzatt\u0131 ve \u015f\u00f6yle dedi: \u201c<font color='yellow'>Kadeh ara</font> kendine! <font color='yellow'>Takdir etti\u011fim</font> miktar\u0131 <font color='yellow'>k\u0131s\u0131tlayaca\u011f\u0131m</font> bundan sonra! <font color='yellow'>G\u00fcc\u00fcn yeter</font> birka\u00e7 tane almaya ve <font color='yellow'>ayarlamaya</font>! <font color='yellow'>Kadeh ara</font>! Sana yaln\u0131zca bir tane <font color='yellow'>takdir edece\u011fim</font>, yani<font color='yellow'>k\u0131s\u0131tlam\u0131\u015f olaca\u011f\u0131m</font>. Gerisini sen <font color='yellow'>ayarla</font>, <font color='yellow'>g\u00fcc\u00fcn yeter</font> \u00e7\u00fcnk\u00fc.\u201d (\u201c<font color='yellow'>Kadeh ara</font> kendine! <font color='yellow'>Takdir etti\u011fim</font> miktar\u0131 <font color='yellow'>k\u0131s\u0131tlayaca\u011f\u0131m</font> bundan sonra!\u201d dedi babas\u0131.)",
+      "created_at": "2017-09-28 09:07:31",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:31",
+      "samples": [
+        {
+          "id": 58,
+          "word_id": 58,
+          "sample": "\u0623\u064e\u064a\u064e\u062d\u0652\u0633\u064e\u0628\u064f \u0623\u064e\u0646\u0652 \u0644\u064e\u0646\u0652 \u064a\u064e\u0642\u0652\u062f\u0650\u0631\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0623\u064e\u062d\u064e\u062f",
+          "sample_meaning": "Ona kimsenin g\u00fcc\u00fcn\u00fcn yetmeyece\u011fini mi san\u0131yor? (Beled 5)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:31",
+          "updated_at": "2017-09-28 09:07:31",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "chapter_id": 1,
+      "word": "\u0633\u064e\u0623\u064e\u0644\u064e",
+      "meaning": "Sormak, istemek",
+      "pronunciation": "Seele",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3371.mp3?v=1",
+      "related": "Sele",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3371.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3371.mp3",
+      "relation_text": "<font color='yellow'>Sele soran</font> m\u00fc\u015fterisine bisiklet\u00e7i <font color='yellow'>sele</font>leri g\u00f6stererek \u015f\u00f6yle dedi: \u201c<font color='yellow'>Sele soruyor</font> ve <font color='yellow'>istiyorsun</font> \u00f6yle mi? <font color='yellow'>Sordu\u011fun</font> \u015feye bak! <font color='yellow'>\u0130stedi\u011fin</font> kadar <font color='yellow'>sele</font> var.\u201d (<font color='yellow'>Sele</font> olup olmad\u0131\u011f\u0131n\u0131 ne yapt\u0131? <font color='yellow'>Sordu</font> ve <font color='yellow'>istedi</font>.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 59,
+          "word_id": 59,
+          "sample": "\u0641\u064e\u0627\u0633\u0652\u0623\u064e\u0644\u064f\u0648\u0627 \u0623\u064e\u0647\u0652\u0644\u064e \u0627\u0644\u0630\u0651\u0650\u0643\u0652\u0631\u0650 \u0625\u0650\u0646\u0652 \u0643\u064f\u0646\u0652\u062a\u064f\u0645\u0652 \u0644\u064e",
+          "sample_meaning": "E\u011fer bilmiyor idiyseniz, zikir ehline sorun. (Enbiya 7)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "chapter_id": 1,
+      "word": "\u0623\u064e\u0646\u0652\u0630\u064e\u0631\u064e",
+      "meaning": "Uyarmak",
+      "pronunciation": "Enzera",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3372.mp3?v=1",
+      "related": "Hen\u00fcz er a\u011f",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3372.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3372.mp3",
+      "relation_text": "Komutandan izin almadan a\u011f ile bal\u0131k tutmaya gidecek olan er hakk\u0131nda komutan di\u011fer ere \u015f\u00f6yle dedi: \u201c<font color='yellow'>Hen\u00fcz er a\u011f</font> ile \u00e7\u0131kmadan <font color='yellow'>uyar</font> onu. <font color='yellow'>Hen\u00fcz er a\u011f</font> ile gitmeden <font color='yellow'>uyarmal\u0131s\u0131n</font>.\u201d (<font color='yellow'>Hen\u00fcz er a\u011f</font> ile \u00e7\u0131kmadan ne yap dedi? <font color='yellow'>Uyar</font>.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 60,
+          "word_id": 60,
+          "sample": "\u0648\u064e\u0623\u064e\u0646\u0652\u0630\u0650\u0631\u0650 \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064e \u064a\u064e\u0648\u0652\u0645\u064e \u064a\u064e\u0623\u0652\u062a\u0650\u064a\u0647\u0650\u0645\u064f \u0627\u0644\u0652\u0639\u064e\u0630\u064e\u0627\u0628\u064f",
+          "sample_meaning": "\u0130nsanlar\u0131, kendilerine azab\u0131n gelece\u011fi g\u00fcn ile uyar. (\u0130brahim 44)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "chapter_id": 1,
+      "word": "\u0646\u064e\u0638\u064e\u0631\u064e",
+      "meaning": "Bakmak, g\u00f6rmek, m\u00fchlet vermek",
+      "pronunciation": "Nazara",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3373.mp3?v=1",
+      "related": "Nazara (gelmek)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3373.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3373.mp3",
+      "relation_text": "Bir o\u011flu olmu\u015ftu ve \u00e7ok tatl\u0131yd\u0131. Onu <font color='yellow'>g\u00f6rmeye</font> gelen arkada\u015flar\u0131n\u0131n ona hayran hayran <font color='yellow'>bak\u0131p</font> ma\u015faallah demedi\u011fini g\u00f6ren kad\u0131n saatini g\u00f6stererek onlara \u015f\u00f6yle dedi: \u201c<font color='yellow'>Nazara</font> gelecek, <font color='yellow'>bakmay\u0131n</font>! <font color='yellow'>G\u00f6rmeye</font> geldiniz ama \u00f6yle <font color='yellow'>bak\u0131yorsunuz</font> ki, <font color='yellow'>nazara</font> gelecek! <font color='yellow'>M\u00fchlet veriyorum</font>, <font color='yellow'>bakmay\u0131</font> ve <font color='yellow'>g\u00f6rmeyi</font> kesin!\u201d (Bebe\u011finin <font color='yellow'>nazara</font> gelmemesi i\u00e7in misafirlere ne dedi? <font color='yellow'>Bakmay\u0131n</font> ve <font color='yellow'>g\u00f6rmeyin</font>, <font color='yellow'>m\u00fchlet veriyorum</font> size.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 61,
+          "word_id": 61,
+          "sample": "\u0623\u064e\u0641\u064e\u0644\u064e\u0627 \u064a\u064e\u0646\u0652\u0638\u064f\u0631\u064f\u0648\u0646\u064e \u0625\u0650\u0644\u064e\u0649 \u0627\u0644\u0652\u0625\u0650\u0628\u0650\u0644\u0650 \u0643\u064e\u064a\u0652\u0641\u064e \u062e\u064f\u0644\u0650\u0642\u064e\u062a\u0652",
+          "sample_meaning": "Devenin nas\u0131l yarat\u0131ld\u0131\u011f\u0131na bakm\u0131yorlar m\u0131? (Ga\u015fiye 17)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "chapter_id": 1,
+      "word": "\u062c\u064e\u0645\u064e\u0639\u064e",
+      "meaning": "Toplamak",
+      "pronunciation": "Cemea",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3374.mp3?v=1",
+      "related": "Cem\u2019e ya\u011f",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3374.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3374.mp3",
+      "relation_text": "Cem at\u0131k ya\u011flar\u0131n de\u011ferlendirildi\u011fi bir fabrikada \u00e7al\u0131\u015f\u0131yordu. Bu y\u00fczden mahalledeki herkes <font color='yellow'>Cem\u2019e ya\u011f topluyor</font> ve \u015f\u00f6yle diyordu: \u201c<font color='yellow'>Cem\u2019e ya\u011f topluyoruz</font>. <font color='yellow'>Cem\u2019e ya\u011f toplamak</font> bizim i\u00e7in g\u00f6rev.\u201d (<font color='yellow'>Cem\u2019e ya\u011f</font>lar\u0131 ne yap\u0131yorlar? <font color='yellow'>Topluyorlar</font>.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 62,
+          "word_id": 62,
+          "sample": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a \u062c\u064e\u0645\u064e\u0639\u064e \u0645\u064e\u0627\u0644\u064b\u0627 \u0648\u064e\u0639\u064e\u062f\u0651\u064e\u062f\u064e\u0647",
+          "sample_meaning": "O ki mal\u0131 toplad\u0131 ve sayd\u0131\u2026 (H\u00fcmeze 2)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "chapter_id": 1,
+      "word": "\u062f\u064e\u062e\u064e\u0644\u064e",
+      "meaning": "Girmek",
+      "pronunciation": "Dehale",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3375.mp3?v=1",
+      "related": "De hale",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3375.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3375.mp3",
+      "relation_text": "Hale <font color='yellow'>girmek</font> isteyen esrarengiz bir ki\u015fi hakk\u0131nda halcilerden biri di\u011ferine \u015f\u00f6yle dedi: \u201c<font color='yellow'>De hale girmesin</font>. <font color='yellow'>De hale girmesin</font>, tehlikeli bir adama benziyor bu.\u201d (<font color='yellow'>De hale</font> ne yapmas\u0131n dedi? <font color='yellow'>Girmesin.</font>)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 63,
+          "word_id": 63,
+          "sample": "\u0648\u064e\u0631\u064e\u0623\u064e\u064a\u0652\u062a\u064e \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064e \u064a\u064e\u062f\u0652\u062e\u064f\u0644\u064f\u0648\u0646\u064e \u0641\u0650\u064a \u062f\u0650\u064a\u0646\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0623\u064e\u0641\u0652\u0648\u064e\u0627\u062c\u064b\u0627",
+          "sample_meaning": "Sen insanlar\u0131 Allah\u2019\u0131n dinine topluca girerken g\u00f6r\u00fcrs\u00fcn. (Nasr 2)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "chapter_id": 1,
+      "word": "\u062e\u064e\u0627\u0641\u064e",
+      "meaning": "Korkmak",
+      "pronunciation": "Ha:fe",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3376.mp3?v=1",
+      "related": "Hayfa (\u0130srail\u2019de \u00fclkenin en b\u00fcy\u00fck 3. \u015fehri)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3376.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3376.mp3",
+      "relation_text": "<font color='yellow'>Hayfa</font> \u015fehri top at\u0131\u015flar\u0131 alt\u0131nda kal\u0131nca <font color='yellow'>Hayfa</font> sakinleri \u00e7ok <font color='yellow'>korkmu\u015ftu</font>. <font color='yellow'>Hayfa</font>l\u0131lar <font color='yellow'>korkudan</font> ka\u00e7\u0131\u015f\u0131yordu. (<font color='yellow'>Hayfa</font> \u015fehri sakinleri ne yapt\u0131? <font color='yellow'>Korktu</font>.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 64,
+          "word_id": 64,
+          "sample": "\u0641\u064e\u0644\u064e\u0627 \u062a\u064e\u062e\u064e\u0627\u0641\u064f\u0648\u0647\u064f\u0645\u0652 \u0648\u064e\u062e\u064e\u0627\u0641\u064f\u0648\u0646\u0650 \u0625\u0650\u0646\u0652 \u0643\u064f\u0646\u0652\u062a\u064f\u0645\u0652 \u0645\u064f\u0624\u0652\u0645\u0650\u0646\u0650\u064a\u0646\u064e",
+          "sample_meaning": "E\u011fer m\u00fcminlerden iseniz onlardan korkmay\u0131n, benden korkun. (\u00c2li \u0130mran 175)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "chapter_id": 1,
+      "word": "\u0631\u064e\u0632\u064e\u0642\u064e",
+      "meaning": "R\u0131z\u0131k vermek",
+      "pronunciation": "Razeka",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3377.mp3?v=1",
+      "related": "Rozet Ka",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3377.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3377.mp3",
+      "relation_text": "Restoranda kocaman bir Ka harfi rozeti ta\u015f\u0131yan bir adam\u0131n donat\u0131lm\u0131\u015f masaya bakarak hamdetti\u011fini g\u00f6renler \u015f\u00f6yle diyordu: \u201c<font color='yellow'>Rozet Ka</font> ta\u015f\u0131yan adam <font color='yellow'>r\u0131zk\u0131 veren</font> Allah\u2019a ellerini a\u00e7m\u0131\u015f. <font color='yellow'>Rozet Ka r\u0131zk\u0131 veren</font> sensin diyor.\u201d (<font color='yellow'>Rozet Ka</font> ta\u015f\u0131yan adam kime ellerini a\u00e7m\u0131\u015f? <font color='yellow'>R\u0131zk\u0131 verene</font>.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 65,
+          "word_id": 65,
+          "sample": "\u0648\u064e\u0643\u064f\u0644\u064f\u0648\u0627 \u0645\u0650\u0645\u0651\u064e\u0627 \u0631\u064e\u0632\u064e\u0642\u064e\u0643\u064f\u0645\u064f \u0627\u0644\u0644\u0651\u064e\u0647\u064f \u062d\u064e\u0644\u064e\u0627\u0644\u064b\u0627 \u0637\u064e\u064a\u0651\u0650\u0628\u064b",
+          "sample_meaning": "Allah\u2019\u0131n size r\u0131z\u0131k olarak verdi\u011fi helal ve temiz \u015feylerden yiyiniz. (Maide 88)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "chapter_id": 1,
+      "word": "\u0623\u064e\u0647\u0652\u0644\u064c",
+      "meaning": "E\u015f, aile, akraba, ehil",
+      "pronunciation": "Ehl",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3378.mp3?v=1",
+      "related": "Ehil",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3378.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3378.mp3",
+      "relation_text": "<font color='yellow'>E\u015fi</font>, <font color='yellow'>ailesi</font> ve <font color='yellow'>akrabalar\u0131n\u0131n</font> farkl\u0131 farkl\u0131 meslekleri vard\u0131 ve hepsi <font color='yellow'>ehil</font>di. Bir g\u00fcn kendisini ziyarete gelen arkada\u015f\u0131na <font color='yellow'>e\u015fini</font>, <font color='yellow'>ailesini</font> ve <font color='yellow'>akrabalar\u0131n\u0131</font> g\u00f6stererek \u015f\u00f6yle dedi: \u201c<font color='yellow'>Ehil</font>dir i\u015finde <font color='yellow'>e\u015fim</font>, <font color='yellow'>ailem</font> ve <font color='yellow'>akrabam</font>. Bizde <font color='yellow'>e\u015fim</font> <font color='yellow'>ailem</font>, <font color='yellow'>akrabam</font> herkes <font color='yellow'>ehil</font>.\u201d (Kimler <font color='yellow'>ehil</font>? <font color='yellow'>E\u015fi</font>, <font color='yellow'>ailesi</font> ve <font color='yellow'>akrabas\u0131</font>.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 66,
+          "word_id": 66,
+          "sample": "\u0648\u064e\u0625\u0650\u0646\u0652 \u062e\u0650\u0641\u0652\u062a\u064f\u0645\u0652 \u0634\u0650\u0642\u064e\u0627\u0642\u064e \u0628\u064e\u064a\u0652\u0646\u0650\u0647\u0650\u0645\u064e\u0627 \u0641\u064e\u0627\u0628\u0652\u0639\u064e\u062b\u064f\u0648\u0627 \u062d\u064e\u0643\u064e\u0645\u064b\u0627 \u0645\u0650\u0646\u0652 \u0623\u064e\u0647\u0652\u0644\u0650\u0647\u0650 \u0648\u064e\u062d\u064e\u0643\u064e\u0645\u064b\u0627 \u0645\u0650\u0646\u0652 \u0623\u064e\u0647\u0652\u0644\u0650\u0647\u064e\u0627",
+          "sample_meaning": "E\u011fer her ikisinin (e\u015fler) aras\u0131n\u0131n a\u00e7\u0131lmas\u0131ndan korkarsan\u0131z, bir hakem (erke\u011fin) akrabas\u0131ndan bir hakem de (kad\u0131n\u0131n) akrabas\u0131ndan g\u00f6nderiniz. (Nisa 35)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "chapter_id": 1,
+      "word": "\u0639\u064e\u0638\u064f\u0645\u064e",
+      "meaning": "B\u00fcy\u00fck olmak",
+      "pronunciation": "Azume",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3379.mp3?v=1",
+      "related": "Az umre",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3379.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3379.mp3",
+      "relation_text": "O\u011fluyla umre yapacakt\u0131. O\u011flu kendisine giydirilen ihram\u0131n <font color='yellow'>b\u00fcy\u00fck oldu\u011funu</font> g\u00f6r\u00fcnce babas\u0131na \u015f\u00f6yle dedi: \u201c<font color='yellow'>Az umre</font> k\u0131yafetim <font color='yellow'>b\u00fcy\u00fck oldu</font> baba. <font color='yellow'>Az umre</font> elbisem <font color='yellow'>b\u00fcy\u00fck oldu</font>, g\u00f6rd\u00fcn m\u00fc?\u201d (<font color='yellow'>Az umre</font> k\u0131yafetim ne oldu dedi? <font color='yellow'>B\u00fcy\u00fck oldu</font>.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 67,
+          "word_id": 67,
+          "sample": "\u0630\u064e\u0644\u0650\u0643\u064e \u0648\u064e\u0645\u064e\u0646\u0652 \u064a\u064f\u0639\u064e\u0638\u0651\u0650\u0645\u0652 \u0634\u064e\u0639\u064e\u0627\u0626\u0650\u0631\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0641\u064e\u0625\u0650\u0646\u0651\u064e\u0647\u064e\u0627 \u0645\u0650\u0646\u0652 \u062a\u064e\u0642\u0652\u0648\u064e\u0649 \u0627\u0644\u0652\u0642\u064f\u0644\u064f\u0648\u0628\u0650",
+          "sample_meaning": "Her kim Allah\u2019\u0131n \u015fiar\u0131n\u0131 b\u00fcy\u00fck tutarsa, \u015f\u00fcphesiz ki bu kalbin takvas\u0131ndand\u0131r. (Hac 32)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "chapter_id": 1,
+      "word": "\u0639\u064e\u0632\u0651\u064e",
+      "meaning": "G\u00fc\u00e7l\u00fc olmak, yenmek",
+      "pronunciation": "Azze",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3380.mp3?v=1",
+      "related": "Az Ze",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3380.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3380.mp3",
+      "relation_text": "Kolye satan seyyar sat\u0131c\u0131y\u0131 s\u0131rf <font color='yellow'>az Ze</font> harfi kolyesi var diye kavgada <font color='yellow'>yenen g\u00fc\u00e7l\u00fc olan</font> Zeynel ad\u0131ndaki adam hakk\u0131nda mahalleli \u015f\u00f6yle diyordu: \u201c<font color='yellow'>Az Ze</font> kolyeli olan sat\u0131c\u0131y\u0131 <font color='yellow'>yendi</font> bu <font color='yellow'>g\u00fc\u00e7l\u00fc olan</font> adam. <font color='yellow'>Az Ze</font>\u2019si var diye <font color='yellow'>yenen</font> bu <font color='yellow'>g\u00fc\u00e7l\u00fc olan</font> ki\u015fi \u00e7ok ay\u0131p etti.\u201d (<font color='yellow'>Az Ze</font> kolyeli olan sat\u0131c\u0131y\u0131 ne yapt\u0131 ve nas\u0131l biri? <font color='yellow'>Yendi</font> ve <font color='yellow'>g\u00fc\u00e7l\u00fc olan</font> biri.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 68,
+          "word_id": 68,
+          "sample": "\u0645\u064e\u0646\u0652 \u0643\u064e\u0627\u0646\u064e \u064a\u064f\u0631\u0650\u064a\u062f\u064f \u0627\u0644\u0652\u0639\u0650\u0632\u0651\u064e\u0629\u064e \u0641\u064e\u0644\u0650\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0652\u0639\u0650\u0632\u0651\u064e\u0629\u064f \u062c\u064e\u0645\u0650\u064a\u0639\u064b",
+          "sample_meaning": "Her kim g\u00fc\u00e7l\u00fc olmak isterse (bilsin ki) g\u00fcc\u00fcn hepsi Allah\u2019\u0131nd\u0131r (Fat\u0131r 10)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "chapter_id": 1,
+      "word": "\u0623\u064e\u0628\u064c",
+      "meaning": "Baba",
+      "pronunciation": "Eb",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3381.mp3?v=1",
+      "related": "Eb(e)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3381.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3381.mp3",
+      "relation_text": "\u00c7ocu\u011funun \u0131srarlar\u0131na dayanamayan <font color='yellow'>baba eb</font>e k\u0131yafetiyle odaya girince anne \u00e7ocu\u011funa \u015f\u00f6yle dedi: \u201c<font color='yellow'>Eb</font>e olmu\u015f <font color='yellow'>baban</font>. <font color='yellow'>Eb</font>elik yak\u0131\u015fm\u0131\u015f <font color='yellow'>babana</font>.\u201d (<font color='yellow'>Eb</font>e kim? <font color='yellow'>Babas\u0131</font>.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 69,
+          "word_id": 69,
+          "sample": "\u0645\u064e\u0627 \u0643\u064e\u0627\u0646\u064e \u0645\u064f\u062d\u064e\u0645\u0651\u064e\u062f\u064c \u0623\u064e\u0628\u064e\u0627 \u0623\u064e\u062d\u064e\u062f\u064d \u0645\u0650\u0646\u0652 \u0631\u0650\u062c\u064e\u0627\u0644\u0650\u0643\u064f\u0645\u0652 \u0648\u064e\u0644\u064e\u0643\u0650\u0646\u0652 \u0631\u064e\u0633\u064f\u0648\u0644\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u0650",
+          "sample_meaning": "Muhammed sizin adamlar\u0131n\u0131zdan hi\u00e7birisinin babas\u0131 de\u011fildir. Ancak o Allah\u2019\u0131n Resul\u00fc\u2019d\u00fcr. (Ahzab 40)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "chapter_id": 1,
+      "word": "\u062c\u064e\u0632\u064e\u0649",
+      "meaning": "Kar\u015f\u0131l\u0131\u011f\u0131n\u0131 vermek (\u00d6d\u00fcl veya ceza anlam\u0131nda kullan\u0131labilir.)",
+      "pronunciation": "Ceza:",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3382.mp3?v=1",
+      "related": "Ceza",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3382.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3382.mp3",
+      "relation_text": "Yaramazl\u0131k yapan o\u011fluna bir tokat atan baba ona \u015f\u00f6yle dedi: \u201cBu <font color='yellow'>ceza</font> ile yapt\u0131klar\u0131n\u0131n <font color='yellow'>kar\u015f\u0131l\u0131\u011f\u0131n\u0131 verdim</font>. <font color='yellow'>Ceza</font> ile <font color='yellow'>kar\u015f\u0131l\u0131\u011f\u0131n\u0131 vermek</font> zorunda b\u0131rakt\u0131n beni.\u201d (Tokat <font color='yellow'>ceza</font>s\u0131 ile ne yapm\u0131\u015f oldu? Yapt\u0131klar\u0131n\u0131n <font color='yellow'>kar\u015f\u0131l\u0131\u011f\u0131n\u0131 verdi</font>.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 70,
+          "word_id": 70,
+          "sample": "\u0643\u064e\u0630\u064e\u0644\u0650\u0643\u064e \u0646\u064e\u062c\u0652\u0632\u0650\u064a \u0627\u0644\u0652\u0642\u064e\u0648\u0652\u0645\u064e \u0627\u0644\u0652\u0645\u064f\u062c\u0652\u0631\u0650\u0645\u0650\u064a\u0646\u064e",
+          "sample_meaning": "G\u00fcnahk\u00e2r bir kavmi biz i\u015fte b\u00f6yle cezaland\u0131r\u0131r\u0131z. (Yunus 13)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "chapter_id": 1,
+      "word": "\u0648\u064e\u0644\u0650\u064a\u064e",
+      "meaning": "Dost olmak, y\u00f6netmek, idaresine vermek",
+      "pronunciation": "Veliye",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3383.mp3?v=1",
+      "related": "Valiye",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3383.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3383.mp3",
+      "relation_text": "\u00c7ok sevilen bir valiydi. Bir g\u00fcn valiyi bir adamla \u00e7ok samimi g\u00f6ren halk \u015f\u00f6yle diyordu: \u201c<font color='yellow'>Valiye dost olan</font> bu ki\u015fiyi bir ili <font color='yellow'>y\u00f6netmesi</font> i\u00e7in ya da bir yerin <font color='yellow'>idaresine verseler</font> ya. <font color='yellow'>Valiye</font> s\u00f6yleyelim de <font color='yellow'>dostu oldu\u011fu</font> ki\u015fiyi <font color='yellow'>y\u00f6netmesi</font> i\u00e7in bir yerin <font color='yellow'>idaresine versin</font>, \u00e7ok elektrik ald\u0131k ondan.\u201d (<font color='yellow'>Valiye</font> neyi s\u00f6yleyelim dediler? <font color='yellow'>Dostu oldu\u011fu</font> ki\u015fiyi <font color='yellow'>y\u00f6netmesi</font> i\u00e7in bir yerin <font color='yellow'>idaresine versin</font>.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 71,
+          "word_id": 71,
+          "sample": "\u0627\u0644\u0644\u0651\u064e\u0647\u064f \u0648\u064e\u0644\u0650\u064a\u0651\u064f \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e \u0622\u0645\u064e\u0646\u064f\u0648\u0627 \u064a\u064f\u062e\u0652\u0631\u0650\u062c\u064f\u0647\u064f\u0645\u0652 \u0645\u0650\u0646\u064e \u0627\u0644\u0638\u0651\u064f\u0644\u064f\u0645\u064e\u0627\u062a\u0650 \u0625\u0650\u0644\u064e\u0649 \u0627\u0644\u0646\u0651\u064f\u0648\u0631\u0650",
+          "sample_meaning": "Allah iman edenlerin dostudur. Onlar\u0131 karanl\u0131klardan ayd\u0131nl\u0131\u011fa \u00e7\u0131kart\u0131r. (Bakara 257)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "chapter_id": 1,
+      "word": "\u0642\u064e\u0627\u0645\u064e",
+      "meaning": "Kalkmak, donakalmak, yerine ge\u00e7mek, himaye etmek",
+      "pronunciation": "Ka:me",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3384.mp3?v=1",
+      "related": "Kama",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3384.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3384.mp3",
+      "relation_text": "Misafirli\u011fe gittikleri ailenin her bir ferdi s\u0131rayla evdeki antika <font color='yellow'>kama</font>ya do\u011fru \u00f6nce <font color='yellow'>kalk\u0131yor</font> ve <font color='yellow'>donakal\u0131p</font> onu seyretmeye ba\u015fl\u0131yordu. Daha sonra de <font color='yellow'>yerine ge\u00e7ip</font> birbirlerini <font color='yellow'>himaye ediyordu</font>. Akrabalar\u0131 ise bu duruma \u00e7ok \u015fa\u015fk\u0131nd\u0131 ve \u015f\u00f6yle diyordu: \u201c<font color='yellow'>Kama</font> i\u00e7in <font color='yellow'>kalk\u0131yor</font>, <font color='yellow'>donakal\u0131yor</font> ve daha sonra <font color='yellow'>yerine ge\u00e7erek himaye ediyorlar</font> birbirlerini. <font color='yellow'>Kama</font> i\u00e7in <font color='yellow'>kalkmak</font>, <font color='yellow'>donakalmak</font>, <font color='yellow'>yerine ge\u00e7mek</font> ve <font color='yellow'>himaye etmek</font>, pes yani!\u201d (<font color='yellow'>Kama</font> i\u00e7in ne yap\u0131yorlar? <font color='yellow'>Kalk\u0131yor</font>, <font color='yellow'>donakal\u0131yor</font> ve daha sonra <font color='yellow'>yerine ge\u00e7erek himaye ediyorlar</font> birbirlerini.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 72,
+          "word_id": 72,
+          "sample": "\u0648\u064e\u0625\u0650\u0630\u064e\u0627 \u0642\u064e\u0627\u0645\u064f\u0648\u0627 \u0625\u0650\u0644\u064e\u0649 \u0627\u0644\u0635\u0651\u064e\u0644\u064e\u0627\u0629\u0650 \u0642\u064e\u0627\u0645\u064f\u0648\u0627 \u0643\u064f\u0633\u064e\u0627\u0644\u064e\u0649",
+          "sample_meaning": "Namaza kalkt\u0131klar\u0131nda tembelce kalkarlar. (Nisa 142)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "chapter_id": 1,
+      "word": "\u0623\u064e\u0643\u064e\u0644\u064e",
+      "meaning": "Yemek yemek",
+      "pronunciation": "Ekele",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3385.mp3?v=1",
+      "related": "Ek hele",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3385.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3385.mp3",
+      "relation_text": "Tarlada annesiyle beraber ekim yapan o\u011flunun bir yandan da<font color='yellow'>yemek yedi\u011fini</font> g\u00f6ren anne ona \u015f\u00f6yle dedi: \u201c\u00d6nce <font color='yellow'>ek hele</font>, sonra <font color='yellow'>yemek yersin</font>. \u015eimdi <font color='yellow'>ek hele</font>, <font color='yellow'>yemek yeme\u011fi</font> b\u0131rak.\u201d (\u015eimdi <font color='yellow'>ek hele</font>; sonra ne yapars\u0131n dedi? <font color='yellow'>Yemek yersin</font>.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 73,
+          "word_id": 73,
+          "sample": "\u0641\u064e\u0631\u064e\u0627\u063a\u064e \u0625\u0650\u0644\u064e\u0649 \u0622\u0644\u0650\u0647\u064e\u062a\u0650\u0647\u0650\u0645\u0652 \u0641\u064e\u0642\u064e\u0627\u0644\u064e \u0623\u064e\u0644\u064e\u0627 \u062a\u064e\u0623\u0652\u0643\u064f\u0644\u064f\u0648\u0646\u064e",
+          "sample_meaning": "Onlar\u0131n ilahlar\u0131na gizlice yakla\u015f\u0131p yemez misiniz dedi. (Saffat 91)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "chapter_id": 1,
+      "word": "\u0641\u064e\u0639\u064e\u0644\u064e",
+      "meaning": "Yapmak",
+      "pronunciation": "Feale",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3386.mp3?v=1",
+      "related": "Faule",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3386.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3386.mp3",
+      "relation_text": "Kendisine faul <font color='yellow'>yap\u0131lan</font> futbolcu hakeme \u015f\u00f6yle dedi: \u201c<font color='yellow'>Yapt\u0131\u011f\u0131 faule</font> bak hocam. <font color='yellow'>Yapt\u0131\u011f\u0131 faule</font> bir kart vermelisin.\u201d (\u201c<font color='yellow'>Yapt\u0131\u011f\u0131 faule</font> bak.\u201d dedi futbolcu hakeme.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 74,
+          "word_id": 74,
+          "sample": "\u0623\u064e\u0644\u064e\u0645\u0652 \u062a\u064e\u0631\u064e \u0643\u064e\u064a\u0652\u0641\u064e \u0641\u064e\u0639\u064e\u0644\u064e \u0631\u064e\u0628\u0651\u064f\u0643\u064e \u0628\u0650\u0623\u064e\u0635\u0652\u062d\u064e\u0627\u0628\u0650 \u0627\u0644\u0652\u0641\u0650\u064a\u0644\u0650",
+          "sample_meaning": "Rabb\u2019inin fil ashab\u0131na ne yapt\u0131\u011f\u0131n\u0131 g\u00f6rmedin mi? (Fil 1)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "chapter_id": 1,
+      "word": "\u0623\u064e\u062c\u064e\u0631\u064e",
+      "meaning": "Yap\u0131lan i\u015fin \u00fccretini vermek",
+      "pronunciation": "Ecera",
+      "pronunciation_sound": "https://api3.arapcakampus.com/storage/kelimeler/ses/3387.mp3?v=1",
+      "related": "Ece-ra(f)",
+      "relation_gif": "https://api3.arapcakampus.com/storage/kelimeler/resimler/3387.gif?v=1",
+      "relation_sound": "https://api3.arapcakampus.com/storage/kelimeler/hafizases/3387.mp3",
+      "relation_text": "Bir marangozda \u00e7al\u0131\u015fan <font color='yellow'>Ece</font> sadece <font color='yellow'>ra</font>f yapard\u0131. Ustas\u0131 hep <font color='yellow'>yap\u0131lan i\u015fin \u00fccretini verirdi</font>. Yine bir g\u00fcn bitirdi\u011fi bir raftan sonra yap\u0131lan i\u015fin \u00fccretini Ece\u2019ye uzatan usta ona \u015f\u00f6yle dedi: \u201c<font color='yellow'>Ece</font>, <font color='yellow'>ra</font>f <font color='yellow'>i\u015finin \u00fccretini vermek</font> mecburiyetindeyim. <font color='yellow'>Ece</font>, <font color='yellow'>ra</font>flar\u0131n <font color='yellow'>\u00fccretini veriyorum</font>, buyur.\u201d (<font color='yellow'>Ece ra</font>f yapt\u0131ktan sonra ustas\u0131 ona ne yap\u0131yor? <font color='yellow'>Yapt\u0131\u011f\u0131 i\u015fin \u00fccretini veriyor</font>.)",
+      "created_at": "2017-09-28 09:07:32",
+      "deleted_at": "0000-00-00 00:00:00",
+      "updated_at": "2017-09-28 09:07:32",
+      "samples": [
+        {
+          "id": 75,
+          "word_id": 75,
+          "sample": "\u0625\u0650\u0646\u0651\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u064e \u0644\u064e\u0627 \u064a\u064f\u0636\u0650\u064a\u0639\u064f \u0623\u064e\u062c\u0652\u0631\u064e \u0627\u0644\u0652\u0645\u064f\u062d\u0652\u0633\u0650\u0646\u0650\u064a\u0646\u064e",
+          "sample_meaning": "\u015e\u00fcphesiz Allah iyilik edenlerin \u00fccretini zayi etmez. (Tevbe 120)",
+          "sample_sound": "",
+          "type": "C\u00dcMLE",
+          "created_at": "2017-09-28 09:07:32",
+          "updated_at": "2017-09-28 09:07:32",
+          "deleted_at": "0000-00-00 00:00:00"
+        }
+      ]
+    }
+  ]
+}
