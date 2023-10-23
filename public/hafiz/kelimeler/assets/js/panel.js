@@ -15,7 +15,7 @@ function viewValues() {
 
     // Redirect to the viewer page with the selected range
     // viewer.html?id=1-10 like this.
-    window.location.href = `viewer.html?id=${startValue}-${endValue}`;
+    window.location.href = `../viewer.html?id=${startValue}-${endValue}`;
     
     //document.getElementById('output').innerText = `Seçilen aralık: ${startValue} - ${endValue}`;
 }

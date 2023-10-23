@@ -7,7 +7,7 @@ const [startId, endId] = idParam
 console.log(startId, endId);
 
 // JSON dosyasını oku
-fetch("assets/data/data.json")
+fetch("../assets/data/data.json")
   .then((response) => response.json())
   .then((data) => {
     let tableContent = "";
@@ -26,7 +26,7 @@ fetch("assets/data/data.json")
 
 // If back-button is clicked, go back to panel.html
 document.getElementById("back-button").addEventListener("click", () => {
-  window.location.href = "panel.html";
+  window.location.href = "../panel.html";
 });
 
 // If hafiz-button is clicked, go back to https://hafiz.thehbk.net/
