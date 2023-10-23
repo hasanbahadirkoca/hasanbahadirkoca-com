@@ -1,0 +1,1283 @@
+[
+  { "id": 301, "arabic": "زَلَفَ", "translation": ["Yaklaştırmak"] },
+  {
+    "id": 302,
+    "arabic": "سَرَقَ",
+    "translation": ["Çalmak", " hırsızlık yapmak"]
+  },
+  { "id": 303, "arabic": "تَبَارَكَ", "translation": ["Yüce olmak"] },
+  { "id": 304, "arabic": "أَيَّد", "translation": ["Desteklemek"] },
+  { "id": 305, "arabic": "بَقَرٌ، بَقَرَةٌ", "translation": ["İnek"] },
+  { "id": 306, "arabic": "حَسْرَةٌ", "translation": ["Üzüntü", " keder"] },
+  { "id": 307, "arabic": "رَقَبَةٌ", "translation": ["Boyun", " köle"] },
+  { "id": 308, "arabic": "جُلُودٌ", "translation": ["Deriler"] },
+  { "id": 309, "arabic": "رَوَاسٍ", "translation": ["Dağlar"] },
+  { "id": 310, "arabic": "أَسَاطِيرُ", "translation": ["Hurafeler"] },
+  {
+    "id": 311,
+    "arabic": "فَاضَ",
+    "translation": ["(Su vb.) Taşmak", "yönelmek"]
+  },
+  { "id": 312, "arabic": "نَامَ", "translation": ["Uyumak"] },
+  {
+    "id": 313,
+    "arabic": "اِطَّلَعَ",
+    "translation": ["Vakıf olmak", " iyice bilmek"]
+  },
+  { "id": 314, "arabic": "اِنْطَلَقَ", "translation": ["Gitmek"] },
+  { "id": 315, "arabic": "وَهَنَ", "translation": ["Zayıf", " bitkin düşmek"] },
+  { "id": 316, "arabic": "هَمَّ", "translation": ["Yapmaya niyetlenmek"] },
+  {
+    "id": 317,
+    "arabic": "عَرَجَ",
+    "translation": ["Topallamak", " (göğe vs.) yükselmek"]
+  },
+  { "id": 318, "arabic": "عَزَمَ", "translation": ["Azmetmek"] },
+  { "id": 319, "arabic": "عَكَفَ", "translation": ["Kalmak", " ibadet etmek"] },
+  { "id": 320, "arabic": "فَرَجَ", "translation": ["Yarmak"] },
+  {
+    "id": 321,
+    "arabic": "قَبَضَ",
+    "translation": ["El ile avuçlamak", " daraltmak", " yummak"]
+  },
+  { "id": 322, "arabic": "قَذَفَ", "translation": ["Fırlatmak"] },
+  { "id": 323, "arabic": "نَقَضَ", "translation": ["Bozmak", " yıkmak"] },
+  { "id": 324, "arabic": "ضَرَّاءُ", "translation": ["Darlık"] },
+  { "id": 325, "arabic": "طَرِيقٌ، طَرِقَةٌ", "translation": ["Yol"] },
+  {
+    "id": 326,
+    "arabic": "وَزَرَ  يَزِرُ  وِزْرٌ",
+    "translation": ["(Ağır yük) Yüklemek", " hükümdarın veziri olmak"]
+  },
+  {
+    "id": 327,
+    "arabic": "عَاقَبَ  يُعَاقِبُ  عِقَابٌ",
+    "translation": ["Cezalandırmak"]
+  },
+  {
+    "id": 328,
+    "arabic": "ظَهَرَ  يَظْهَرُ  ظُهُورٌ",
+    "translation": ["Ortaya çıkmak", " üstünn gelmek"]
+  },
+  {
+    "id": 329,
+    "arabic": "نَبَتَ  يَنْبُتُ  نَبَاتٌ",
+    "translation": ["(Bitki vs.) Yerden bitmek"]
+  },
+  {
+    "id": 330,
+    "arabic": "وَكَّلَ  يُوَكِّلُ  توَكْيِلٌ",
+    "translation": ["Vekil tayin etmek"]
+  },
+  {
+    "id": 331,
+    "arabic": "سَقَى  يَسْقِي  سَقْيٌ",
+    "translation": ["Sulamak", " içirmek"]
+  },
+  {
+    "id": 332,
+    "arabic": "بَسَطَ  يَبْسُطُ  بَسْطٌ",
+    "translation": ["Genişletmek"]
+  },
+  {
+    "id": 333,
+    "arabic": "بَطَنَ  يَبْطُنُ  بُطُونٌ",
+    "translation": ["Gizlemek"]
+  },
+  {
+    "id": 334,
+    "arabic": "حَضَرَ  يَحْضُرُ  حُضُورٌ",
+    "translation": ["Gelmek", " hazır bulunmak"]
+  },
+  {
+    "id": 335,
+    "arabic": "أَقْسَمَ  يُقْسِمُ  إِقْسَامٌ",
+    "translation": ["Yemin etmek"]
+  },
+  {
+    "id": 336,
+    "arabic": "وَعَظَ  يَعِظُ  وَعْظٌ",
+    "translation": ["Öğüt vermek"]
+  },
+  {
+    "id": 337,
+    "arabic": "ظَلَّ  يَظَلُّ  ظَلٌّ",
+    "translation": ["Gölgelemek"]
+  },
+  {
+    "id": 338,
+    "arabic": "قَصَّ  يَقُصُّ  قَصٌّ",
+    "translation": ["kıssa anlatmak", " izlemek"]
+  },
+  {
+    "id": 339,
+    "arabic": "شَرَى  يَشْرِي  شِرَاءٌ",
+    "translation": ["Satın almak", " satmak"]
+  },
+  {
+    "id": 340,
+    "arabic": "قَسَطَ  يَقْسَطُ  قِسْطٌ",
+    "translation": ["Adil olmak", " zulmetmek"]
+  },
+  {
+    "id": 341,
+    "arabic": "مَسَكَ  يَمْسِكُ  مَسْكٌ",
+    "translation": ["(Bir şeyi) Tutmak", " yapışmak"]
+  },
+  {
+    "id": 342,
+    "arabic": "تَوَفَّى  يَتَوَفَّى  تَوَفٍّ",
+    "translation": ["Öldürmek"]
+  },
+  { "id": 343, "arabic": "فُلْكٌ", "translation": ["Gemi"] },
+  { "id": 344, "arabic": "مَرْأَةٌ ، إِمْرَأَةٌ", "translation": ["Kadın"] },
+  {
+    "id": 345,
+    "arabic": "أَذِيَ  يَأْذَى  أَذًى",
+    "translation": ["Acı çektirmek"]
+  },
+  {
+    "id": 346,
+    "arabic": "ذَلَّ  يَذِلُّ  ذِلَّةٌ",
+    "translation": ["Zelil olmak"]
+  },
+  {
+    "id": 347,
+    "arabic": "ثَمَرَ  يَثْمُرُ  ثُمُورٌ",
+    "translation": ["Meyve vermek"]
+  },
+  {
+    "id": 348,
+    "arabic": "جَهِلَ  يَجْهَلُ  جَهَالَةٌ",
+    "translation": ["Cahil olmak"]
+  },
+  { "id": 349, "arabic": "كَادَ  يَكَادُ", "translation": ["Az kalsın"] },
+  {
+    "id": 350,
+    "arabic": "وَضَعَ  يَضَعُ  وَضْعٌ",
+    "translation": ["Koymak", " doğurmak", " kaldırmak"]
+  },
+  {
+    "id": 351,
+    "arabic": "وَقَعَ  يَقَعُ  وُقُوعٌ",
+    "translation": ["Düşmek", " vuku bulmak"]
+  },
+  {
+    "id": 352,
+    "arabic": "وَهَبَ  يَهَبُ  هِبَةٌ",
+    "translation": ["Hibe etmek"]
+  },
+  {
+    "id": 353,
+    "arabic": "صَلِيَ  يَصْلَى  صِلِيٌّ",
+    "translation": ["Ateşe tutulmak", " ateşe yaslanmak"]
+  },
+  {
+    "id": 354,
+    "arabic": "عَجَزَ  يَعْجِزُ  عَجْزٌ",
+    "translation": ["Aciz olmak"]
+  },
+  {
+    "id": 355,
+    "arabic": "غَضِبَ  يَغْضَبُ  غَضَبٌ",
+    "translation": ["Kızmak"]
+  },
+  {
+    "id": 356,
+    "arabic": "فَجَرَ  يَفْجُرُ  فُجُورٌ  فَجْرٌ",
+    "translation": ["Günah işlemek", " fışkırtmak", " tan yeri ağarmak"]
+  },
+  {
+    "id": 357,
+    "arabic": "مَرِضَ  يَمْرَضُ  مَرَضٌ",
+    "translation": ["Hastalanmak"]
+  },
+  {
+    "id": 358,
+    "arabic": "تَصَدَّقَ  يَتَصَدَّقُ  تَصَدُّقٌ",
+    "translation": ["Sadaka vermek"]
+  },
+  {
+    "id": 359,
+    "arabic": "فَصَّلَ  يُفَصِّلُ  تَفْصِيلٌ",
+    "translation": ["Açıklamak"]
+  },
+  {
+    "id": 360,
+    "arabic": "قَرْنٌ  ج  قُرُونٌ",
+    "translation": ["Asır", " boynuz"]
+  },
+  {
+    "id": 361,
+    "arabic": "أَسْرَفَ  يُسْرِفُ  إِسْرَافٌ",
+    "translation": ["İsraf etmek"]
+  },
+  {
+    "id": 362,
+    "arabic": "بَارَكَ  يُبَارِكُ  مُبَارَكَةٌ",
+    "translation": ["(Allah) Bereketli kılmak"]
+  },
+  {
+    "id": 363,
+    "arabic": "رَجَا  يَرْجُو  رَجَاءٌ",
+    "translation": ["Ummak", " ümit etmek"]
+  },
+  {
+    "id": 364,
+    "arabic": "سَرُعَ  يَسْرُعُ  سُرْعَةٌ",
+    "translation": ["Acele etmek", " çabuk olmak"]
+  },
+  { "id": 365, "arabic": "وَزَنَ  يَزِنُ  وَزْنٌ", "translation": ["Tartmak"] },
+  { "id": 366, "arabic": "مَشَى  يَمْشِي  مَشْيٌ", "translation": ["Yürümek"] },
+  {
+    "id": 367,
+    "arabic": "غَرِقَ  يَغْرَقُ  غَرَقٌ",
+    "translation": ["Boğulmak"]
+  },
+  {
+    "id": 368,
+    "arabic": "لَبَسَ  يَلْبَسُ  لَبْسٌ",
+    "translation": ["Giymek", " (iki şeyi birbirine) karıştırmak"]
+  },
+  {
+    "id": 369,
+    "arabic": "نَكَحَ  يَنْكِحُ  نِكَاحٌ",
+    "translation": ["Nikahlamak"]
+  },
+  {
+    "id": 370,
+    "arabic": "طَيْرٌ ، طَائِرٌ",
+    "translation": ["Kuş", " uğursuzluk"]
+  },
+  {
+    "id": 371,
+    "arabic": "ظَهْرٌ  ج  ظُهُورٌ",
+    "translation": ["Sırt", " arka"]
+  },
+  {
+    "id": 372,
+    "arabic": "خَطِئَ  يَخْطَأُ  خَطَأٌ  خِطْءٌ",
+    "translation": ["Hata yapmak"]
+  },
+  {
+    "id": 373,
+    "arabic": "تَمَّ  يَتِمُّ  تَمَامٌ",
+    "translation": ["Tamamlamak"]
+  },
+  { "id": 374, "arabic": "أُذُنٌ", "translation": ["Kulak"] },
+  {
+    "id": 375,
+    "arabic": "غَوَى  يَغْوِي  غَيٌّ",
+    "translation": ["Azmak ", "sapıtmak"]
+  },
+  {
+    "id": 376,
+    "arabic": "مَنَّ  يَمُنُّ  مَنٌّ",
+    "translation": ["Nimetlendirmek", " başa kalkmak"]
+  },
+  {
+    "id": 377,
+    "arabic": "غَشِيَ  يَغْشَى  غَشْيٌ",
+    "translation": ["Kaplamak", "Bürümek"]
+  },
+  {
+    "id": 378,
+    "arabic": "فَرِحَ  يَفْرَحُ  فَرَحٌ",
+    "translation": ["Sevinmek", "Şımarmak"]
+  },
+  {
+    "id": 379,
+    "arabic": "كَتَمَ  يَكْتُمُ  كَتْمٌ",
+    "translation": ["Gizlemek"]
+  },
+  {
+    "id": 380,
+    "arabic": "نَشَرَ  يَنْشُرُ  نَشْرٌ",
+    "translation": ["Yaymak", "Ölümden sonra diriltmek"]
+  },
+  {
+    "id": 381,
+    "arabic": "شَهْرٌ  ج  أَشْهُرٌ ، شُهُورٌ",
+    "translation": ["AY (Yılın on iki bölümünden her biri)"]
+  },
+  {
+    "id": 382,
+    "arabic": "بَقِيَ  يَبْقَى  بَقَاءٌ",
+    "translation": ["Kalmak", "durmak"]
+  },
+  {
+    "id": 383,
+    "arabic": "حَذِرَ  يَحْذَرُ  حِذْرٌ",
+    "translation": ["Sakınmak", "Çekinmek"]
+  },
+  {
+    "id": 384,
+    "arabic": "حَلَمَ  يَحْلُمُ  حُلْمٌ",
+    "translation": ["Rüya görmek", " Yumuşak başlı olmak"]
+  },
+  {
+    "id": 385,
+    "arabic": "حِزْبٌ  ج  أَحْزَابٌ",
+    "translation": ["Grup", "Topluluk"]
+  },
+  {
+    "id": 386,
+    "arabic": "حَمِيمٌ",
+    "translation": ["Kaynar su", " Sıcak dost"]
+  },
+  {
+    "id": 387,
+    "arabic": "طَافَ  يَطُوفُ  طَوَافٌ",
+    "translation": ["Dolaşmak", "Tavaf etmek"]
+  },
+  {
+    "id": 388,
+    "arabic": "أَعَدَّ  يُعِدُّ  إِعْدَادٌ",
+    "translation": ["Hazırlamak"]
+  },
+  {
+    "id": 389,
+    "arabic": "اِنْتَهَى  يَنْتَهِي  اِنْتِهَاءٌ",
+    "translation": ["Vazgeçmek", "Bitmek"]
+  },
+  {
+    "id": 390,
+    "arabic": "مَرَى  يَمْرِي  مَرْيٌ",
+    "translation": ["Şüpeye düşmek", "Tartışmak", "İnkar etmek"]
+  },
+  {
+    "id": 391,
+    "arabic": "فَقِهَ  يَفْقَهُ  فِقْهٌ",
+    "translation": ["İyice anlamak"]
+  },
+  {
+    "id": 392,
+    "arabic": "كَشَفَ  يَكْشِفُ  كَشْفٌ",
+    "translation": ["Keşefe", " Örtü v.b Açmak"]
+  },
+  {
+    "id": 393,
+    "arabic": "لَعِبَ  يَلْعَبُ  لَعِبٌ",
+    "translation": ["Oynamak"]
+  },
+  {
+    "id": 394,
+    "arabic": "نَزَعَ  يَنْزِعُ  نَزْعٌ",
+    "translation": ["Yerinden çıkarmak", "Çekmek"]
+  },
+  {
+    "id": 395,
+    "arabic": "نَفَخَ  يَنْفُخُ  نَفْخٌ",
+    "translation": ["Üflemek"]
+  },
+  { "id": 396, "arabic": "نَخْلٌ", "translation": ["Hurma ağacı"] },
+  {
+    "id": 397,
+    "arabic": "بَنَى  يَبْنِي  بِنَاءٌ  بُنْيَانٌ",
+    "translation": ["Bina etmek"]
+  },
+  {
+    "id": 398,
+    "arabic": "ثَبَتَ  يَثْبُتُ  ثُبُوتٌ",
+    "translation": ["Hareketsiz bir biçimde durmak"]
+  },
+  {
+    "id": 399,
+    "arabic": "ثَقُلَ  يَثْقُلُ  ثِقَلٌ",
+    "translation": ["Ağır olmak"]
+  },
+  {
+    "id": 400,
+    "arabic": "رَشَدَ  يَرْشُدُ  رُشْدٌ  رَشَادٌ",
+    "translation": ["Doğru yolu bulmak"]
+  },
+  {
+    "id": 401,
+    "arabic": "سَعَرَ  يَسْعَرُ  سَعْرٌ",
+    "translation": ["Ateşi tutuşturmak"]
+  },
+  { "id": 402, "arabic": "إِنْسٌ", "translation": ["İnsanlık", " Beşeriyet"] },
+  {
+    "id": 403,
+    "arabic": "بَلَدٌ  ج  بِلاَدٌ",
+    "translation": ["Ülke ", "belde ", "bölge", " memleket", " vatan"]
+  },
+  { "id": 404, "arabic": "بِنْتٌ ، اِبْنَةٌ", "translation": ["Kız çocuğu"] },
+  {
+    "id": 405,
+    "arabic": "صَنَعَ  يَصْنَعُ  صُنْعٌ",
+    "translation": ["Yapmak", "yetiştirmek", "imal etmekvبَرَّ  يَبِرُّ  بَرٌّ"]
+  },
+  {
+    "id": 406,
+    "arabic": "فَطَرَ  يَفْطُرُ  فَطْرٌ",
+    "translation": ["Yarmak", "yaratmak", "", "بَرَّ  يَبِرُّ  بَرٌّ", ""]
+  },
+  {
+    "id": 407,
+    "arabic": "ثَابَ  يَثُوبُ  ثَوْبٌ",
+    "translation": ["Dönmek", "Ödüllendirmek"]
+  },
+  {
+    "id": 408,
+    "arabic": "بَرَّ يَبِرُّ بَرٌّ",
+    "translation": ["İyilik yapmak"]
+  },
+  {
+    "id": 409,
+    "arabic": "دَنَا  يَدْنُو  دُنُوٌّ",
+    "translation": ["Yaklaşmak ", "alçak olmak"]
+  },
+  {
+    "id": 410,
+    "arabic": "حَصُنَ  يَحْصُنُ  حَصَانَةٌ",
+    "translation": ["(Yer) Sağlam olmak", " (Kadın) iffetli olmak"]
+  },
+  {
+    "id": 411,
+    "arabic": "خَصَمَ  يَخْصِمُ  خَصْمٌ",
+    "translation": ["Çekişmek"]
+  },
+  { "id": 412, "arabic": "دَابَّةٌ", "translation": ["Hayvan"] },
+  {
+    "id": 413,
+    "arabic": "ذَكَرٌ  ج  ذُكُورٌ ، ذُكْرَانٌ",
+    "translation": ["Erkek"]
+  },
+  { "id": 414, "arabic": "رَأْسٌ  ج  رُؤُسٌ", "translation": ["Baş"] },
+  {
+    "id": 415,
+    "arabic": "عَاذَ  يَعُوذُ  عَوْذٌ",
+    "translation": ["Sığınmak"]
+  },
+  {
+    "id": 416,
+    "arabic": "أَنَابَ  يُنِيبُ  إِنَابَةٌ",
+    "translation": ["(Allah) Yönelmek"]
+  },
+  {
+    "id": 417,
+    "arabic": "فَصَلَ  يَفْصِلُ  فَصْلٌ",
+    "translation": ["Ayırt etmek", " kesin hüküm vermek"]
+  },
+  {
+    "id": 418,
+    "arabic": "فَكَرَ  يَفْكُرُ  فِكْرٌ",
+    "translation": ["Düşünmek"]
+  },
+  {
+    "id": 419,
+    "arabic": "مَنَعَ  يَمْنَعُ  مَنْعٌ",
+    "translation": ["Menetmek"]
+  },
+  {
+    "id": 420,
+    "arabic": "نَقَمَ  يَنْقِمُ  نَقْمٌ",
+    "translation": ["İntikam almak", " çekememek"]
+  },
+  {
+    "id": 421,
+    "arabic": "كَفَّرَ  يُكَفِّرُ  تَكْفِيرٌ",
+    "translation": ["(Günahları)Silmek"]
+  },
+  {
+    "id": 422,
+    "arabic": "مَكَّنَ  يُمَكِّنُ  تَمْكِينٌ",
+    "translation": ["Sabitlemek ", " yerleştitmek"]
+  },
+  { "id": 423, "arabic": "مَدِينَةٌ", "translation": ["Şehir"] },
+  { "id": 424, "arabic": "آبَ  يَؤُوبُ  إِيَابٌ", "translation": ["Dönmek"] },
+  {
+    "id": 425,
+    "arabic": "خَفَّ  يَخِفُّ  خِفَّةٌ",
+    "translation": ["Hafif olmak"]
+  },
+  {
+    "id": 426,
+    "arabic": "خَشَعَ  يَخْشَعُ  خُشُوعٌ",
+    "translation": ["Boyun eğmek"]
+  },
+  {
+    "id": 427,
+    "arabic": "تَرَبَّصَ  يَتَرَبَّصُ  تَرَبُّصٌ",
+    "translation": ["Beklemek", "Gözetlemek"]
+  },
+  { "id": 428, "arabic": "تَأْوِيلٌ", "translation": ["Yorumlama"] },
+  { "id": 429, "arabic": "تُرَابٌ", "translation": ["Toprak"] },
+  {
+    "id": 430,
+    "arabic": "جَنْبٌ ، جَانِبٌ",
+    "translation": ["Yan taraf", "Kenar"]
+  },
+  {
+    "id": 431,
+    "arabic": "شَرَقَ  يَشْرُقُ  شَرْقٌ",
+    "translation": ["(Güneş) Doğmak", "Parlamak"]
+  },
+  {
+    "id": 432,
+    "arabic": "صَرَفَ  يَصْرِفُ  صَرْفٌ",
+    "translation": ["Uzaklaştımak", "çevirmek"]
+  },
+  {
+    "id": 433,
+    "arabic": "فَرَضَ  يَفْرِضُ  فَرْضٌ",
+    "translation": ["Farz kılmak", "Takdir etmek"]
+  },
+  {
+    "id": 434,
+    "arabic": "مَهَدَ  يَمْهَدُ  مَهْدٌ",
+    "translation": ["(Yatak) Sermek", "hazırlamak"]
+  },
+  { "id": 435, "arabic": "مَنَّى  يُمَنِّي  تَمْنِيَةٌ –", "translation": [] },
+  { "id": 436, "arabic": "فُؤَادٌ", "translation": ["Kalp", "gönül"] },
+  { "id": 437, "arabic": "أَلْبَابٌ", "translation": ["Akıllar"] },
+  {
+    "id": 438,
+    "arabic": "خَانَ  يَخُونُ  خِيَانَةٌ",
+    "translation": ["İhanet etmek"]
+  },
+  {
+    "id": 439,
+    "arabic": "جَهَرَ  يَجْهَرُ  جَهْرٌ",
+    "translation": ["Açığa çıkarmak", "yüksek sesle konuşmak"]
+  },
+  {
+    "id": 440,
+    "arabic": "حَبِطَ  يَحْبَطُ  حَبْطٌ",
+    "translation": ["Boşa gitmek"]
+  },
+  {
+    "id": 441,
+    "arabic": "خَبُثَ  يَخْبُثُ  خُبْثٌ",
+    "translation": ["Kötü olmak"]
+  },
+  {
+    "id": 442,
+    "arabic": "سُنَّةٌ  ج  سُنَنٌ",
+    "translation": ["yol", " kanun"]
+  },
+  { "id": 443, "arabic": "كَالَ  يَكِيلُ  كَيْلٌ", "translation": ["Ölçmek"] },
+  {
+    "id": 444,
+    "arabic": "صَفَا  يَصْفُو  صَفْوٌ",
+    "translation": ["Saf ", " temiz olmak", " seçmek"]
+  },
+  {
+    "id": 445,
+    "arabic": "لَهَا  يَلْهُو  لَهْوٌ",
+    "translation": ["Oyun oynamak ", " eğlenmek"]
+  },
+  {
+    "id": 446,
+    "arabic": "عَتُدَ  يَعْتُدُ  عَتَادٌ",
+    "translation": ["Hazırlamak"]
+  },
+  {
+    "id": 447,
+    "arabic": "غَرَبَ  يَغْرُبُ  غُرُوبٌ",
+    "translation": ["(günes ) batmak"]
+  },
+  {
+    "id": 448,
+    "arabic": "نَفَرَ  يَنْفِرُ  نُفُورٌ",
+    "translation": ["Yollara düşmek", " (hayvan) ürküp kaçmak", "nefret etmek"]
+  },
+  {
+    "id": 449,
+    "arabic": "صَلَّى  يُصَلِّي  تَصْلِيَةٌ",
+    "translation": ["namaz kılmak"]
+  },
+  { "id": 450, "arabic": "شَكٌّ", "translation": ["Şüphe"] },
+  { "id": 451, "arabic": "عَظْمٌ  ج  عِظَامٌ", "translation": ["Kemik"] },
+  { "id": 452, "arabic": "مِلَّةٌ", "translation": ["Millet", "Din"] },
+  {
+    "id": 453,
+    "arabic": "بَدَأَ  يَبْدَأُ  بَدْءٌ",
+    "translation": ["Başlamak"]
+  },
+  {
+    "id": 454,
+    "arabic": "رَقَبَ  يَرْقُبُ  رَقْبٌ",
+    "translation": ["Gözetlemek", "Beklemek"]
+  },
+  {
+    "id": 455,
+    "arabic": "زَعَمَ  يَزْعَمُ  زَعْمٌ",
+    "translation": ["Sanmak"]
+  },
+  { "id": 456, "arabic": "حَرَجٌ", "translation": ["Zorluk"] },
+  { "id": 457, "arabic": "رِجْلٌ  ج  أَرْجُلٌ", "translation": ["Ayak"] },
+  {
+    "id": 458,
+    "arabic": "صَمَّ  يَصَمُّ  صَمٌّ",
+    "translation": ["Sağır olmak"]
+  },
+  {
+    "id": 459,
+    "arabic": "غَلَّ  يَغُلُّ  غَلٌّ",
+    "translation": ["Aldatmak", " boynunu kelepçelemek", "bağlanmak"]
+  },
+  {
+    "id": 460,
+    "arabic": "مَرَّ  يَمُرُّ  مُرُورٌ",
+    "translation": ["Geçmek", "uzanmak", " acı olmak"]
+  },
+  {
+    "id": 461,
+    "arabic": "شَاقَّ  يُشَاقُّ  شِقَاقٌ",
+    "translation": ["Muhalefet etmek"]
+  },
+  {
+    "id": 462,
+    "arabic": "طَلَقَ  يَطْلُقُ  طَلاَقٌ",
+    "translation": ["Boşanmak"]
+  },
+  {
+    "id": 463,
+    "arabic": "فَقُرَ  يَفْقُرُ  فَقْرٌ",
+    "translation": ["Fakir olmak"]
+  },
+  { "id": 464, "arabic": "فَاكِهَةٌ  ج  فَوَاكِهُ", "translation": ["Meyve "] },
+  { "id": 465, "arabic": "بَاعَ  يَبِيعُ  بَيْعٌ", "translation": ["Satmak"] },
+  {
+    "id": 466,
+    "arabic": "ثَوَى  يَثْوِي  ثَوَاءٌ",
+    "translation": ["İkamet etmek"]
+  },
+  {
+    "id": 467,
+    "arabic": "حَرَثَ يَحْرُثُ حَرْثٌ",
+    "translation": ["Toprağı sevmek"]
+  },
+  {
+    "id": 468,
+    "arabic": "رَجَمَ  يَرْجُمُ  رَجْمٌ",
+    "translation": ["Taşlamak"]
+  },
+  {
+    "id": 469,
+    "arabic": "رَكِبَ  يَرْكَبُ  رُكُوبٌ",
+    "translation": ["Binmek"]
+  },
+  {
+    "id": 470,
+    "arabic": "زَرَعَ  يَزْرَعُ  زِرَاعَةٌ",
+    "translation": ["(Ekin)Ekmek"]
+  },
+  { "id": 471, "arabic": "أُخْتٌ", "translation": ["Kız kardeş"] },
+  {
+    "id": 472,
+    "arabic": "صَامَ  يَصُومُ  صَوْمٌ  صِيَامٌ",
+    "translation": ["صَامَ  يَصُومُ  صَوْمٌ  صِيَامٌ"]
+  },
+  { "id": 473, "arabic": "لاَمَ  يَلُومُ  لَوْمٌ", "translation": ["Kınamak"] },
+  {
+    "id": 474,
+    "arabic": "أَعْلَنَ  يُعْلِنُ   إِعْلاَنٌ",
+    "translation": ["İlan etmek", " açığa vurmak"]
+  },
+  {
+    "id": 475,
+    "arabic": "وَصَفَ  يَصِفُ  وَصْفٌ",
+    "translation": ["Vasfetmek"]
+  },
+  {
+    "id": 476,
+    "arabic": "شَقَّ  يَشُقُّ  شَقٌّ  مَشَقَّةٌ",
+    "translation": ["Yarmak ", "zor olmak"]
+  },
+  {
+    "id": 477,
+    "arabic": "صَفَّ  يَصُفُّ  صَفٌّ",
+    "translation": ["Dizmek", "Saf tutmak"]
+  },
+  {
+    "id": 478,
+    "arabic": "شَهَا  يَشْهُو  شَهْوَةٌ",
+    "translation": ["Canı çekmek", " arzulamak"]
+  },
+  {
+    "id": 479,
+    "arabic": "فَدَى  يَفْدِي  فِدَاءٌ",
+    "translation": ["Fidye vermek"]
+  },
+  {
+    "id": 480,
+    "arabic": "اِطْمَأَنَّ  يَطْمَئِنُّ  اِطْمِئْنَانٌ",
+    "translation": ["Mutmain olmak"]
+  },
+  {
+    "id": 481,
+    "arabic": "صَغُرَ  يَصْغُرُ  صَغِيرٌ  صَغَارٌ",
+    "translation": ["Küçük olmak"]
+  },
+  {
+    "id": 482,
+    "arabic": "غَلُظَ  يَغْلُظُ  غِلْظَةٌ",
+    "translation": ["Katı olmak", "sert davranmak"]
+  },
+  {
+    "id": 483,
+    "arabic": "قَنَتَ  يَقْنُتُ  قُنُوتٌ",
+    "translation": ["İtaat etmek"]
+  },
+  {
+    "id": 484,
+    "arabic": "نَصَحَ  يَنْصُحُ  نَصِيحَةٌ",
+    "translation": ["Nasihat etmek ", "samimi olmak"]
+  },
+  { "id": 485, "arabic": "صَيْحَةٌ", "translation": ["Çığlık"] },
+  {
+    "id": 486,
+    "arabic": "عَشِيٌّ ،  عِشَاءٌ",
+    "translation": ["Akşam", "Yatsı"]
+  },
+  { "id": 487, "arabic": "غُلاَمٌ  ج  غِلْمَانٌ", "translation": ["Çocuk"] },
+  { "id": 488, "arabic": "فَاهٌ  ج  أَفْوَاهٌ", "translation": ["Ağız"] },
+  { "id": 489, "arabic": "نَجْمٌ  ج  نُجُومٌ", "translation": ["Yıldız"] },
+  {
+    "id": 490,
+    "arabic": "رَأَفَ  يَرْأَفُ  رَأْفَةٌ",
+    "translation": ["Şefkat göstermek"]
+  },
+  {
+    "id": 491,
+    "arabic": "أَبَى  يَأْبَى  إِبَاءَةٌ",
+    "translation": ["Yüz çevirmek"]
+  },
+  {
+    "id": 492,
+    "arabic": "حَلَفَ  يَحْلِفُ  حَلْفٌ",
+    "translation": ["Yemin etmek"]
+  },
+  {
+    "id": 493,
+    "arabic": "خَزَنَ  يَخْزُنُ  خَزْنٌ",
+    "translation": ["Saklamak"]
+  },
+  {
+    "id": 494,
+    "arabic": "رَكَعَ  يَرْكَعُ  رُكُوعٌ",
+    "translation": ["Rükü etmek", "eğilmek"]
+  },
+  { "id": 495, "arabic": "أَثَرٌ  ج  آثَارٌ", "translation": ["İz"] },
+  { "id": 496, "arabic": "بَرٌّ", "translation": ["Kara parçası"] },
+  {
+    "id": 497,
+    "arabic": "ضَاقَ  يَضِيقُ  ضَيْقٌ",
+    "translation": ["Daralmak"]
+  },
+  {
+    "id": 498,
+    "arabic": "أَعْطَى  يُعْطِي  إِعْطَاءٌ",
+    "translation": ["Vermek", "iyilik etmek"]
+  },
+  {
+    "id": 499,
+    "arabic": "وَقَتَ  يَقِتُ  وَقْتٌ",
+    "translation": ["Vakit belirlemek"]
+  },
+  { "id": 500, "arabic": "وَلَجَ  يَلِجُ  وُلُوجٌ", "translation": ["Girmek"] },
+  {
+    "id": 501,
+    "arabic": "يَئِسَ  يَيْأَسُ  يَأْسٌ",
+    "translation": ["Ümit kesmek"]
+  },
+  {
+    "id": 502,
+    "arabic": "كَنَّ  يَكِنُّ  كَنٌّ",
+    "translation": ["Saklamak", "örtmek"]
+  },
+  {
+    "id": 503,
+    "arabic": "شَقِيَ  يَشْقَى  شَقَاءٌ",
+    "translation": ["Kötü durumda olmak"]
+  },
+  {
+    "id": 504,
+    "arabic": "طَمِعَ  يَطْمَعُ  طَمَعٌ",
+    "translation": ["Aşırı istekli olmak"]
+  },
+  {
+    "id": 505,
+    "arabic": "عَذَرَ  يَعْذِرُ  عُذْرٌ  مَعْذِرَةٌ",
+    "translation": ["Özrü kabul etmek"]
+  },
+  {
+    "id": 506,
+    "arabic": "عَرَضَ  يَعْرِضُ  عَرْضٌ",
+    "translation": ["Arz etmek ", "sunmak"]
+  },
+  {
+    "id": 507,
+    "arabic": "عَسَرَ  يَعْسُرُ  عَسْرٌ",
+    "translation": ["Zor ve sıkıntılı olmak"]
+  },
+  {
+    "id": 508,
+    "arabic": "مَطَرَ  يَمْطُرُ  مَطَرٌ",
+    "translation": ["Yağmur yağmak"]
+  },
+  {
+    "id": 509,
+    "arabic": "نَبَذَ  يَنْبِذُ  نَبْذٌ",
+    "translation": ["Atmak", " uzaklaştırmak"]
+  },
+  {
+    "id": 510,
+    "arabic": "نَطَقَ  يَنْطِقُ  مَنْطِقٌ",
+    "translation": ["Konuşmak"]
+  },
+  {
+    "id": 511,
+    "arabic": "شَبَّهَ  يُشَبِّهُ  تَشْبِيهٌ",
+    "translation": ["Benzetmek"]
+  },
+  {
+    "id": 512,
+    "arabic": "صَرَّفَ  يُصَرِّفُ  تَصْرِيفٌ",
+    "translation": ["Açıklamak", "Yönlendirmek"]
+  },
+  { "id": 513, "arabic": "طِينٌ", "translation": ["Çamur"] },
+  { "id": 514, "arabic": "لَحْمٌ  ج  لُحٌومٌ", "translation": ["ET"] },
+  { "id": 515, "arabic": "نُطْفَةٌ", "translation": ["Meni"] },
+  {
+    "id": 516,
+    "arabic": "خَاضَ  يَخُوضُ  خَوْضٌ",
+    "translation": ["(Suya)Dalmak"]
+  },
+  {
+    "id": 517,
+    "arabic": "أَدْرَكَ  يُدْرِكُ  إِدْرَاكٌ",
+    "translation": ["Yetişmek kavuşmak anlamında"]
+  },
+  {
+    "id": 518,
+    "arabic": "حَرَّ  يَحُرُّ  حَرٌّ",
+    "translation": ["Sıcak olmak ", "Hür olmak"]
+  },
+  {
+    "id": 519,
+    "arabic": "خَرَّ  يَخِرُّ  خُرُورٌ",
+    "translation": ["Yere kapaklanmak", "Secde etmek"]
+  },
+  {
+    "id": 520,
+    "arabic": "بَخِلَ  يَبْخَلُ  بُخْلٌ",
+    "translation": ["Cimrilik etmek"]
+  },
+  {
+    "id": 521,
+    "arabic": "جَحَدَ  يَجْحَدُ  جُحُودٌ",
+    "translation": ["İnkar etmek"]
+  },
+  {
+    "id": 522,
+    "arabic": "جَنَبَ  يَجْنُبُ  جُنْبٌ",
+    "translation": ["Uzak olmak"]
+  },
+  {
+    "id": 523,
+    "arabic": "سَجَنَ  يَسْجُنُ  سِجْنٌ",
+    "translation": ["Hapsetmek"]
+  },
+  {
+    "id": 524,
+    "arabic": "سَلَكَ  يَسْلُكُ  سُلُوكٌ",
+    "translation": ["Yolda gitmek"]
+  },
+  {
+    "id": 525,
+    "arabic": "سَلَّمَ  يُسَلِّمُ  تَسْلِيمٌ",
+    "translation": ["Selam vermek", " Kurtarmak"]
+  },
+  { "id": 526, "arabic": "حَجَرٌ  ج  حِجَارَةٌ", "translation": ["TAŞ "] },
+  { "id": 527, "arabic": "حَنِيفٌ", "translation": ["Tevhid dini"] },
+  {
+    "id": 528,
+    "arabic": "نَالَ  يَنَالُ  نَيْلٌ",
+    "translation": ["Elde etmek"]
+  },
+  {
+    "id": 529,
+    "arabic": "أَقْرَضَ  يُقْرِضُ  إِقْرَاضٌ",
+    "translation": ["Borç vermek"]
+  },
+  {
+    "id": 530,
+    "arabic": "تَوَكَّأَ  يَتَوَكَّأُ  تَوَكُّؤٌ–",
+    "translation": []
+  },
+  { "id": 531, "arabic": "", "translation": [""] },
+  { "id": 532, "arabic": "وَقَدَ  يَقِدُ  وُقُودٌ", "translation": ["Yanmak"] },
+  {
+    "id": 533,
+    "arabic": "أَرْحَامٌ",
+    "translation": ["Rahimler", "Akrabalar"]
+  },
+  {
+    "id": 534,
+    "arabic": "غَاظَ  يَغِيظُ  غَيْظٌ",
+    "translation": ["Kızdırmak"]
+  },
+  {
+    "id": 535,
+    "arabic": "هَادَ  يَهُودُ  هَوْدٌ",
+    "translation": ["Tövbe etmek yahudiliği kabul etmek"]
+  },
+  {
+    "id": 536,
+    "arabic": "أَفْتَى  يُفْتِي  إِفْتَاءٌ",
+    "translation": ["Fetva vermek ", "Açıklamak"]
+  },
+  {
+    "id": 537,
+    "arabic": "اِنْتَصَرَ  يَنْتَصِرُ  اِنْتِصَارٌ",
+    "translation": ["İntikam almak ", "Galip gelmek"]
+  },
+  { "id": 538, "arabic": "فَرَّ  يَفِرُّ  فِرَارٌ", "translation": ["Kaçmak"] },
+  {
+    "id": 539,
+    "arabic": "لَغَا  يَلْغُو  لَغْوٌ",
+    "translation": ["Saçmalamak", "Boş konuşmak"]
+  },
+  {
+    "id": 540,
+    "arabic": "صَعِقَ  يَصْعَقٌ  صَعَقٌ",
+    "translation": ["Yıldırım çarpmak", " Bayılmak"]
+  },
+  {
+    "id": 541,
+    "arabic": "طَبَعَ  يَطْبَعُ  طَبْعٌ",
+    "translation": ["Mühürlemek"]
+  },
+  {
+    "id": 542,
+    "arabic": "ضِعْفٌ  ج  أَضْعَافٌ",
+    "translation": ["Kat", "Misil"]
+  },
+  {
+    "id": 543,
+    "arabic": "عَدْنٌ",
+    "translation": ["Yerleşmek", " Sükünet bulmak"]
+  },
+  { "id": 544, "arabic": "عَرَبِيٌّ", "translation": ["Arapça"] },
+  { "id": 545, "arabic": "عِنَبٌ", "translation": ["Üzüm"] },
+  { "id": 546, "arabic": "فِئَةٌ", "translation": ["Birlik", "Fırka"] },
+  { "id": 547, "arabic": "مَرْءٌ  ،  إِمْرُؤٌ", "translation": ["Adam"] },
+  {
+    "id": 548,
+    "arabic": "شِيَعٌ  ،  أَشْيَاعٌ",
+    "translation": ["Hizipler", "Gruplar", "Taraftarlar"]
+  },
+  {
+    "id": 549,
+    "arabic": "أَحْصَى  يُحْصِي  إِحْصَاءٌ",
+    "translation": ["Saymak"]
+  },
+  {
+    "id": 550,
+    "arabic": "خَطَبَ  يَخْطُبُ  خُطْبَةٌ",
+    "translation": ["Hitap etmek "]
+  },
+  {
+    "id": 551,
+    "arabic": "رَضَعَ  يَرْضَعُ  رَضَاعَةٌ",
+    "translation": ["Emmek"]
+  },
+  {
+    "id": 552,
+    "arabic": "سَفِهَ  يَسْفَهُ  سَفَاهَةٌ",
+    "translation": ["Sefih olmak"]
+  },
+  { "id": 553, "arabic": "ثَمَنٌ", "translation": ["Paha", "değer"] },
+  { "id": 554, "arabic": "حَبٌّ", "translation": ["Tohum"] },
+  { "id": 555, "arabic": "دَمٌ  ج  دِمَاءٌ", "translation": ["KAN"] },
+  {
+    "id": 556,
+    "arabic": "رِجْزٌ ،  رُجْزٌ",
+    "translation": ["Azap", "Pislik"]
+  },
+  {
+    "id": 557,
+    "arabic": "رِجْسٌ",
+    "translation": ["(maddi ve manevi) Pislik"]
+  },
+  { "id": 558, "arabic": "سَحَابٌ", "translation": ["Bulut"] },
+  {
+    "id": 559,
+    "arabic": "عَانَ  يَعُونُ  عَوْنٌ",
+    "translation": ["Yardım etmek"]
+  },
+  {
+    "id": 560,
+    "arabic": "أَشْفَقَ  يُشْفِقُ  إِشْفَاقٌ",
+    "translation": ["Çekinmek", "acımak"]
+  },
+  {
+    "id": 561,
+    "arabic": "أَضَاعَ  يُضِيعُ  إِضَاعَةٌ",
+    "translation": ["zayi etmek"]
+  },
+  {
+    "id": 562,
+    "arabic": "أَمْلَى  يُمْلِي  إِمْلاَءٌ",
+    "translation": ["Mühlet vermek", " yazdırmak"]
+  },
+  {
+    "id": 563,
+    "arabic": "مَلَأَ  يَمْلَأُ  مَلْءٌ",
+    "translation": ["(kap vs) Doldurmak"]
+  },
+  {
+    "id": 564,
+    "arabic": "وَصَلَ  يَصِلُ  وُصْلَةٌ",
+    "translation": ["Varmak", "ulaşmak"]
+  },
+  {
+    "id": 565,
+    "arabic": "وَقَرَ  يَقِرُ  وَقَارٌ",
+    "translation": ["Sağır olmak", "ağır olmak"]
+  },
+  {
+    "id": 566,
+    "arabic": "ضَاعَفَ  يُضَاعِفُ  مُضَاعَفَةٌ",
+    "translation": ["Katlanmak (artmak anlamında)"]
+  },
+  {
+    "id": 567,
+    "arabic": "ظَاهَرَ  يُظَاهِرُ  مُظَاهَرَةٌ",
+    "translation": [
+      "Yardım etmek hanımına zıhar yapmak ( sen bana anam gibisin demek)"
+    ]
+  },
+  { "id": 568, "arabic": "صُورٌ", "translation": ["Borazan"] },
+  { "id": 569, "arabic": "أَعْرَابٌ", "translation": ["Bedeviler"] },
+  {
+    "id": 570,
+    "arabic": "حَاقَ  يَحِيقُ  حَيْقٌ",
+    "translation": ["Kuşatmak"]
+  },
+  {
+    "id": 571,
+    "arabic": "اِجْتَبَى  يَجْتَبِي  اِجْتِبَاءٌ",
+    "translation": [" Seçmek"]
+  },
+  {
+    "id": 572,
+    "arabic": "اِسْتَحْيَا  يَسْتَحْيِي  اِسْتِحْيَاءٌ",
+    "translation": ["Utanmak", " hayatını bağışlamak"]
+  },
+  {
+    "id": 573,
+    "arabic": "رَبَا  يَرْبُو  رَبْوٌ",
+    "translation": ["Artmak", " büyümek"]
+  },
+  {
+    "id": 574,
+    "arabic": "رَعَا  يَرْعَى  رِعَايَةٌ",
+    "translation": ["Otlatmak", " gözetmek"]
+  },
+  {
+    "id": 575,
+    "arabic": "بَطَشَ  يَبْطِشُ  بَطْشٌ",
+    "translation": ["Sıkıca tutmak"]
+  },
+  {
+    "id": 576,
+    "arabic": "دَفَعَ  يَدْفَعُ  دَفْعٌ",
+    "translation": ["İtmek", " defetmek"]
+  },
+  {
+    "id": 577,
+    "arabic": "سَفُلَ  يَسْفُلُ  سَفَالَةٌ",
+    "translation": ["Alçak", " sefil olmak"]
+  },
+  {
+    "id": 578,
+    "arabic": "دَمَّرَ  يُدَمِّرُ  تَدْمِيرٌ",
+    "translation": ["Yok etmek"]
+  },
+  { "id": 579, "arabic": "جِنَّةٌ", "translation": ["CİN", "Cinnet"] },
+  {
+    "id": 580,
+    "arabic": "عَتَا  يَعْتُو  عُتُوٌّ",
+    "translation": ["Haddi aşmak"]
+  },
+  {
+    "id": 581,
+    "arabic": "ضَحِكَ  يَضْحَكُ  ضِحْكٌ",
+    "translation": ["Gülmek"]
+  },
+  {
+    "id": 582,
+    "arabic": "عَزَلَ  يَعْزِلُ  عَزْلٌ",
+    "translation": ["(Bir şeyi diğerinden) ayırmak"]
+  },
+  {
+    "id": 583,
+    "arabic": "قَدُسَ  يَقْدُسُ  قَدَاسَةٌ",
+    "translation": ["Temiz ", " kutsal olmak"]
+  },
+  {
+    "id": 584,
+    "arabic": "قَهَرَ  يَقْهَرُ  قَهْرٌ",
+    "translation": ["Hezimete uğratmak"]
+  },
+  {
+    "id": 585,
+    "arabic": "نَقَصَ  يَنْقُصُ  نَقْصٌ",
+    "translation": ["Eksiltmek"]
+  },
+  { "id": 586, "arabic": "عِجْلٌ", "translation": ["Buzağı", " dana"] },
+  { "id": 587, "arabic": "شِمَالٌ", "translation": ["Sol"] },
+  {
+    "id": 588,
+    "arabic": "فَتًى ج  فِتْيَةٌ ، فِتْيَانٌ",
+    "translation": ["Genç"]
+  },
+  { "id": 589, "arabic": "لَغْوٌ ، لاَغِيَةٌ", "translation": ["Boş söz"] },
+  {
+    "id": 590,
+    "arabic": "دَامَ  يَدُومُ  دَوَامٌ",
+    "translation": ["Devam etmek"]
+  },
+  { "id": 591, "arabic": "زَاغَ  يَزِيغُ  زَيْغٌ", "translation": ["Sapmak"] },
+  {
+    "id": 592,
+    "arabic": "سَاقَ  يَسُوقُ  سَوْقٌ",
+    "translation": ["(Hayvan v.b.) Sürmek"]
+  },
+  {
+    "id": 593,
+    "arabic": "حَلِيَ  يَحْلَى  حَلْيٌ",
+    "translation": ["Süslenmek", " tatlı olmak"]
+  },
+  {
+    "id": 594,
+    "arabic": "رَمَى  يَرْمِي  رَمْيٌ",
+    "translation": ["İftira atmak", " atmak"]
+  },
+  {
+    "id": 595,
+    "arabic": "زَنَى  يَزْنِي  زِنَاءٌ",
+    "translation": ["Zina etmek"]
+  },
+  {
+    "id": 596,
+    "arabic": "بَرَزَ  يَبْرُزُ  بُرُوزٌ",
+    "translation": ["Ortaya çıkmak"]
+  },
+  {
+    "id": 597,
+    "arabic": "بُكْرَةٌ ",
+    "translation": [" إِبْكَارٌ", "Sabahleyin"]
+  },
+  {
+    "id": 598,
+    "arabic": "حَرَقَ  يَحْرُقُ  حَرْقٌ",
+    "translation": ["Yakmak"]
+  },
+  {
+    "id": 599,
+    "arabic": "ذَبَحَ  يَذْبَحُ  ذَبْحٌ",
+    "translation": ["Boğazlamak"]
+  },
+  {
+    "id": 600,
+    "arabic": "زَلَفَ  يَزْلُفُ  زَلْفٌ",
+    "translation": ["Yaklaştırmak"]
+  },
+  {
+    "id": 601,
+    "arabic": "سَرَقَ  يَسْرِقُ  سَرِقَةٌ",
+    "translation": ["Hırsızlık yapmak", " çalmak"]
+  },
+  {
+    "id": 602,
+    "arabic": "تَبَارَكَ  يَتَبَارَكُ  تَبَارُكٌ",
+    "translation": ["yüce olmak"]
+  },
+  {
+    "id": 603,
+    "arabic": "أَيَّدَ  يُؤَيِّدُ  تَأْيِيدٌ",
+    "translation": ["Desteklemek"]
+  },
+  { "id": 604, "arabic": "بَقَرٌ ، بَقَرَةٌ", "translation": ["İnek"] },
+  { "id": 605, "arabic": "حَسْرَةٌ", "translation": ["Üzüntü", "keder"] },
+  {
+    "id": 606,
+    "arabic": "رَقَبَةٌ  ج  رِقَابٌ",
+    "translation": ["Köle", "boyun"]
+  },
+  { "id": 607, "arabic": "جُلُودٌ", "translation": ["Deriler"] },
+  { "id": 608, "arabic": "رَوَاسٍ", "translation": ["Dağlar"] },
+  { "id": 609, "arabic": "أَسَاطِيرُ", "translation": ["Hurafeler"] },
+  {
+    "id": 610,
+    "arabic": "فَاضَ  يَفِيضُ  فَيْضٌ",
+    "translation": ["(su vs ) Taşmak", " yönelmek"]
+  },
+  {
+    "id": 611,
+    "arabic": "نَامَ  يَنَامُ  نَوْمٌ  مَنَامٌ",
+    "translation": ["Uyumak"]
+  },
+  {
+    "id": 612,
+    "arabic": "اِطَّلَعَ  يَطَّلِعُ  اِطِّلاَعٌ",
+    "translation": ["İyice bilmek ", "vakıf olmak"]
+  },
+  {
+    "id": 613,
+    "arabic": "اِنْطَلَقَ  يَنْطَلِقُ  اِنْطِلاَقٌ",
+    "translation": ["Gitmek "]
+  },
+  {
+    "id": 614,
+    "arabic": "وَهَنَ  يَهِنُ  وَهْنٌ",
+    "translation": ["Zayıf ", "bitkin düşmek"]
+  },
+  {
+    "id": 615,
+    "arabic": "هَمَّ  يَهُمُّ  هَمٌّ",
+    "translation": ["Yapmaya niyetlenmek"]
+  },
+  {
+    "id": 616,
+    "arabic": "عَرَجَ  يَعْرُجُ  عَرَجٌ",
+    "translation": ["Topalamak( Ğöğe) Yükselmek"]
+  },
+  {
+    "id": 617,
+    "arabic": "عَزَمَ  يَعْزِمُ  عَزْمٌ",
+    "translation": ["Azmetmek"]
+  },
+  {
+    "id": 618,
+    "arabic": "عَكَفَ  يَعْكُفُ  عَكْفٌ",
+    "translation": ["Kalkmak ", "ibadet etmek"]
+  },
+  {
+    "id": 619,
+    "arabic": "فَرَجَ  يَفْرِجُ  فَرْجٌ",
+    "translation": ["Yarmak"]
+  },
+  {
+    "id": 620,
+    "arabic": "قَبَضَ  يَقْبِضُ  قَبْضٌ",
+    "translation": ["El ile avuçlamak", "yummak", "daraltmak"]
+  },
+  {
+    "id": 621,
+    "arabic": "قَذَفَ  يَقْذِفُ  قَذْفٌ",
+    "translation": ["Fırlatmak"]
+  },
+  {
+    "id": 622,
+    "arabic": "نَقَضَ  يَنْقُضُ  نَقْضٌ",
+    "translation": ["Bozmak", "yıkmak"]
+  },
+  { "id": 623, "arabic": "ضَرَّاءُ", "translation": ["Darlık"] }
+]
