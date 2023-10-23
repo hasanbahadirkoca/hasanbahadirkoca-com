@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>Kelime Seçimi - Hâfız TheHBK</title>
     <link rel="stylesheet" href="../assets/css/panel.css">
 </head>
+
 <body>
     <div class="container">
         <input type="number" id="start" min="300" max="600" placeholder="Başlangıç Sayısı">
@@ -12,18 +14,18 @@
         <input type="number" id="end" min="300" max="600" placeholder="Bitiş Sayısı">
         <br>
         <div class="shortcut-buttons">
-            <!-- <button onclick="setRange(0, 75)">0-75</button>
-            <button onclick="setRange(76, 150)">76-150</button>
-            <button onclick="setRange(151, 225)">151-225</button>
-            <button onclick="setRange(226, 300)">226-300</button> -->
-            <button onclick="setRange(300, 375)">300-375</button>
-            <button onclick="setRange(376, 450)">376-450</button>
-            <button onclick="setRange(451, 525)">451-525</button>
-            <button onclick="setRange(526, 600)">526-600</button>
+            <button onclick="setRange(0, 300)">1.Üçyüz</button>
+            <button onclick="setRange(301, 600)">2.Üçyüz</button>
+            <button onclick="setRange(601, 900)">3.Üçyüz</button>
+            <button onclick="setRange(901, 1200)">4.Üçyüz</button>
+            <button onclick="setRange(1201, 1500)">5.Üçyüz</button>
+            <button onclick="setRange(1501, 1800)">6.Üçyüz</button>
+            <button onclick="setRange(1801, 1980)">7.Yüzkırk</button>
         </div>
         <button id="viewButton" onclick="viewValues()">Görüntüle</button>
         <p id="output"></p>
     </div>
     <script src="../assets/js/panel.js"></script>
 </body>
+
 </html>

@@ -51,7 +51,7 @@ td:last-child {
 /* Özel Arapça fontu */
 @font-face {
   font-family: "CustomArabic";
-  src: url("assets/fonts/arabic.ttf") format("truetype");
+  src: url("../../fonts/arabic.ttf") format("truetype");
 }
 
 /* Tablo başlığı ve geri butonu için stil */
