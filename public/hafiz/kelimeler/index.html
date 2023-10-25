@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kelimeler | TheHBK Hâfız</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../assets/styles/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+    <!-- Filtrele Modal -->
+    <div class="modal fade" id="filterModal" tabindex="-1" role="dialog" aria-labelledby="filterModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="filterModalLabel">Filtrele</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Kapat">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="filterForm">
+                        <div class="form-group">
+                            <label for="startWord">Başlangıç Kelimesi:</label>
+                            <input type="number" class="form-control" id="startWord" min="0" max="1980" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="endWord">Bitiş Kelimesi:</label>
+                            <input type="number" class="form-control" id="endWord" min="0" max="1980" required>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="applyFilter">Görüntüle</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    <table class="table table-bordered table-responsive-md">
+        <thead>
+            <tr>
+                <th>KN</th>
+                <th>Arapça</th>
+                <th>Türkçe</th>
+            </tr>
+        </thead>
+        <tbody id="data-table">
+            <!-- Veriler buraya JS ile eklenecek -->
+        </tbody>
+    </table>
+
+    <!-- Sayfanın altında yer alacak Bottom Navigation Bar -->
+    <div class="navbar fixed-bottom navbar-light bg-light">
+        <button class="btn btn-primary" id="filterButton">Filtrele</button>
+        <span class="ml-auto">TheHBK Hâfız Kelimeler</span>
+    </div>
+
+
+    <script src="../assets/js/script.js"></script>
+
+</body>
+
+</html>
