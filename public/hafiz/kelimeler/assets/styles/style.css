@@ -24,7 +24,7 @@ th {
 /* Arapça Font Stili */
 @font-face {
   font-family: "arabic";
-  src: url("../../fonts/arabic.ttf") format("truetype");
+  src: url("https://hasanbahadirkoca.com/hafiz/kelimeler/assets/fonts/arabic.ttf") format("truetype");
 }
 
 /* Arapça sütunu için font ve boyut ayarlamaları */

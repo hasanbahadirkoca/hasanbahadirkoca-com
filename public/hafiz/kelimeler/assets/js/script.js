@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Şu an oynatılan sesi depolamak için bir değişken oluşturun
   let currentAudio = null;
 
-  fetch("../assets/json/data.json")
+  fetch("https://hasanbahadirkoca.com/hafiz/kelimeler/assets/json/data.json")
     .then((response) => response.json())
     .then((data) => {
       // Eğer id parametresi varsa, id parametresine göre veriyi getirin
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
       document.querySelectorAll(".play-audio").forEach((element) => {
         element.addEventListener("click", function () {
           const audioId = this.getAttribute("data-id");
-          const audioPath = `../assets/ps/${audioId}.mp3`;
+          const audioPath = `https://hasanbahadirkoca.com/hafiz/kelimeler/assets/ps/${audioId}.mp3`;
 
           // Eğer bir ses zaten oynatılıyorsa ve tıklanan ses şu an oynatılan ses değilse, oynatılan sesi durdurun
           if (currentAudio && currentAudio.src !== audioPath) {
