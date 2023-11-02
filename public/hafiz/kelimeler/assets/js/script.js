@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   // Urlden id parametresini alın
   const urlParams = new URLSearchParams(window.location.search);
-  const id = urlParams.get("id");
+  const id = urlParams.get("id") || "1-1980";
 
   const startParam = id.split("-")[0];
   const endParam = id.split("-")[1];
