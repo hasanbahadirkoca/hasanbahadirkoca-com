@@ -1,0 +1,32 @@
+/* Light mode */
+body {
+  background-color: white;
+  color: black;
+}
+
+@font-face {
+  font-family: "Arabic";
+  src: url("https://hasanbahadirkoca.com/hafiz/kelimeler/assets/fonts/arabic.ttf");
+}
+
+#wordId {
+  font-size: 1.5em;
+}
+
+#wordArea {
+  font-family: "Arabic";
+  font-size: 6em;
+}
+
+.input-group {
+  max-width: 400px;
+  margin: auto;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #ffffff;
+  }
+}

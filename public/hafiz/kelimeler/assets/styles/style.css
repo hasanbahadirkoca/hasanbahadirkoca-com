@@ -76,6 +76,9 @@ td:nth-child(3) {
     opacity: 0;
     font-size: 0;
   }
+  #bottomBar {
+    display: none;
+  }
 }
 
 /* Bottom Navigation Bar için stil */

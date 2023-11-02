@@ -3,6 +3,14 @@ document.addEventListener("DOMContentLoaded", function () {
   const urlParams = new URLSearchParams(window.location.search);
   const id = urlParams.get("id");
 
+  const startParam = id.split("-")[0];
+  const endParam = id.split("-")[1];
+
+  // Model içindeki inputlara parametreleri yazın
+  document.getElementById("startWord").value = startParam;
+  document.getElementById("endWord").value = endParam;
+  
+
   // Şu an oynatılan sesi depolamak için bir değişken oluşturun
   let currentAudio = null;
 
@@ -106,4 +114,12 @@ document.addEventListener("DOMContentLoaded", function () {
     const endWord = document.getElementById("endWord").value;
     window.location.href = `?id=${startWord}-${endWord}`;
   }
+});
+
+
+// If quizButton is pressed, redirect to quiz page with start and stop parameters on inputs
+document.getElementById("quizButton").addEventListener("click", () => {
+  const startWord = document.getElementById("startWord").value;
+  const endWord = document.getElementById("endWord").value;
+  window.location.href = `https://hasanbahadirkoca.com/hafiz/kelimeler/test/?start=${startWord}&stop=${endWord}`;
 });
