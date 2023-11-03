@@ -5,6 +5,7 @@ let words = [];
 let currentWordIndex = 0;
 let correctCount = 0;
 let wrongCount = 0;
+let partialCount = 0;
 let totalCount = 0;
 
 // Sayfa yüklendiğinde
@@ -41,8 +42,10 @@ function promptWordCount() {
 // API'den veri çekip testi başlatan fonksiyon
 function fetchDataAndStartTest(stop, start = 1) {
   totalCount = stop - start + 1;
+  console.log("fetchDataAndStartTest", start, stop, totalCount);
   axios
     .get("https://hasanbahadirkoca.com/hafiz/kelimeler/assets/json/data.json")
+    /* .get("assets/json/data.json") */
     .then((response) => {
       words = response.data;
       words = shuffleArray(words.slice(start - 1, stop));
@@ -119,26 +122,25 @@ function checkWord() {
   let input = document.getElementById("translationInput").value;
   const translations = words[currentWordIndex].translation;
 
-  // Türkçe karakterleri normalize et ve küçük harfe çevir
   input = normalizeTurkish(input);
   input = toLowerCaseTurkish(input);
-
-  // Kullanıcının cevabını ',' ve '.' ile ayır
   const userAnswers = input.split(/[,.]/).map((str) => str.trim());
 
-  // Normalized ve küçültülmüş tercümeler
   const normalizedTranslations = translations.map((translation) => {
     return toLowerCaseTurkish(normalizeTurkish(translation));
   });
 
-  // Girilen cevap doğru mu, yanlış mı diye kontrol ediyoruz.
-  const isCorrect = userAnswers.some((answer) =>
+  const matchingAnswers = userAnswers.filter((answer) =>
     normalizedTranslations.includes(answer)
   );
 
-  if (isCorrect) {
+  if (matchingAnswers.length === normalizedTranslations.length) {
     correctCount++;
     showAlert("Doğru!");
+    nextWordOrFinishTest();
+  } else if (matchingAnswers.length > 0) {
+    partialCount++;
+    showAlert("Eksik! Doğru cevap: " + translations.join(", "), 3);
     nextWordOrFinishTest();
   } else {
     wrongCount++;
@@ -146,7 +148,6 @@ function checkWord() {
     nextWordOrFinishTest();
   }
 
-  // Kullanıcı girişini temizle.
   document.getElementById("translationInput").value = "";
 }
 
@@ -154,15 +155,13 @@ function checkWord() {
 function nextWordOrFinishTest() {
   currentWordIndex++;
   if (currentWordIndex >= totalCount) {
-    // Test bitti, sonuçları göster.
     alert(
-      `Test bitti! Doğru sayısı: ${correctCount}, Yanlış sayısı: ${wrongCount}`
+      `Test bitti! Doğru sayısı: ${correctCount}, Yanlış sayısı: ${wrongCount}, Eksik sayısı: ${partialCount}`
     );
-    // Burada testi sıfırlamak için ekstra bir fonksiyon da çağırabilirsiniz.
     return;
+  } else {
+    displayWord();
   }
-  // Yeni bir kelime göster.
-  displayWord();
 }
 
 // Ekranda bildirim gösteren fonksiyon
@@ -192,6 +191,10 @@ document
 
 // Geri tuşuna basınca kelimeler listesine dönen fonksiyon
 document.getElementById("backButton").addEventListener("click", function () {
-  const url = "https://hasanbahadirkoca.com/hafiz/kelimeler/?id=" + startParam + "-" + stopParam;
+  const url =
+    "https://hasanbahadirkoca.com/hafiz/kelimeler/?id=" +
+    startParam +
+    "-" +
+    stopParam;
   window.location.href = url;
 });
