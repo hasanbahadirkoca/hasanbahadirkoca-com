@@ -134,6 +134,10 @@ function checkWord() {
     normalizedTranslations.includes(answer)
   );
 
+  const unmatchedAnswers = userAnswers.filter(
+    (answer) => !normalizedTranslations.includes(answer)
+  );
+
   if (matchingAnswers.length === normalizedTranslations.length) {
     correctCount++;
     showAlert("Doğru!");
@@ -141,6 +145,7 @@ function checkWord() {
   } else if (matchingAnswers.length > 0) {
     partialCount++;
     showAlert("Eksik! Doğru cevap: " + translations.join(", "), 3);
+    console.log("Eksik! Doğru cevap: " + translations.join(", "), words[currentWordIndex].arabic, unmatchedAnswers);
     nextWordOrFinishTest();
   } else {
     wrongCount++;
