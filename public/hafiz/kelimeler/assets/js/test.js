@@ -145,6 +145,7 @@ function checkWord() {
   } else {
     wrongCount++;
     showAlert("Yanlış! Doğru cevap: " + translations.join(", "), 3);
+    console.log("Yanlış! Doğru cevap: " + translations.join(", "), words[currentWordIndex].arabic);
     nextWordOrFinishTest();
   }
 
